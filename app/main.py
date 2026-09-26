@@ -6,6 +6,7 @@ from typing import Any, Literal
 import joblib
 import pandas as pd
 from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
 
@@ -63,6 +64,13 @@ class PredictResponse(BaseModel):
 
 
 app = FastAPI(title="Fantasy Worlds Model Tester")
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://127.0.0.1:8502"],
+    allow_origin_regex=r"^https://[a-z0-9-]+\.streamlit\.app$",
+    allow_methods=["GET", "POST", "OPTIONS"],
+    allow_headers=["Content-Type"],
+)
 
 
 @lru_cache(maxsize=2)
