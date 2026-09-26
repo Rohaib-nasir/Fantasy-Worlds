@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#11100f">
+  <title>The Black Ledger | Fantasy Worlds</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <div class="page-grain" aria-hidden="true"></div>
+  <audio id="world-audio" preload="none" loop></audio>
+  <header class="topbar">
+    <a class="wordmark" href="#worlds" aria-label="The Black Ledger home">
+      <span class="wordmark-mark" aria-hidden="true">IV</span>
+      <span class="wordmark-title">THE BLACK <b>LEDGER</b><small>FIELD RECORD / FOUR REALMS</small></span>
+    </a>
+    <div class="topbar-tools">
+      <button class="music-toggle" id="music-toggle" type="button" aria-label="Mute background music" aria-pressed="false" title="Mute background music">
+        <span class="music-icon" id="music-icon" aria-hidden="true">♫</span>
+        <span id="music-label">Sound on</span>
+      </button>
+      <div class="connection"><span class="connection-dot"></span><span id="connection-label">Connecting to the oracle</span></div>
+    </div>
+  </header>
+
+  <main>
+    <section class="view home-view is-active" id="home-view" aria-labelledby="home-title">
+      <aside class="ledger-rail" aria-hidden="true">
+        <span class="rail-seal">IV</span>
+        <span class="rail-vertical">THE BLACK LEDGER</span>
+        <span class="rail-rule"></span>
+        <span class="rail-caption">FOUR<br>WORLDS</span>
+      </aside>
+      <div class="ledger-page">
+        <header class="home-intro">
+          <p class="eyebrow"><span></span> INDEX OF KNOWN REALMS</p>
+          <div class="home-title-row"><span class="folio-number">VOL. IV<br>ENTRY 00</span><h1 id="home-title">The Black<br><em>Ledger</em></h1></div>
+          <p class="intro-copy">Four realms recorded. Countless lives within them.<br>Choose an entry to consult the record.</p>
+        </header>
+        <div class="world-grid" id="world-grid" aria-live="polite">
+          <div class="world-loading">Opening the ledger<span class="loading-dots">...</span></div>
+        </div>
+        <footer class="home-footer"><span>ARCHIVE / 04 REALMS</span><span>CONSULTATION BEGINS HERE</span><span>END OF INDEX</span></footer>
+      </div>
+    </section>
+
+    <section class="view realm-view" id="realm-view" aria-labelledby="realm-title" aria-hidden="true">
+      <aside class="ledger-rail realm-rail">
+        <button class="back-button" id="back-button" type="button" aria-label="Back to worlds"><span aria-hidden="true">←</span><b>INDEX</b></button>
+        <span class="rail-vertical">RETURN TO THE LEDGER</span>
+        <span class="rail-rule"></span>
+        <span class="rail-seal" aria-hidden="true">IV</span>
+      </aside>
+      <div class="ledger-page realm-page">
+        <header class="realm-heading">
+          <div class="realm-heading-top"><p class="eyebrow" id="realm-kicker">REALM RECORD</p><span class="folio-number">CHARACTER ARCHIVE / 04</span></div>
+          <div class="realm-heading-main">
+            <div class="realm-icon" id="realm-icon" aria-hidden="true"></div>
+            <div class="realm-title-block"><h1 id="realm-title"></h1><p class="realm-intro" id="realm-intro">Choose a question, then shape the details.</p></div>
+          </div>
+        </header>
+
+        <div class="oracle-layout">
+          <section class="oracle-form-panel" aria-labelledby="predict-heading">
+            <div class="panel-heading">
+              <div><p class="eyebrow">CONSULTATION / FIELD INPUT</p><h2 id="predict-heading">Record the known details.</h2></div>
+              <span class="step-index">FORM <i>/ 01</i></span>
+            </div>
+            <label class="field-label" for="target-select">Requested record</label>
+            <select id="target-select" class="target-select" disabled>
+              <option>Loading predictions...</option>
+            </select>
+            <p class="target-kind" id="target-kind"></p>
+            <div class="input-divider"><span>CHARACTER DETAILS</span><span id="feature-count"></span></div>
+            <div class="input-grid" id="input-grid"></div>
+            <p class="form-error" id="form-error" role="alert" hidden></p>
+            <button class="predict-button" id="predict-button" type="button" disabled>
+              <span>Strike the record</span><span class="button-arrow" aria-hidden="true">↗</span>
+            </button>
+            <p class="form-footnote">The recorded answer is a model prediction, not a certainty.</p>
+          </section>
+
+          <aside class="result-panel" id="result-panel" aria-live="polite" aria-atomic="true">
+            <div class="verdict-head"><span>VERDICT / <b>01</b></span><span class="verdict-mark" aria-hidden="true">✦</span></div>
+            <p class="eyebrow">THE RECORD SPEAKS</p>
+            <div class="result-content" id="result-content">
+              <h2>Awaiting<br>the record.</h2>
+              <p>Choose a field and enter the details to reveal a prediction.</p>
+            </div>
+            <div class="verdict-rule"><span></span><span>SEALED</span><span></span></div>
+            <p class="result-world" id="result-world">THE BLACK LEDGER / FOUR REALMS</p>
+            <span class="verdict-corner" aria-hidden="true">IV</span>
+          </aside>
+        </div>
+        <footer class="realm-footer"><span>THE BLACK LEDGER</span><span id="realm-footer-name"></span><span>ENTRY SEALED</span></footer>
+      </div>
+    </section>
+  </main>
+</body>
+</html>

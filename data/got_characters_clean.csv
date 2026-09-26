@@ -1,0 +1,1947 @@
+book1,book2,book3,book4,book5,numDeadRelations,boolDeadRelations,culture,house,title,isAlive,male,isNoble,isMarried,isPopular,popularity,age
+0,0,0,0,0,11,1,Unknown,Unknown,Unknown,0,1,0,0,1,0.605351170568561,
+1,1,1,1,1,1,1,Rivermen,House Frey,Other,1,1,1,1,1,0.896321070234113,97.0
+0,0,0,1,0,0,0,Unknown,House Swyft,Ser,1,1,1,0,0,0.267558528428093,
+0,0,0,0,0,0,0,Unknown,House Arryn,Other,0,0,1,1,0,0.183946488294314,23.0
+0,0,0,1,0,0,0,Dornish,Other,Other,1,0,1,1,0,0.0434782608695652,29.0
+0,0,0,0,0,5,1,Unknown,Unknown,Unknown,1,1,0,0,1,1.0,
+0,0,0,0,0,0,0,Valyrian,House Targaryen,Other,0,1,1,1,1,0.431438127090301,26.0
+0,0,0,0,0,5,1,Unknown,Unknown,Unknown,0,1,0,0,1,0.678929765886287,
+0,0,1,0,0,0,0,Unknown,Unknown,Ser,0,1,1,0,0,0.0066889632107023,
+0,0,0,0,0,0,0,Unknown,House Osgrey,Ser,1,1,1,0,0,0.020066889632107,
+1,1,0,0,0,0,0,Unknown,Night's Watch,Unknown,0,1,0,0,0,0.163879598662207,
+0,0,0,1,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0033444816053511,
+0,0,0,0,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0033444816053511,
+0,0,0,0,0,0,0,Unknown,House Osgrey,Unknown,1,0,0,0,0,0.0033444816053511,
+0,0,0,0,0,0,0,Unknown,House Osgrey,Unknown,1,1,0,0,0,0.0033444816053511,
+0,0,0,1,0,0,0,Ironborn,Other,Unknown,1,1,0,0,0,0.0133779264214046,
+0,0,0,1,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0133779264214046,
+0,0,0,0,0,0,0,Unknown,House Wylde,Ser,1,1,1,0,0,0.020066889632107,
+0,0,0,1,0,0,0,Unknown,Unknown,Archmaester,1,0,1,0,0,0.0066889632107023,
+0,1,0,0,0,0,0,Unknown,House Swyft,Unknown,1,1,0,0,0,0.0100334448160535,
+1,0,0,1,0,0,0,Unknown,Other,Ser,1,1,1,0,0,0.020066889632107,
+0,0,0,0,0,0,0,Unknown,Other,Ser,1,0,1,0,0,0.0234113712374581,
+0,0,0,1,0,0,0,Unknown,Brotherhood Without Banners,Unknown,1,0,0,0,0,0.0334448160535117,16.0
+1,0,0,0,0,0,0,Unknown,Unknown,Ser,1,1,1,0,0,0.0,
+0,0,0,0,0,0,0,Unknown,House Webber,Unknown,1,1,0,0,0,0.0033444816053511,
+0,0,0,0,1,0,0,Free Folk,Unknown,Unknown,0,0,0,0,0,0.0501672240802675,
+0,1,0,0,0,0,0,Unknown,Unknown,Unknown,0,1,0,0,0,0.0301003344481605,
+0,0,0,1,1,0,0,Ironborn,House Greyjoy,Unknown,1,1,0,0,0,0.0234113712374581,
+0,0,1,0,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0066889632107023,
+1,0,0,0,0,0,0,Northmen,House Stark,Unknown,0,0,0,0,0,0.0267558528428093,
+0,0,0,0,0,0,0,Unknown,House Waynwood,Unknown,0,0,0,0,0,0.0133779264214046,
+0,0,0,0,1,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0501672240802675,
+1,0,1,0,0,0,0,Unknown,House Dayne,Unknown,1,1,0,0,0,0.0267558528428093,
+0,0,0,1,1,0,0,Unknown,House Manderly,Unknown,1,0,0,0,0,0.0568561872909698,25.0
+0,0,0,1,0,0,0,Summer Isles,Unknown,Unknown,1,1,0,0,0,0.020066889632107,
+0,0,0,1,0,0,0,Unknown,Other,Unknown,1,1,0,0,0,0.0100334448160535,
+0,0,0,1,0,0,0,Unknown,Other,Unknown,1,1,0,0,0,0.020066889632107,
+0,0,0,1,0,0,0,Ironborn,Other,Unknown,1,1,0,0,0,0.0100334448160535,
+0,0,0,0,0,0,0,Unknown,House Targaryen,Unknown,1,0,0,0,0,0.0,
+0,0,0,1,0,0,0,Braavosi,Unknown,Unknown,1,1,0,0,0,0.0234113712374581,
+0,0,0,0,0,0,0,Unknown,Unknown,Maester,1,0,1,0,0,0.0033444816053511,
+0,0,1,0,0,0,0,Unknown,Night's Watch,Unknown,0,1,0,0,0,0.0133779264214046,59.0
+0,0,0,0,1,0,0,Unknown,Unknown,Unknown,1,0,0,1,0,0.040133779264214,
+0,0,0,1,0,0,0,Unknown,Unknown,Archmaester,1,0,1,0,0,0.0066889632107023,
+0,0,1,0,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0133779264214046,
+0,0,0,0,1,0,0,Dothraki,Unknown,Khal,1,1,0,0,0,0.0133779264214046,
+0,0,0,0,1,0,0,Ghiscari,House of Loraq,Unknown,1,1,0,0,0,0.0100334448160535,
+0,0,1,1,0,0,0,Unknown,Other,Unknown,1,0,0,0,0,0.0167224080267558,
+0,1,1,1,1,0,0,Ironborn,House Botley,Unknown,1,1,0,0,0,0.113712374581939,19.0
+1,1,1,0,1,0,0,Vale mountain clans,Other,Other,1,1,1,0,0,0.0735785953177257,27.0
+0,0,0,0,0,5,1,Unknown,Unknown,Unknown,0,1,0,0,1,1.0,
+0,0,0,0,0,0,0,Valyrian,House Velaryon,Ser,0,1,1,1,0,0.193979933110367,26.0
+0,1,1,1,1,0,0,Northmen,House Tallhart,Other,0,1,1,1,0,0.110367892976588,
+0,0,0,0,0,0,0,Unknown,Unknown,Unknown,0,1,0,0,1,0.705685618729097,
+1,1,1,1,1,3,1,Reach,House Tyrell,Other,1,0,1,1,1,1.0,22.0
+1,0,0,0,0,12,1,Valyrian,House Targaryen,Other,0,0,1,1,0,0.220735785953177,100.0
+0,0,0,1,0,0,0,Braavosi,Unknown,Unknown,1,0,0,0,0,0.020066889632107,
+0,0,0,1,0,0,0,Ironborn,House Botley,Unknown,1,1,0,0,0,0.0468227424749163,
+0,0,0,1,0,0,0,Ironborn,House Greyjoy,Other,0,1,1,1,0,0.0903010033444816,
+0,0,0,0,0,0,0,Unknown,House Blackwood,Lord,0,0,1,0,0,0.020066889632107,
+0,0,0,1,0,0,0,Ironborn,House Greyjoy,Unknown,1,1,0,0,0,0.060200668896321,
+0,1,0,1,0,0,0,Summer Isles,Unknown,Unknown,1,1,0,0,0,0.040133779264214,
+0,0,0,0,0,0,0,Unknown,House Blackfyre,Unknown,1,1,0,0,0,0.0100334448160535,
+0,0,0,1,0,0,0,Braavosi,Unknown,Unknown,1,1,0,0,0,0.0167224080267558,
+0,0,1,1,0,0,0,Unknown,House Tyrell,Ser,1,0,1,0,0,0.127090301003344,
+0,0,1,0,0,0,0,Unknown,Other,Unknown,0,1,0,0,0,0.0100334448160535,14.0
+0,1,0,0,0,0,0,Unknown,Unknown,Unknown,0,1,0,0,0,0.0133779264214046,
+0,0,0,0,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0066889632107023,
+0,0,0,0,0,0,0,Tyroshi,Other,Unknown,1,1,0,0,0,0.0100334448160535,
+0,0,0,1,0,0,0,Ironborn,House Greyjoy,Unknown,1,0,0,0,0,0.0100334448160535,
+1,0,0,0,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0033444816053511,
+0,0,1,0,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0033444816053511,
+1,1,1,0,0,0,0,Unknown,Night's Watch,Unknown,0,1,0,0,0,0.0668896321070234,
+0,0,0,1,0,0,0,Unknown,Unknown,Other,1,1,1,0,0,0.0100334448160535,
+0,0,1,0,0,0,0,Unknown,House Royce of the Gates of the Moon,Lord,1,1,1,0,0,0.0133779264214046,
+0,0,0,1,0,0,0,Unknown,Other,Ser,1,0,1,0,0,0.0167224080267558,
+0,0,1,1,0,0,0,Unknown,House Tyrell,Unknown,1,0,0,0,0,0.127090301003344,
+0,0,0,1,1,0,0,Ironborn,Unknown,Unknown,1,0,0,0,0,0.0167224080267558,
+0,0,0,0,0,0,0,Other,House Targaryen,Ser,1,1,1,0,0,0.0,
+0,0,0,0,0,0,0,Unknown,Unknown,Ser,1,1,1,0,0,0.0167224080267558,
+0,1,0,0,0,0,0,Unknown,House Greyjoy,Unknown,0,1,0,0,0,0.0133779264214046,
+0,1,0,0,0,0,0,Unknown,Night's Watch,Unknown,1,0,0,0,0,0.0066889632107023,
+0,0,0,0,0,0,0,Unknown,House Webber,Other,1,0,1,0,0,0.0066889632107023,
+0,1,0,0,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0234113712374581,
+0,0,0,0,0,3,1,Valyrian,House Targaryen,Prince of Dragonstone,0,1,1,1,0,0.0969899665551839,42.0
+0,0,0,0,0,0,0,Unknown,House Targaryen,Lady,0,0,1,1,0,0.1438127090301,100.0
+0,0,0,0,0,0,0,Valyrian,House Targaryen,Other,0,0,1,0,0,0.0735785953177257,100.0
+1,0,0,0,0,1,1,Valyrian,House Targaryen,Other,0,0,1,1,0,0.277591973244147,35.0
+1,1,1,1,1,10,1,Unknown,House Targaryen,Princess,0,0,1,0,0,0.244147157190635,3.0
+0,0,0,1,0,0,0,Unknown,Other,Unknown,1,0,0,0,0,0.0167224080267558,
+0,0,0,0,0,0,0,Valyrian,House Targaryen,Princess,0,0,1,1,0,0.1438127090301,55.0
+0,0,0,1,0,0,0,Unknown,Other,Unknown,1,0,0,1,0,0.0501672240802675,
+0,0,0,1,0,0,0,Unknown,Other,Ser,0,0,1,0,0,0.0167224080267558,
+0,0,1,0,0,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0234113712374581,
+0,0,0,1,0,0,0,Unknown,Unknown,Archmaester,1,1,1,0,0,0.0033444816053511,
+0,0,0,0,0,0,0,Unknown,House Osgrey,Unknown,1,1,0,0,0,0.0033444816053511,
+0,0,1,1,0,0,0,Unknown,House Tyrell,Unknown,1,1,0,0,0,0.123745819397993,
+0,0,0,0,0,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0066889632107023,
+0,0,0,0,0,0,0,Reach,House Ashford,Ser,1,1,1,0,0,0.0234113712374581,
+0,1,1,1,0,0,0,Unknown,House Brax,Unknown,1,1,0,0,0,0.120401337792642,15.0
+0,0,1,0,0,0,0,Unknown,House Paege,Ser,1,0,1,0,0,0.0100334448160535,
+0,0,0,0,0,7,1,Unknown,Unknown,Unknown,0,1,0,0,1,1.0,
+0,0,0,1,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0167224080267558,
+0,1,1,1,0,0,0,Unknown,House Frey,Unknown,1,1,0,0,0,0.147157190635451,22.0
+0,0,0,1,0,0,0,Ironborn,House Greyjoy,Unknown,1,1,0,0,0,0.0635451505016722,
+0,0,0,1,0,0,0,Unknown,House Hollard,Unknown,1,1,0,0,0,0.0267558528428093,
+0,0,0,1,1,0,0,Ironborn,Unknown,Unknown,1,1,0,0,0,0.0133779264214046,
+0,0,0,1,0,0,0,Unknown,Other,Septa,1,0,0,0,0,0.0,
+0,0,0,0,1,0,0,Northmen,House Stark,Unknown,1,1,0,1,0,0.100334448160535,
+0,0,0,0,0,0,0,Unknown,Unknown,Unknown,0,1,0,0,0,0.0301003344481605,
+0,0,0,1,0,0,0,Braavosi,Unknown,Unknown,1,0,0,0,0,0.0133779264214046,
+0,0,0,1,1,0,0,Northmen,House Ryswell,Unknown,1,1,0,0,0,0.0468227424749163,
+0,0,0,1,0,0,0,Unknown,House Lannister,Unknown,1,1,0,0,0,0.0,
+0,0,0,0,0,0,0,Unknown,House Crakehall,Ser,1,1,1,0,0,0.020066889632107,
+0,1,0,0,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0033444816053511,
+0,0,0,1,0,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0100334448160535,
+0,0,1,1,0,0,0,Unknown,House Westerling,Unknown,1,1,0,0,0,0.0434782608695652,15.0
+0,0,0,1,0,0,0,Ironborn,Other,Unknown,1,1,0,0,0,0.020066889632107,
+0,0,0,0,1,0,0,Unknown,House Connington,Unknown,1,1,0,0,0,0.040133779264214,
+0,0,1,0,0,0,0,Northmen,Other,Unknown,1,0,0,0,0,0.0334448160535117,
+0,0,1,0,0,0,0,Unknown,Other,Unknown,1,0,0,0,0,0.0133779264214046,
+0,0,0,1,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.040133779264214,19.0
+0,0,1,1,0,0,0,Unknown,Unknown,Maester,1,1,1,0,0,0.0100334448160535,
+0,0,0,1,0,0,0,Ironborn,House Drumm,Unknown,1,0,0,0,0,0.0033444816053511,
+0,0,0,1,1,0,0,Northmen,House Ryswell,Unknown,1,1,0,0,0,0.0301003344481605,
+0,0,0,1,1,0,0,Unknown,Other,Unknown,1,0,0,0,0,0.0234113712374581,
+0,0,0,1,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0301003344481605,21.0
+0,0,0,0,1,0,0,Free folk,Unknown,Unknown,0,1,0,0,0,0.060200668896321,
+1,0,0,0,0,0,0,Unknown,Night's Watch,Unknown,1,0,0,0,0,0.0,
+0,0,0,0,0,0,0,Unknown,Unknown,Grand Maester,0,1,1,0,0,0.244147157190635,
+0,0,0,1,0,0,0,Unknown,House Crabb,Ser,1,0,1,0,0,0.0066889632107023,
+0,0,0,1,0,0,0,Ironmen,Drowned men,Unknown,1,0,0,0,0,0.0100334448160535,
+0,0,0,0,1,0,0,Unknown,Night's Watch,Unknown,1,1,0,0,0,0.0,
+0,0,0,1,0,0,0,Unknown,Unknown,Archmaester,1,1,1,0,0,0.0133779264214046,
+0,0,1,1,1,0,0,Free folk,Unknown,Unknown,1,1,0,1,0,0.0267558528428093,
+0,0,1,0,0,0,0,Unknown,Night's Watch,Unknown,0,0,0,0,0,0.0133779264214046,
+0,0,0,0,0,0,0,Ironborn,House Greyjoy,Unknown,1,0,0,0,0,0.0,
+0,0,0,0,0,0,0,Braavosi,Unknown,Unknown,1,0,0,0,0,0.0133779264214046,
+0,1,0,0,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0033444816053511,
+0,0,0,0,0,0,0,Unknown,Other,Unknown,1,0,0,0,0,0.0468227424749163,
+0,0,1,0,0,0,0,Qartheen,Other,Unknown,0,1,0,0,0,0.0301003344481605,
+0,1,0,0,0,0,0,Unknown,Other,Unknown,1,1,0,0,0,0.0133779264214046,
+0,0,0,0,0,0,0,Unknown,House Osgrey,Unknown,1,1,0,0,0,0.0033444816053511,
+0,0,1,1,0,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0133779264214046,
+0,0,0,1,0,0,0,Ironborn,House Botley,Unknown,1,1,0,0,0,0.0535117056856187,
+0,0,1,0,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0066889632107023,
+0,0,1,0,0,0,0,Unknown,Night's Watch,Unknown,1,1,0,0,0,0.0100334448160535,
+0,0,1,0,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0,
+0,0,0,0,0,0,0,Unknown,Other,Septon,1,1,0,0,0,0.0301003344481605,
+0,0,0,0,1,0,0,Other,Unknown,Unknown,1,0,0,1,0,0.0167224080267558,
+0,0,1,1,0,0,0,Unknown,Unknown,Unknown,1,0,0,1,0,0.0367892976588628,
+1,0,0,0,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0033444816053511,
+0,0,1,0,0,0,0,Unknown,Unknown,Other,1,0,1,0,0,0.0033444816053511,
+0,0,0,1,0,0,0,Other,House Lannister,Unknown,1,0,0,0,0,0.0133779264214046,
+0,1,0,1,0,0,0,Northmen,House Stark,Unknown,1,0,0,0,0,0.020066889632107,
+0,0,0,1,0,0,0,Ironborn,Other,Unknown,1,1,0,0,0,0.0033444816053511,
+0,1,1,0,0,0,0,Ironborn,House Greyjoy,Unknown,1,1,0,0,0,0.0234113712374581,
+0,0,0,0,0,0,0,Unknown,Other,Ser,1,0,1,0,0,0.0033444816053511,
+0,0,1,0,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0,
+0,0,0,0,1,0,0,Unknown,House Bolton,Unknown,1,1,0,0,0,0.0334448160535117,
+0,1,0,0,0,0,0,Northmen,House Stark,Unknown,1,0,0,0,0,0.0066889632107023,
+0,1,1,1,0,0,0,Ironborn,Unknown,Unknown,1,1,0,0,0,0.0234113712374581,
+0,0,0,1,0,0,0,Braavosi,Unknown,Unknown,1,0,0,0,0,0.0167224080267558,
+0,0,1,1,1,0,0,Unknown,Night's Watch,Unknown,1,1,0,0,0,0.0133779264214046,
+0,0,1,0,0,0,0,Unknown,Night's Watch,Unknown,0,1,0,0,0,0.020066889632107,
+0,0,1,0,0,0,0,Unknown,Night's Watch,Unknown,0,1,0,0,0,0.0133779264214046,
+0,1,0,0,0,0,0,Unknown,House Greyjoy,Unknown,0,0,0,0,0,0.0033444816053511,
+0,0,0,0,1,0,0,Free Folk,Unknown,Unknown,0,0,0,0,0,0.0434782608695652,
+0,0,0,1,0,0,0,Ironborn,Other,Unknown,1,1,0,0,0,0.020066889632107,
+1,1,1,1,1,1,1,Westerman,House Lannister,Ser,0,1,1,1,0,0.170568561872909,53.0
+0,0,0,0,0,0,0,Unknown,Other,Ser,1,1,1,0,0,0.040133779264214,
+0,0,0,1,0,0,0,Unknown,House Hollard,Ser,1,0,1,0,0,0.0267558528428093,
+0,0,0,0,0,4,1,Unknown,Unknown,Unknown,1,1,0,0,1,1.0,
+0,1,0,0,0,0,0,Unknown,Other,Lord,1,1,1,0,0,0.0133779264214046,
+0,0,1,0,0,0,0,Free Folk,Unknown,Unknown,0,0,0,0,0,0.0033444816053511,
+0,0,0,1,1,0,0,Ironborn,Unknown,Unknown,1,0,0,0,0,0.0100334448160535,
+0,1,0,0,0,0,0,Other,Unknown,Unknown,1,1,0,0,0,0.0133779264214046,
+0,1,0,0,0,0,0,Unknown,House Greyjoy,Unknown,0,0,0,0,0,0.0066889632107023,
+0,0,0,0,1,0,0,Unknown,House Targaryen,Unknown,1,1,0,0,0,0.0434782608695652,
+0,0,0,1,0,0,0,Ironborn,House Botley,Unknown,1,1,0,0,0,0.0468227424749163,
+0,0,0,1,0,0,0,Braavosi,Unknown,Unknown,1,1,0,0,0,0.0301003344481605,
+0,0,0,0,1,0,0,Summer Isles,House Targaryen,Unknown,1,1,0,0,0,0.0234113712374581,
+0,0,0,1,0,0,0,Braavosi,Unknown,Unknown,1,0,0,0,0,0.020066889632107,
+0,0,1,0,0,0,0,Unknown,Other,Unknown,1,1,0,0,0,0.0702341137123745,
+0,0,1,1,0,0,0,Unknown,Other,Unknown,1,0,0,0,0,0.0234113712374581,
+0,0,0,1,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0066889632107023,
+0,1,0,0,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0334448160535117,
+0,0,0,1,0,0,0,Unknown,Other,Unknown,1,0,0,0,0,0.0167224080267558,
+0,0,0,1,0,0,0,Braavosi,Unknown,Unknown,1,1,0,0,0,0.0133779264214046,
+1,0,0,0,0,0,0,Unknown,House Frey,Ser,1,1,1,0,0,0.0133779264214046,
+0,0,0,1,0,0,0,Unknown,Unknown,Other,1,1,1,0,0,0.020066889632107,
+0,0,0,0,1,0,0,Free Folk,Unknown,Unknown,0,0,0,0,0,0.0167224080267558,
+0,0,0,0,0,0,0,Northmen,Unknown,Unknown,1,1,0,0,0,0.0568561872909698,
+0,0,0,1,0,0,0,Ironborn,Other,Unknown,1,1,0,0,0,0.0167224080267558,
+0,0,1,1,1,0,0,Unknown,Night's Watch,Unknown,1,0,0,0,0,0.0167224080267558,
+0,1,1,0,0,0,0,Unknown,Unknown,Ser,1,0,1,0,0,0.0066889632107023,
+1,1,0,0,1,0,0,Vale mountain clans,Other,Unknown,1,0,0,0,0,0.0133779264214046,
+0,0,0,1,0,0,0,Unknown,House Martell,Unknown,1,1,0,0,0,0.0066889632107023,
+0,1,0,0,0,0,0,Unknown,House Clegane,Unknown,1,0,0,0,0,0.0100334448160535,
+0,0,1,1,0,0,0,Free Folk,Unknown,Unknown,1,1,0,0,0,0.0066889632107023,
+0,1,0,0,0,0,0,Unknown,Unknown,Unknown,0,1,0,0,0,0.0167224080267558,
+0,0,0,1,0,0,0,Unknown,Other,Ser,1,0,1,0,0,0.0066889632107023,
+0,1,0,0,0,0,0,Northmen,House Stark,Unknown,1,0,0,0,0,0.0133779264214046,
+0,0,0,0,0,0,0,Unknown,Other,Ser,0,1,1,0,0,0.0468227424749163,
+0,0,1,1,1,0,0,Free Folk,Unknown,Unknown,1,1,0,0,0,0.0267558528428093,
+1,0,0,0,0,0,0,Vale mountain clans,Stone Crows,Unknown,1,0,0,0,0,0.0,
+0,1,0,0,0,0,0,Unknown,Unknown,Maester,0,1,1,0,0,0.0133779264214046,
+0,0,0,0,0,0,0,Northmen,Unknown,Unknown,1,1,0,0,0,0.0903010033444816,
+1,0,0,0,0,0,0,Unknown,House Lannister,Unknown,0,0,0,0,0,0.0066889632107023,
+0,1,0,1,0,0,0,Other,Unknown,Unknown,1,1,0,0,0,0.0234113712374581,
+0,0,1,0,0,0,0,Unknown,Other,Unknown,1,0,0,0,0,0.0066889632107023,
+0,0,0,0,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0167224080267558,
+0,0,1,0,0,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0,
+0,0,0,0,0,0,0,Unknown,Unknown,Unknown,0,1,0,0,0,0.0535117056856187,
+0,1,0,0,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0033444816053511,
+0,0,1,0,0,0,0,Unknown,Night's Watch,Unknown,1,0,0,0,0,0.0100334448160535,
+0,0,0,0,1,0,0,Ghiscari,Unknown,Ser,1,1,1,0,0,0.0301003344481605,
+0,1,0,1,0,0,0,northmen,House Stark,Unknown,1,0,0,0,0,0.0167224080267558,
+0,0,1,0,0,0,0,Unknown,Unknown,Maester,1,1,1,0,0,0.0033444816053511,
+0,0,0,0,1,0,0,Unknown,Second Sons,Unknown,1,1,0,0,0,0.0133779264214046,
+0,1,0,0,0,0,0,Unknown,House Greyjoy,Unknown,1,1,0,0,0,0.0066889632107023,
+0,1,0,0,0,0,0,Ironborn,House Greyjoy,Unknown,0,0,0,0,0,0.0133779264214046,
+0,0,0,1,0,0,0,Unknown,House Frey,Unknown,1,1,0,0,0,0.133779264214046,6.0
+0,1,1,1,0,0,0,Ironborn,House Greyjoy,Unknown,1,1,0,0,0,0.0234113712374581,
+1,0,0,0,0,0,0,Vale mountain clans,Other,Unknown,1,0,0,0,0,0.0066889632107023,
+0,0,1,0,0,0,0,Unknown,House Baelish,Unknown,1,0,0,0,0,0.0033444816053511,
+0,0,0,1,0,0,0,Unknown,Other,Unknown,1,0,0,0,0,0.0167224080267558,
+0,1,0,0,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0100334448160535,
+0,0,0,1,0,0,0,Ironborn,Other,Unknown,1,1,0,0,0,0.0167224080267558,
+0,1,0,0,0,0,0,Qartheen,Unknown,Unknown,1,0,0,0,0,0.0133779264214046,
+0,1,1,0,0,0,0,Ironborn,House Greyjoy,Unknown,1,1,0,0,0,0.020066889632107,
+0,0,0,0,0,0,0,Ironborn,Unknown,Unknown,1,1,0,0,0,0.040133779264214,
+0,0,0,1,0,0,0,Ironborn,House Greyjoy,Unknown,1,1,0,0,0,0.0735785953177257,37.0
+0,0,0,0,0,0,0,Unknown,Unknown,Ser,0,1,1,0,0,0.0501672240802675,100.0
+0,1,1,0,0,0,0,Unknown,Brave Companions,Septon,0,1,0,0,0,0.0234113712374581,
+0,0,0,1,0,0,0,Unknown,Unknown,Archmaester,1,1,1,0,0,0.0133779264214046,
+1,0,0,0,0,0,0,northmen,House Stark,Unknown,0,0,0,0,0,0.0167224080267558,
+0,0,0,1,0,0,0,Braavosi,Unknown,Unknown,1,0,0,0,0,0.0100334448160535,
+0,0,0,1,0,0,0,Ironborn,House Botley,Unknown,1,1,0,0,0,0.0468227424749163,
+0,0,1,0,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0,
+0,0,1,1,0,0,0,Unknown,House Tyrell,Ser,1,0,1,0,0,0.123745819397993,
+0,1,1,1,0,0,0,Unknown,House Frey,Unknown,1,0,0,0,0,0.0869565217391304,11.0
+0,1,1,1,0,0,0,Unknown,House Frey,Unknown,1,0,0,0,0,0.103678929765886,15.0
+0,0,0,0,0,0,0,Unknown,House Frey,Unknown,1,0,0,0,0,0.0,17.0
+0,0,0,0,0,0,0,Unknown,House Frey,Unknown,1,0,0,0,0,0.0,25.0
+0,0,0,0,0,0,0,Unknown,House Frey,Unknown,1,0,0,1,0,0.0,22.0
+0,0,1,0,0,0,0,Unknown,House Frey,Unknown,1,0,0,0,0,0.0267558528428093,10.0
+0,0,0,0,0,0,0,Unknown,House Frey,Unknown,1,1,0,0,0,0.0,14.0
+0,0,0,0,0,0,0,Unknown,Other,Unknown,1,0,0,0,0,0.0,20.0
+0,0,0,0,0,0,0,Rivermen,House Frey,Unknown,1,1,0,0,0,0.0,45.0
+0,0,0,0,0,0,0,Unknown,House Frey,Unknown,0,1,0,0,0,0.0,9.0
+1,0,0,0,0,0,0,Unknown,Night's Watch,Unknown,0,0,0,0,0,0.020066889632107,
+0,1,1,1,1,0,0,northmen,House Bolton,Unknown,1,1,0,0,0,0.0468227424749163,
+0,0,0,0,1,0,0,Reach,Unknown,Maester,0,1,1,0,0,0.0234113712374581,
+0,0,0,0,0,0,0,Unknown,House Osgrey,Unknown,1,1,0,0,0,0.0066889632107023,
+0,0,0,1,1,0,0,Unknown,House Tyrell,Unknown,1,1,0,0,0,0.0535117056856187,
+0,0,0,1,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0033444816053511,
+0,0,0,1,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0066889632107023,
+0,0,0,0,0,0,0,Unknown,House Osgrey,Unknown,1,0,0,0,0,0.0033444816053511,
+0,0,0,0,0,0,0,Unknown,House Osgrey,Unknown,1,1,0,0,0,0.0066889632107023,
+0,0,0,0,0,0,0,Unknown,House Targaryen,Unknown,1,0,0,0,0,0.0,
+0,0,1,0,0,0,0,Unknown,Night's Watch,Unknown,0,1,0,0,0,0.0167224080267558,
+1,0,0,0,0,0,0,Northmen,House Stark,Unknown,1,1,0,0,0,0.0100334448160535,
+0,1,0,0,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0167224080267558,9.0
+0,0,0,0,0,0,0,Unknown,House Webber,Ser,1,1,1,0,0,0.0133779264214046,
+0,1,0,0,0,0,0,Qartheen,Unknown,Unknown,1,0,0,0,0,0.0100334448160535,
+0,1,0,0,0,0,0,Ironborn,House Greyjoy,Unknown,1,0,0,0,0,0.0066889632107023,
+0,1,1,1,1,0,0,Unknown,House Clegane,Unknown,0,1,0,0,0,0.0969899665551839,
+1,1,1,1,1,0,0,Dothraki,House Targaryen,Bloodrider,1,0,0,0,0,0.20066889632107,24.0
+0,0,0,0,1,0,0,Unknown,House Bolton,Unknown,1,1,0,0,0,0.0434782608695652,
+1,1,1,1,1,0,0,Other,Unknown,Unknown,1,1,0,0,0,0.0836120401337792,
+0,0,1,1,0,0,0,Dothraki,Brave Companions,Unknown,1,1,0,0,0,0.0367892976588628,
+1,1,1,1,1,1,1,Unknown,House Stokeworth,Other,0,0,1,0,0,0.113712374581939,
+1,1,1,1,1,0,0,Westeros,Night's Watch,Unknown,1,1,0,0,1,0.969899665551839,22.0
+0,0,0,0,0,0,0,Unknown,House Hightower,Ser,1,1,1,0,0,0.0,
+0,0,0,0,0,0,0,Unknown,House Frey,Ser,1,1,1,0,0,0.0267558528428093,
+0,0,0,0,0,0,0,Unknown,Unknown,Ser,1,1,1,0,0,0.0066889632107023,
+0,0,0,0,0,0,0,Unknown,House Osgrey,Unknown,0,1,0,0,0,0.0367892976588628,13.0
+0,0,0,0,0,0,0,Unknown,House Frey,Unknown,1,1,0,0,0,0.0,52.0
+0,0,0,0,0,0,0,Unknown,House Frey,Unknown,0,1,0,0,0,0.0,50.0
+0,0,0,0,0,6,1,Unknown,Unknown,Unknown,0,1,0,0,1,1.0,
+0,0,0,0,0,7,1,Unknown,Unknown,Unknown,0,1,0,0,1,0.759197324414715,
+0,0,0,0,0,15,1,Unknown,Unknown,Unknown,0,1,0,0,1,0.675585284280936,
+0,0,0,0,0,0,0,Valyrian,House Targaryen,Prince,1,1,1,0,0,0.0,
+0,0,0,0,0,8,1,Valyrian,Unknown,Unknown,0,1,0,0,1,0.625418060200668,
+0,0,0,0,0,0,0,Valyrian,House Targaryen,Prince,0,0,1,0,0,0.0,100.0
+0,0,0,0,0,0,0,Valyrian,House Targaryen,Prince,0,1,1,1,0,0.0,17.0
+0,0,0,0,0,0,0,Valyrian,House Targaryen,Unknown,0,1,0,0,0,0.0,2.0
+0,0,1,0,0,0,0,Unknown,Other,Unknown,1,1,0,0,0,0.0100334448160535,
+0,0,0,0,0,5,1,Unknown,Unknown,Unknown,0,1,0,0,1,0.57190635451505,
+0,0,1,0,0,0,0,Unknown,Night's Watch,Unknown,1,0,0,0,0,0.0100334448160535,
+1,0,0,0,0,0,0,Unknown,Unknown,Grand Maester,1,0,1,0,0,0.0133779264214046,
+0,1,0,0,1,0,0,Unknown,House Greyjoy,Unknown,0,1,0,0,0,0.0267558528428093,
+0,0,0,1,0,0,0,Unknown,Unknown,Archmaester,1,0,1,0,0,0.0066889632107023,
+0,0,0,0,0,3,1,Unknown,Unknown,Unknown,0,1,0,0,1,0.622073578595317,
+0,0,1,1,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0167224080267558,
+0,0,0,0,0,10,1,Unknown,Unknown,Unknown,0,1,0,0,1,1.0,
+0,1,0,0,0,0,0,Northmen,House Stark,Unknown,0,1,0,0,0,0.0301003344481605,
+0,0,0,0,0,0,0,Tyroshi,Other,Unknown,0,1,0,0,0,0.0133779264214046,
+0,0,0,1,0,0,0,Unknown,House Oakheart,Unknown,1,1,0,0,0,0.0167224080267558,
+0,0,0,0,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0,
+0,1,0,0,0,0,0,Unknown,Unknown,Unknown,0,1,0,0,0,0.0066889632107023,
+0,0,0,1,0,0,0,Braavosi,Unknown,Unknown,1,1,0,0,0,0.020066889632107,
+0,0,1,0,0,0,0,Unknown,House Dayne,Unknown,1,0,0,0,0,0.0234113712374581,
+0,0,0,0,0,4,1,Unknown,House Hightower,Other,0,0,1,1,0,0.267558528428093,45.0
+0,0,1,1,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0066889632107023,
+0,0,0,1,0,0,0,Ironborn,Other,Unknown,1,1,0,0,0,0.0100334448160535,
+0,0,0,1,0,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0133779264214046,
+0,0,0,1,0,1,1,Unknown,House Arryn,Unknown,1,0,0,1,0,0.0802675585284281,
+0,0,0,0,1,0,0,Unknown,House Bracken,Unknown,1,0,0,0,0,0.0334448160535117,
+0,0,0,1,1,0,0,Valyrian,House Velaryon,Other,0,1,1,1,0,0.160535117056856,56.0
+0,0,0,0,0,0,0,Unknown,House Osgrey,Unknown,0,0,0,0,0,0.0267558528428093,21.0
+1,0,0,0,0,0,0,Unknown,House Arryn,Unknown,1,0,0,0,0,0.0066889632107023,
+0,0,0,1,0,0,0,Unknown,House Hightower,Unknown,1,0,0,1,0,0.0568561872909698,
+0,1,1,0,0,0,0,Unknown,House Whent,Unknown,1,0,0,0,0,0.0033444816053511,
+0,1,0,0,0,0,0,Ironborn,Unknown,Unknown,1,0,0,0,0,0.0033444816053511,
+0,0,0,1,0,0,0,Dornish,Other,Ser,1,0,1,0,0,0.0367892976588628,
+0,1,0,0,0,0,0,Unknown,Other,Ser,0,1,1,0,0,0.0133779264214046,
+0,0,0,0,0,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0133779264214046,
+0,0,0,1,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0301003344481605,
+0,1,0,0,0,0,0,Unknown,Unknown,Ser,1,1,1,0,0,0.0033444816053511,
+0,1,0,0,0,0,0,Unknown,Night's Watch,Ser,1,1,1,0,0,0.0066889632107023,
+0,0,0,0,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0,
+0,0,1,1,1,0,0,Unknown,Night's Watch,Unknown,1,1,0,0,0,0.0434782608695652,
+0,0,0,0,0,0,0,Unknown,House Tyrell,Unknown,1,0,0,0,0,0.0,
+0,0,1,1,0,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0234113712374581,
+0,0,1,0,0,0,0,Free Folk,Unknown,Unknown,1,1,0,0,0,0.0,
+0,0,0,0,0,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0066889632107023,
+1,0,0,0,0,0,0,Valyrian,Unknown,Unknown,1,0,0,0,0,0.0066889632107023,
+0,0,0,0,0,0,0,Valyrian,House Targaryen,Prince,0,1,1,0,0,0.100334448160535,0.0
+0,0,0,0,0,0,0,Valyrian,House Targaryen,Other,1,0,1,0,0,0.0434782608695652,
+0,0,0,1,0,0,0,Ironborn,House Botley,Unknown,1,1,0,0,0,0.0501672240802675,
+0,0,1,0,0,3,1,Unknown,House Targaryen,Prince of Dragonstone,0,1,1,1,1,0.474916387959866,39.0
+0,1,0,1,0,0,0,Northmen,House Stark,Unknown,1,0,0,0,0,0.020066889632107,
+0,1,1,0,0,0,0,Unknown,Night's Watch,Unknown,0,1,0,0,0,0.0334448160535117,
+0,1,0,0,0,0,0,Unknown,Unknown,Septon,1,1,0,0,0,0.0133779264214046,
+0,0,0,0,1,0,0,Unknown,House Bracken,Unknown,1,0,0,0,0,0.0301003344481605,
+0,1,0,0,0,0,0,Unknown,House Stark,Unknown,1,1,0,0,0,0.0033444816053511,
+1,0,0,0,0,0,0,Unknown,Night's Watch,Unknown,1,0,0,0,0,0.0,
+0,0,0,1,1,0,0,Unknown,Night's Watch,Unknown,1,1,0,0,0,0.0234113712374581,
+1,0,0,0,0,0,0,Unknown,House Arryn,Unknown,1,1,0,0,0,0.0033444816053511,
+0,0,1,0,0,0,0,Unknown,Unknown,Other,1,1,1,0,0,0.0,6.0
+0,0,0,1,0,0,0,Unknown,House Martell,Unknown,1,0,0,0,0,0.0066889632107023,
+0,0,1,0,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0066889632107023,
+0,0,1,0,0,0,0,Unknown,Alchemists' Guild,Wisdom,1,1,1,0,0,0.020066889632107,
+0,0,0,1,0,0,0,Braavosi,Unknown,Unknown,1,0,0,0,0,0.0133779264214046,
+0,0,1,1,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0836120401337792,22.0
+0,0,0,1,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0100334448160535,12.0
+0,1,0,1,0,0,0,Unknown,House Whent,Unknown,1,1,0,0,0,0.0267558528428093,
+0,0,0,0,1,0,0,Unknown,House Bolton,Unknown,1,1,0,0,0,0.0334448160535117,
+0,0,0,1,0,0,0,Unknown,Other,Ser,0,0,1,0,0,0.0234113712374581,
+0,0,0,1,0,0,0,Unknown,Unknown,Archmaester,1,0,1,0,0,0.0133779264214046,
+0,1,0,0,0,0,0,Northmen,Unknown,Unknown,1,1,0,0,0,0.0133779264214046,
+0,1,0,0,0,0,0,Northmen,Unknown,Unknown,1,1,0,0,0,0.0133779264214046,
+0,0,0,1,0,0,0,Unknown,Unknown,Septon,1,0,0,0,0,0.0066889632107023,
+0,0,0,0,0,0,0,Unknown,House Osgrey,Ser,1,1,1,0,0,0.0367892976588628,
+0,0,0,1,0,0,0,Braavosi,Unknown,Unknown,1,0,0,0,0,0.0033444816053511,
+0,0,0,1,0,0,0,Ironborn,House Botley,Unknown,1,1,0,0,0,0.0468227424749163,
+0,0,0,1,1,0,0,Unknown,Other,Unknown,1,0,0,0,0,0.0167224080267558,
+0,0,1,0,0,0,0,Unknown,House Beesbury,Ser,1,1,1,0,0,0.0033444816053511,
+0,0,1,0,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0066889632107023,
+1,0,0,0,0,0,0,Northmen,Unknown,Unknown,1,0,0,0,0,0.0033444816053511,
+0,0,0,0,1,0,0,Unknown,House Bracken,Unknown,1,0,0,0,0,0.0301003344481605,
+0,0,0,1,0,0,0,Braavosi,Unknown,Unknown,1,0,0,0,0,0.0167224080267558,
+0,0,1,0,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0066889632107023,
+1,0,0,0,0,2,1,Dothraki,Unknown,Khal,1,0,0,0,0,0.0033444816053511,
+0,0,1,1,0,0,0,Free Folk,Unknown,Unknown,1,1,0,0,0,0.0066889632107023,
+0,0,0,0,0,0,0,Free folk,Unknown,Unknown,1,0,0,0,0,0.0,
+0,1,1,0,0,0,0,Unknown,Night's Watch,Unknown,1,1,0,0,0,0.020066889632107,
+0,0,1,1,0,0,0,Free Folk,Unknown,Unknown,1,0,0,0,0,0.0066889632107023,
+1,0,0,0,0,0,0,Unknown,Night's Watch,Unknown,1,1,0,0,0,0.0,
+0,0,0,1,0,0,0,Unknown,House Martell,Unknown,1,1,0,0,0,0.0066889632107023,
+0,0,0,0,1,0,0,Free folk,Unknown,Unknown,1,1,0,0,0,0.0267558528428093,
+0,0,1,1,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0100334448160535,21.0
+0,1,0,0,0,0,0,Northmen,House Stark,King in the North,1,1,1,0,0,0.0167224080267558,
+1,1,0,0,0,0,0,Northmen,Unknown,Unknown,1,1,0,0,0,0.0334448160535117,
+0,1,0,0,0,0,0,Northmen,House Stark,Winterfell,1,1,1,0,0,0.0334448160535117,
+0,1,0,0,0,0,0,Northmen,House Stark,Winterfell,1,1,1,1,0,0.1438127090301,
+1,1,0,0,0,0,0,Northmen,Unknown,Unknown,1,1,0,0,0,0.0367892976588628,
+0,0,0,1,0,0,0,Braavosi,Unknown,Unknown,1,0,0,0,0,0.0234113712374581,
+0,0,1,1,0,0,0,Unknown,House Baratheon,Unknown,1,0,0,0,0,0.0167224080267558,
+0,0,1,0,0,0,0,Unknown,House Frey,Maester,1,1,1,0,0,0.0033444816053511,
+0,0,0,0,1,0,0,Free Folk,Unknown,Unknown,1,0,0,0,0,0.0100334448160535,
+0,0,0,0,1,0,0,Free Folk,Unknown,Unknown,1,1,0,0,0,0.0066889632107023,
+0,0,0,1,1,0,0,Braavosi,Unknown,Unknown,1,1,0,0,0,0.0468227424749163,
+0,1,1,0,0,0,0,Unknown,Night's Watch,Unknown,0,0,0,0,0,0.0234113712374581,
+0,0,0,0,0,0,0,Reach,Unknown,Unknown,1,0,0,0,0,0.0033444816053511,
+0,0,1,0,0,0,0,Unknown,House Baelish,Unknown,1,1,0,0,0,0.0167224080267558,85.0
+0,0,0,0,0,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0167224080267558,
+0,0,0,0,1,0,0,Free folk,Unknown,Unknown,1,1,0,0,0,0.0234113712374581,
+1,0,0,0,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0,
+1,0,0,0,0,0,0,Other,Unknown,Unknown,1,1,0,0,0,0.0,
+0,0,1,0,0,0,0,Unknown,Night's Watch,Ser,0,1,1,0,0,0.020066889632107,
+0,0,0,0,0,0,0,Unknown,Unknown,Ser,1,1,1,0,0,0.0066889632107023,
+0,0,0,1,1,0,0,Unknown,House Baelish,Ser,1,0,1,0,0,0.020066889632107,
+0,1,1,0,0,0,0,Ironborn,House Greyjoy,Unknown,1,1,0,0,0,0.0100334448160535,
+0,0,1,0,0,0,0,Unknown,Other,Lord,0,1,1,0,0,0.020066889632107,
+0,1,0,0,0,0,0,Northmen,House Stark,Unknown,1,0,0,0,0,0.0133779264214046,
+0,1,0,0,0,0,0,Unknown,House Lannister,Ser,1,0,1,0,0,0.0,
+0,0,0,1,0,0,0,Braavosi,Unknown,Unknown,1,0,0,0,0,0.0100334448160535,
+0,0,1,1,0,0,0,Unknown,Other,Unknown,1,0,0,0,0,0.0367892976588628,
+0,0,1,1,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0167224080267558,
+0,0,0,1,0,0,0,Unknown,House Royce of the Gates of the Moon,Unknown,1,0,0,0,0,0.0100334448160535,
+0,0,0,1,0,0,0,Unknown,Unknown,Archmaester,1,0,1,0,0,0.0066889632107023,
+0,0,0,1,0,0,0,Unknown,House Martell,Unknown,1,0,0,0,0,0.0133779264214046,
+0,0,0,0,1,0,0,Unknown,House Bracken,Unknown,1,0,0,0,0,0.0301003344481605,
+0,0,0,1,0,0,0,Unknown,Other,Ser,0,1,1,0,0,0.0133779264214046,
+0,0,1,0,0,0,0,Unknown,Other,Unknown,1,0,0,0,0,0.0033444816053511,
+0,0,0,0,0,0,0,Ironborn,House Webber,Maester,1,1,1,0,0,0.0066889632107023,
+0,0,0,1,0,0,0,Unknown,Unknown,Archmaester,1,0,1,0,0,0.0066889632107023,
+0,0,0,0,0,7,1,Rivermen,House Tully,Winterfell,0,0,1,1,0,0.0,35.0
+1,1,0,0,1,0,0,Unknown,Other,Unknown,1,0,0,0,0,0.0133779264214046,
+1,0,0,0,0,0,0,Unknown,Unknown,Unknown,0,1,0,0,0,0.0167224080267558,
+0,0,0,1,0,0,0,Unknown,House Crabb,Ser,1,1,1,0,0,0.0267558528428093,
+0,0,0,0,0,0,0,Unknown,Other,Ser,1,0,1,0,0,0.0133779264214046,
+0,0,0,1,0,0,0,Unknown,House Crabb,Ser,1,1,1,0,0,0.0066889632107023,
+0,0,0,1,0,0,0,Unknown,Unknown,Other,1,1,1,0,0,0.0133779264214046,54.0
+0,0,0,0,0,0,0,Unknown,House Caswell,Ser,1,0,1,0,0,0.0033444816053511,
+0,0,0,0,0,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0066889632107023,
+0,1,0,0,0,0,0,Unknown,House Baratheon,Ser,1,1,1,0,0,0.0167224080267558,
+0,0,1,0,0,0,0,Tyroshi,Unknown,Unknown,1,1,0,0,0,0.0167224080267558,
+1,0,0,0,0,0,0,Vale mountain clans,Stone Crows,Unknown,0,1,0,0,0,0.0133779264214046,
+1,0,0,0,0,0,0,Vale mountain clans,Stone Crows,Unknown,1,1,0,0,0,0.0033444816053511,
+0,0,0,0,0,0,0,Unknown,Other,Other,1,0,1,0,0,0.0,
+0,0,0,1,0,0,0,Braavosi,Unknown,Unknown,1,1,0,0,0,0.0133779264214046,
+0,0,0,1,0,0,0,Unknown,Other,Ser,1,0,1,0,0,0.0,
+0,0,0,0,1,0,0,Northmen,House Karstark,Unknown,1,1,0,0,0,0.0668896321070234,56.0
+0,1,0,0,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0334448160535117,
+1,0,0,0,0,0,0,Unknown,House Redfort,Unknown,1,1,0,0,0,0.0,
+0,0,0,0,0,0,0,Valyrian,House Targaryen,Eyrie,0,0,1,1,0,0.0869565217391304,28.0
+0,0,0,0,0,0,0,Valyrian,House Targaryen,Princess,0,1,1,0,0,0.0802675585284281,100.0
+0,0,0,0,1,10,1,Unknown,House Targaryen,Princess,0,0,1,1,0,0.0936454849498327,100.0
+0,0,0,0,0,7,1,Unknown,Unknown,Unknown,0,1,0,0,1,0.518394648829431,
+0,0,0,0,0,7,1,Valyrian,House Targaryen,Princess,0,0,1,1,0,0.227424749163879,100.0
+1,0,0,0,0,0,0,Unknown,Unknown,Princess,1,0,1,0,0,0.0066889632107023,
+0,0,0,0,0,0,0,Unknown,House Targaryen,Ser,0,1,1,0,0,0.227424749163879,16.0
+0,0,0,1,0,0,0,Ironborn,Other,Unknown,1,1,0,0,0,0.0167224080267558,
+0,1,0,1,0,0,0,Unknown,House Targaryen,Prince of Dragonstone,0,1,1,1,0,0.130434782608695,31.0
+0,0,0,0,0,10,1,Unknown,Unknown,Unknown,0,1,0,0,1,0.765886287625418,
+0,0,0,0,0,0,0,Unknown,House Osgrey,Unknown,1,1,0,0,0,0.0100334448160535,
+0,0,0,1,0,0,0,Unknown,House Drumm,Unknown,1,0,0,0,0,0.0100334448160535,
+0,1,0,0,0,0,0,Unknown,House Baratheon of Dragonstone,Unknown,1,0,0,0,0,0.0066889632107023,
+0,0,0,0,0,0,0,Westerman,House Lannister,Casterly Rock,0,1,1,1,0,0.0,
+0,0,1,1,0,0,0,Free Folk,Unknown,Unknown,1,1,0,0,0,0.0033444816053511,
+0,0,0,0,0,0,0,Unknown,House Lannister,Unknown,1,1,0,1,0,0.060200668896321,61.0
+0,0,0,0,0,0,0,Unknown,Other,Lady,1,0,1,0,0,0.0100334448160535,
+0,0,1,0,0,0,0,Unknown,Other,Unknown,1,1,0,0,0,0.0234113712374581,
+0,0,0,1,0,0,0,Braavosi,Unknown,Unknown,1,0,0,0,0,0.0133779264214046,
+0,0,1,1,0,0,0,Free Folk,Unknown,Unknown,0,0,0,0,0,0.0133779264214046,16.0
+0,0,0,1,0,0,0,Unknown,Unknown,Maester,1,0,1,0,0,0.0100334448160535,
+0,0,0,1,0,0,0,Braavosi,Unknown,Unknown,1,1,0,0,0,0.0167224080267558,18.0
+0,0,1,1,0,0,0,Unknown,House Plumm,Ser,1,1,1,0,0,0.0267558528428093,
+0,0,0,1,0,0,0,Ironborn,House Drumm,Unknown,1,1,0,0,0,0.0167224080267558,
+0,0,0,1,0,0,0,Unknown,House Redwyne,Unknown,1,1,0,0,0,0.0735785953177257,
+0,0,0,1,0,0,0,Unknown,House Hightower,Unknown,1,0,0,1,0,0.0735785953177257,
+0,0,0,0,1,0,0,Ghiscari,Unknown,Cupbearer,1,0,1,0,0,0.0133779264214046,
+0,0,1,0,0,0,0,Unknown,Night's Watch,Unknown,0,1,0,0,0,0.0301003344481605,
+0,0,1,1,0,0,0,Unknown,Other,Unknown,1,1,0,0,0,0.0267558528428093,
+0,1,0,0,0,0,0,Unknown,Unknown,Unknown,0,1,0,0,0,0.0267558528428093,
+0,0,0,1,0,0,0,Ironborn,House Drumm,Unknown,1,1,0,0,0,0.0167224080267558,
+0,0,0,1,0,0,0,Ironborn,House Greyjoy,Unknown,1,1,0,0,0,0.060200668896321,
+0,1,0,0,1,0,0,Northmen,House Manderly,Other,0,0,1,1,0,0.0969899665551839,50.0
+0,0,1,1,1,0,0,Unknown,Night's Watch,Unknown,1,1,0,0,0,0.0434782608695652,
+1,0,0,0,0,0,0,Northmen,House Stark,Unknown,1,0,0,0,0,0.0066889632107023,
+0,0,1,0,0,0,0,Unknown,Unknown,Septa,1,0,0,0,0,0.0,
+0,0,0,1,0,0,0,Unknown,House Lannister,Unknown,1,0,0,0,0,0.020066889632107,
+0,0,1,0,0,0,0,Unknown,Night's Watch,Unknown,0,0,0,0,0,0.0033444816053511,
+0,1,0,0,0,0,0,Northmen,Unknown,Unknown,1,1,0,0,0,0.0133779264214046,
+0,0,0,0,1,0,0,Ghiscari,Unknown,Cupbearer,1,0,1,0,0,0.0167224080267558,
+0,1,0,0,0,0,0,Ironborn,House Greyjoy,Unknown,0,1,0,0,0,0.0133779264214046,
+0,0,1,0,0,0,0,Unknown,Unknown,Ser,1,1,1,0,0,0.0,
+0,0,1,1,1,0,0,Free Folk,Unknown,Unknown,1,1,0,0,0,0.0167224080267558,
+0,1,0,0,0,0,0,Unknown,House Lannister,Ser,1,0,1,0,0,0.0066889632107023,
+0,0,0,0,0,0,0,Other,Unknown,Unknown,1,1,0,0,0,0.0434782608695652,
+0,0,1,1,0,0,0,Free Folk,Unknown,Unknown,1,0,0,1,0,0.0167224080267558,
+0,1,0,0,0,0,0,Unknown,House Harlaw,Unknown,0,1,0,0,0,0.0100334448160535,
+0,0,1,0,0,0,0,Unknown,Night's Watch,Unknown,0,1,0,0,0,0.0033444816053511,
+0,0,1,1,1,6,1,Unknown,House Targaryen,Prince of Dragonstone,0,1,1,1,0,0.140468227424749,39.0
+0,0,0,1,0,0,0,Unknown,House Oakheart,Lord,1,1,1,0,0,0.0066889632107023,
+0,0,0,0,0,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0033444816053511,
+0,0,0,1,0,0,0,Unknown,Other,Ser,1,0,1,0,0,0.0234113712374581,
+0,0,0,0,0,0,0,Unknown,House Osgrey,Ser,0,1,1,0,0,0.020066889632107,
+0,1,0,0,0,0,0,Unknown,House Clegane,Unknown,1,1,0,0,0,0.0133779264214046,
+0,0,0,1,0,0,0,Unknown,Faith of the Seven,Septa,1,0,0,0,0,0.0066889632107023,
+0,1,0,0,1,0,0,Qartheen,Other,Unknown,1,0,0,0,0,0.0133779264214046,
+0,1,0,0,0,0,0,Ironborn,Unknown,Unknown,1,1,0,0,0,0.0133779264214046,
+0,0,0,1,0,0,0,Ironborn,Other,Unknown,1,1,0,0,0,0.0167224080267558,
+0,0,0,0,0,7,1,Valyrian,House Targaryen,Princess,0,0,1,1,0,0.137123745819397,70.0
+0,0,1,0,0,0,0,Unknown,House Westerling,Ser,1,0,1,0,0,0.0133779264214046,
+0,1,0,0,0,0,0,Unknown,Other,Unknown,1,1,0,0,0,0.0133779264214046,
+0,0,0,0,1,0,0,Other,Other,Unknown,0,0,0,0,0,0.0100334448160535,
+0,0,0,1,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0167224080267558,45.0
+0,0,0,1,0,0,0,Unknown,House Waynwood,Ser,1,0,1,1,0,0.0702341137123745,
+0,0,1,1,1,0,0,Unknown,Night's Watch,Unknown,1,1,0,0,0,0.0434782608695652,
+0,1,0,0,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0,
+0,0,0,1,0,0,0,Unknown,Other,Unknown,1,0,0,0,0,0.0167224080267558,
+0,1,0,0,0,0,0,Unknown,House Tully,Unknown,1,0,0,0,0,0.0,
+0,0,0,1,1,0,0,Ironborn,Other,Other,1,1,1,1,0,0.0501672240802675,94.0
+0,0,1,0,0,0,0,Unknown,Unknown,Maester,1,1,1,0,0,0.0033444816053511,
+0,0,1,0,0,0,0,Other,Unknown,Other,1,0,1,0,0,0.0167224080267558,
+0,0,1,1,0,0,0,Free Folk,Unknown,Unknown,1,1,0,0,0,0.0066889632107023,
+0,0,0,0,0,0,0,Unknown,House Tyrell,Unknown,1,0,0,0,0,0.0,
+0,1,0,0,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0,
+0,0,0,1,0,0,0,Unknown,Faith of the Seven,Septon,1,0,0,0,0,0.0100334448160535,
+0,0,0,0,0,0,0,Unknown,Faith of the Seven,Septon,1,1,0,0,0,0.0367892976588628,
+0,0,0,0,1,0,0,Ghiscari,Unknown,Other,1,0,1,0,0,0.0066889632107023,
+0,0,0,0,0,4,1,Ironborn,Unknown,Unknown,1,1,0,0,1,0.739130434782608,
+0,0,0,1,0,0,0,Braavosi,Other,Other,1,0,1,0,0,0.0133779264214046,
+0,0,1,0,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0066889632107023,
+0,0,1,1,0,0,0,Free Folk,Unknown,Unknown,1,0,0,1,0,0.0167224080267558,
+0,0,0,0,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0033444816053511,
+1,0,0,0,0,0,0,Dothraki,Unknown,Other,0,1,1,0,0,0.020066889632107,
+0,0,1,0,0,0,0,Unknown,Night's Watch,Unknown,1,1,0,0,0,0.0100334448160535,
+0,0,0,1,0,0,0,Ironborn,Unknown,Unknown,1,1,0,0,0,0.0066889632107023,
+0,0,0,0,1,0,0,Free Folk,Unknown,Unknown,0,1,0,0,0,0.0434782608695652,
+0,0,0,1,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0,
+1,1,1,0,0,0,0,Unknown,House Stark,Unknown,1,0,0,0,0,0.0334448160535117,
+0,0,0,0,0,0,0,Unknown,Unknown,Ser,1,1,1,0,0,0.0,
+0,0,0,1,0,0,0,Unknown,Unknown,Archmaester,1,0,1,0,0,0.0100334448160535,
+0,1,0,1,0,0,0,Vale mountain clans,Stone Crows,Unknown,1,0,0,0,0,0.0033444816053511,
+0,0,0,0,0,0,0,Unknown,Unknown,Ser,1,1,1,0,0,0.0133779264214046,
+0,0,1,0,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0066889632107023,
+0,0,0,0,0,0,0,Unknown,Unknown,Ser,1,1,1,0,0,0.0033444816053511,
+0,0,1,0,0,0,0,Unknown,Alchemists' Guild,Wisdom,1,1,1,0,0,0.020066889632107,
+0,0,0,1,0,0,0,Unknown,Unknown,Archmaester,1,0,1,0,0,0.0066889632107023,
+0,1,0,0,0,0,0,Unknown,House Stark,Unknown,1,1,0,0,0,0.0,
+0,0,0,1,1,0,0,Unknown,House Paege,Unknown,1,1,0,0,0,0.0133779264214046,
+0,0,0,0,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0133779264214046,
+0,0,1,0,0,0,0,Unknown,Night's Watch,Unknown,0,0,0,0,0,0.020066889632107,
+0,0,0,1,1,0,0,Unknown,House Martell,Ser,1,0,1,0,0,0.0133779264214046,
+0,0,0,0,1,0,0,Free Folk,Unknown,Unknown,1,0,0,0,0,0.0066889632107023,
+0,1,0,0,1,0,0,Unknown,House Greyjoy,Unknown,0,1,0,0,0,0.0267558528428093,
+0,1,0,0,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0167224080267558,
+0,0,0,0,0,0,0,Westerman,House Lannister,Casterly Rock,0,1,1,1,0,0.0869565217391304,
+0,0,1,0,1,0,0,Other,Unknown,Lord,1,1,1,0,0,0.0234113712374581,
+0,0,0,1,0,0,0,Unknown,Unknown,Other,1,1,1,0,0,0.0100334448160535,
+1,0,0,0,0,0,0,Unknown,House Wylde,Ser,0,1,1,0,0,0.0167224080267558,
+0,0,0,0,0,0,0,Unknown,Unknown,Ser,0,1,1,0,0,0.0802675585284281,100.0
+0,0,1,1,1,0,0,Unknown,Night's Watch,Unknown,1,0,0,0,0,0.0167224080267558,
+1,0,0,0,0,0,0,Unknown,House Lannister,Unknown,1,1,0,0,0,0.0,
+0,0,0,1,0,0,0,Ironborn,House Drumm,Unknown,1,1,0,0,0,0.0066889632107023,
+1,0,0,0,0,0,0,Unknown,House Baratheon,Unknown,1,1,0,1,0,0.0167224080267558,
+0,0,0,0,0,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0100334448160535,
+0,0,1,0,0,0,0,Other,Unknown,Other,0,1,1,0,0,0.0133779264214046,
+0,0,0,0,1,0,0,Other,Other,Unknown,1,1,0,0,0,0.020066889632107,
+0,0,0,0,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0,
+0,0,0,0,1,0,0,Free Folk,Unknown,Unknown,1,1,0,0,0,0.0133779264214046,
+0,0,0,1,1,0,0,Unknown,House Arryn,Unknown,1,1,0,0,0,0.0167224080267558,
+0,0,0,0,0,0,0,Ironborn,Unknown,Unknown,1,1,0,0,0,0.0769230769230769,
+0,0,0,0,0,0,0,Other,Unknown,Unknown,1,1,0,0,0,0.020066889632107,
+0,0,1,1,0,0,0,Free Folk,Unknown,Unknown,1,0,0,0,0,0.0066889632107023,
+0,0,1,0,0,0,0,Unknown,House Baelish,Unknown,1,0,0,0,0,0.0033444816053511,
+0,0,0,0,1,0,0,Free Folk,Unknown,Unknown,1,0,0,0,0,0.0100334448160535,
+0,0,0,1,0,0,0,Unknown,Unknown,Maester,1,0,1,0,0,0.0033444816053511,
+0,0,0,1,0,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0133779264214046,
+1,0,0,0,0,0,0,Vale mountain clans,Stone Crows,Unknown,1,0,0,0,0,0.0033444816053511,
+0,0,0,1,0,0,0,Unknown,Unknown,Archmaester,1,0,1,0,0,0.0066889632107023,
+0,0,0,1,0,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0434782608695652,
+0,0,1,0,0,0,0,Unknown,Other,Ser,1,0,1,0,0,0.0367892976588628,
+0,0,0,1,0,0,0,Ironborn,House Goodbrother,Unknown,1,0,0,0,0,0.0267558528428093,
+0,0,0,1,0,0,0,Unknown,Kingsguard,Ser,1,0,1,0,0,0.0033444816053511,
+0,0,0,1,0,0,0,Braavosi,Unknown,Unknown,1,1,0,0,0,0.0133779264214046,
+0,0,0,1,0,0,0,Ironborn,Other,Unknown,1,1,0,0,0,0.0100334448160535,
+0,0,0,1,0,0,0,Ironborn,House Harlaw,Unknown,1,0,0,0,0,0.0568561872909698,
+0,0,0,1,0,0,0,Unknown,Other,Unknown,1,1,0,0,0,0.0167224080267558,
+0,0,0,1,0,0,0,Braavosi,Unknown,Unknown,1,1,0,0,0,0.0133779264214046,
+0,0,0,0,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.020066889632107,
+0,1,0,0,1,0,0,Unknown,House Greyjoy,Unknown,0,1,0,0,0,0.0267558528428093,
+0,0,0,0,1,0,0,Free Folk,Unknown,Unknown,1,1,0,0,0,0.020066889632107,
+0,0,0,1,0,0,0,Ironborn,House Goodbrother,Unknown,1,0,0,0,0,0.0267558528428093,
+1,0,0,0,0,0,0,Free Folk,Unknown,Unknown,0,0,0,0,0,0.020066889632107,
+0,0,0,0,1,0,0,Unknown,House Targaryen,Unknown,1,1,0,0,0,0.127090301003344,
+0,0,0,0,0,0,0,Unknown,House Paege,Ser,1,0,1,0,0,0.0133779264214046,
+0,0,1,1,1,0,0,Unknown,Unknown,Unknown,0,0,0,0,0,0.020066889632107,
+1,1,0,1,0,0,0,Northmen,Other,Other,0,1,1,1,0,0.107023411371237,
+0,0,0,0,1,0,0,Ghiscari,Unknown,Unknown,0,1,0,0,0,0.0234113712374581,
+0,0,0,0,0,0,0,Unknown,Night's Watch,Unknown,1,1,0,0,0,0.0501672240802675,
+0,0,1,0,0,0,0,Unknown,Other,Ser,0,1,1,0,0,0.0167224080267558,
+0,0,0,0,1,0,0,Free Folk,Unknown,Unknown,1,1,0,0,0,0.0133779264214046,
+0,0,0,0,1,0,0,Free Folk,Unknown,Unknown,1,1,0,0,0,0.0167224080267558,
+0,0,0,1,0,0,0,Ironborn,House Botley,Unknown,1,1,0,0,0,0.0468227424749163,
+0,0,0,1,0,0,0,Ironborn,Other,Unknown,1,1,0,0,0,0.0100334448160535,
+0,0,0,1,0,0,0,Ironborn,House Greyjoy,Unknown,1,1,0,0,0,0.0635451505016722,
+0,0,0,1,0,0,0,Unknown,Unknown,Archmaester,1,0,1,0,0,0.0066889632107023,
+0,1,0,0,0,0,0,Unknown,House Whent,Unknown,0,0,0,0,0,0.0167224080267558,
+0,1,0,0,0,0,0,Ironborn,Other,Unknown,0,0,0,0,0,0.0167224080267558,
+0,0,0,0,0,0,0,Ironborn,Unknown,Unknown,1,1,0,0,0,0.0267558528428093,
+0,0,0,1,1,0,0,Ironborn,Unknown,Unknown,1,1,0,0,0,0.0167224080267558,
+0,0,0,1,0,0,0,Ironborn,House Botley,Unknown,0,0,0,0,0,0.060200668896321,
+0,0,0,0,0,0,0,Unknown,House Osgrey,Ser,1,1,1,0,0,0.0234113712374581,
+0,0,0,1,0,0,0,Unknown,Other,Ser,1,0,1,0,0,0.0167224080267558,
+0,0,1,0,1,0,0,Unknown,Unknown,Unknown,0,1,0,0,0,0.0033444816053511,
+0,0,0,0,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.100334448160535,
+0,1,0,0,0,0,0,Northmen,House Stark,Unknown,1,1,0,0,0,0.0167224080267558,
+0,0,0,0,1,0,0,Ghiscari,House of Loraq,Unknown,1,1,0,0,0,0.0100334448160535,
+0,0,1,1,0,0,0,Unknown,House Plumm,Ser,1,1,1,0,0,0.0468227424749163,
+0,0,0,0,0,0,0,Unknown,Other,Unknown,0,0,0,0,0,0.0234113712374581,100.0
+0,0,0,1,0,0,0,Unknown,Unknown,Maester,1,0,1,0,0,0.0100334448160535,
+0,0,1,1,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0133779264214046,
+0,1,1,1,0,0,0,Unknown,House Greyjoy,Unknown,1,0,0,0,0,0.0167224080267558,
+0,0,1,1,0,0,0,Free Folk,Unknown,Unknown,1,1,0,0,0,0.0066889632107023,
+0,0,0,0,0,0,0,Unknown,House Ashford,Unknown,1,0,0,0,0,0.0066889632107023,
+0,0,0,1,0,0,0,Unknown,Other,Ser,1,0,1,0,0,0.0100334448160535,
+0,1,0,0,0,0,0,Unknown,House Bracken,Unknown,0,0,0,0,0,0.040133779264214,
+1,0,0,0,0,0,0,northmen,House Stark,Unknown,0,0,0,0,0,0.020066889632107,
+0,0,0,1,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0133779264214046,
+0,0,0,1,0,0,0,Ironborn,House Drumm,Unknown,1,1,0,0,0,0.0066889632107023,
+0,1,0,0,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0033444816053511,
+0,0,0,1,0,0,0,Unknown,House Lannister,Unknown,1,0,0,0,0,0.0100334448160535,
+0,1,0,0,0,0,0,Vale mountain clans,Stone Crows,Unknown,1,0,0,0,0,0.0033444816053511,
+0,0,1,1,1,0,0,Unknown,Night's Watch,Unknown,1,1,0,0,0,0.0334448160535117,
+0,0,0,1,0,0,0,Unknown,House Beesbury,Ser,1,0,1,0,0,0.0133779264214046,
+0,0,0,0,1,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0133779264214046,
+0,0,0,0,0,0,0,Unknown,Unknown,Maester,1,0,1,0,0,0.0,
+0,0,1,1,0,0,0,Unknown,Unknown,Unknown,1,1,0,1,0,0.0434782608695652,
+0,0,0,1,0,0,0,Unknown,Unknown,Ser,1,1,1,0,0,0.040133779264214,65.0
+0,1,1,0,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0100334448160535,
+0,0,0,0,0,0,0,Unknown,House Targaryen,Prince,0,1,1,0,0,0.187290969899665,6.0
+0,0,0,0,0,0,0,Valyrian,House Targaryen,Other,0,0,1,1,0,0.280936454849498,10.0
+1,0,0,0,0,0,0,Vale mountain clans,Stone Crows,Unknown,1,0,0,0,0,0.0,
+0,0,0,0,0,0,0,Unknown,Unknown,Unknown,0,1,0,0,1,0.494983277591973,
+0,0,0,1,0,0,0,Unknown,House Frey,Unknown,1,1,0,0,0,0.127090301003344,6.0
+0,0,0,0,0,5,1,Unknown,Unknown,Unknown,0,1,0,0,1,0.65886287625418,
+0,0,0,1,0,0,0,Unknown,Unknown,Unknown,0,0,0,0,0,0.0,
+0,0,1,0,0,0,0,Unknown,Other,Unknown,1,1,0,0,0,0.0100334448160535,
+0,0,0,1,0,0,0,Unknown,House Waynwood,Unknown,1,1,0,0,0,0.0568561872909698,
+0,0,1,0,0,0,0,Unknown,Chataya's brothel,Unknown,1,0,0,0,0,0.020066889632107,
+0,0,0,1,0,0,0,Unknown,House Norcross,Ser,1,1,1,0,0,0.0066889632107023,
+0,1,0,0,0,0,0,Unknown,House Mallister,Unknown,1,1,0,0,0,0.020066889632107,
+0,0,0,0,1,0,0,Unknown,House Bracken,Unknown,1,0,0,0,0,0.0301003344481605,
+0,0,0,0,0,0,0,Unknown,House Osgrey,Unknown,1,0,0,0,0,0.0066889632107023,
+0,0,0,1,0,0,0,Unknown,Other,Unknown,1,0,0,1,0,0.0535117056856187,
+0,0,0,1,0,0,0,Unknown,Brotherhood Without Banners,Unknown,1,0,0,0,0,0.0334448160535117,24.0
+0,0,1,0,0,0,0,Unknown,House Swann,Unknown,1,0,0,0,0,0.0167224080267558,
+0,0,1,0,0,0,0,Unknown,House Westerling,Other,0,0,1,1,0,0.110367892976588,20.0
+0,0,0,0,0,0,0,Westeros,Unknown,Unknown,0,1,0,0,0,0.0735785953177257,100.0
+0,0,1,1,0,0,0,Other,House Westerling,Winterfell,1,0,1,1,1,0.424749163879598,22.0
+0,0,0,1,1,0,0,Unknown,House Swyft,Unknown,1,0,0,0,0,0.0167224080267558,
+0,1,0,0,0,0,0,Unknown,House Lannister,Unknown,1,1,0,0,0,0.0033444816053511,
+0,0,1,1,0,0,0,Unknown,House Swyft,Unknown,1,0,0,0,0,0.0234113712374581,
+1,1,1,1,1,5,1,Westerman,House Lannister,Casterly Rock,0,0,1,1,0,0.23076923076923,28.0
+0,0,0,0,0,0,0,Unknown,House Swann,Unknown,1,0,0,0,0,0.020066889632107,
+1,0,0,1,0,0,0,Dothraki,Unknown,Khal,1,1,0,0,0,0.0100334448160535,
+0,1,0,0,0,0,0,Unknown,House Baratheon,Unknown,1,1,0,0,0,0.0033444816053511,
+0,0,0,1,0,0,0,Unknown,Other,Ser,1,1,1,1,0,0.0501672240802675,
+0,0,0,1,0,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0066889632107023,
+0,0,0,1,0,0,0,Unknown,House Hollard,Ser,1,1,1,0,0,0.0267558528428093,
+0,0,0,1,0,0,0,Unknown,Other,Unknown,1,0,0,0,0,0.0066889632107023,
+0,0,0,0,0,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0167224080267558,
+0,0,0,1,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0167224080267558,
+0,0,0,1,0,0,0,Unknown,Unknown,Maester,1,1,1,0,0,0.0234113712374581,
+1,1,1,1,1,0,0,Northmen,House Umber,Unknown,0,1,0,0,0,0.0702341137123745,
+1,1,1,1,1,0,0,Northmen,House Umber,Other,1,1,1,0,0,0.183946488294314,
+0,0,0,1,0,0,0,Unknown,Unknown,Ser,0,1,1,0,0,0.0769230769230769,100.0
+0,0,0,1,0,0,0,Unknown,Night's Watch,Septon,1,1,0,0,0,0.0033444816053511,
+0,0,0,0,0,0,0,Unknown,House Webber,Unknown,1,1,0,0,0,0.0,
+0,0,0,1,0,0,0,Unknown,Unknown,Maester,1,0,1,0,0,0.0033444816053511,
+1,1,0,0,0,0,0,Unknown,House Stark,Unknown,1,1,0,0,0,0.0301003344481605,
+0,0,0,0,0,0,0,Unknown,House Mallister,Ser,1,0,1,0,0,0.0133779264214046,
+1,0,0,0,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0033444816053511,
+0,0,0,1,0,0,0,Braavosi,Unknown,Unknown,1,0,0,0,0,0.0100334448160535,
+0,0,1,0,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0,
+0,1,0,0,0,0,0,Unknown,Other,Unknown,1,1,0,0,0,0.0133779264214046,
+0,1,1,1,0,0,0,Unknown,Unknown,Maester,1,0,1,0,0,0.0133779264214046,
+0,0,1,0,0,0,0,Unknown,Other,Unknown,1,1,0,0,0,0.0234113712374581,
+1,0,0,0,0,0,0,Unknown,House Lannister,Unknown,0,1,0,0,0,0.0301003344481605,
+0,0,1,1,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0133779264214046,
+0,0,1,1,1,0,0,Unknown,Night's Watch,Unknown,1,1,0,0,0,0.0167224080267558,
+0,0,1,0,0,0,0,Unknown,House Baelish,Unknown,1,0,0,0,0,0.0033444816053511,
+0,0,0,1,1,0,0,Ironborn,Unknown,Unknown,1,0,0,0,0,0.0100334448160535,
+0,1,0,0,0,0,0,Ironborn,Unknown,Unknown,0,0,0,0,0,0.0066889632107023,
+1,0,0,0,0,0,0,Unknown,Night's Watch,Unknown,1,0,0,0,0,0.0,
+0,0,0,0,0,0,0,Unknown,Unknown,Ser,1,1,1,0,0,0.0,
+0,0,0,1,0,0,0,Summer Isles,Unknown,Unknown,1,0,0,0,0,0.0167224080267558,
+0,0,1,1,0,0,0,Unknown,House Vance of Atranta,Unknown,1,1,0,0,0,0.0267558528428093,
+0,1,0,0,0,0,0,Unknown,Unknown,Unknown,0,1,0,0,0,0.0367892976588628,
+0,1,0,0,0,0,0,Other,House Greyjoy,Unknown,0,0,0,0,0,0.0066889632107023,
+0,1,0,0,0,0,0,Unknown,Unknown,Unknown,0,1,0,0,0,0.0367892976588628,
+0,0,0,0,0,0,0,Unknown,Unknown,Ser,1,1,1,0,0,0.0267558528428093,
+0,0,0,0,0,0,0,Unknown,Brotherhood without banners,Unknown,0,0,0,0,0,0.0,
+0,1,0,0,0,0,0,Unknown,House Royce,Unknown,1,1,0,0,0,0.020066889632107,
+0,0,0,0,1,0,0,Free Folk,Unknown,Unknown,1,0,0,0,0,0.0100334448160535,
+0,1,0,0,0,0,0,Unknown,Unknown,Maester,1,0,1,0,0,0.0,
+0,0,1,0,0,0,0,Unknown,House Baratheon of Dragonstone,Unknown,1,1,0,0,0,0.0100334448160535,
+0,0,0,0,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.020066889632107,
+0,0,1,1,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.020066889632107,20.0
+0,0,0,1,0,0,0,Braavosi,Other,Unknown,1,0,0,0,0,0.0267558528428093,19.0
+0,0,0,0,1,0,0,Ghiscari,Unknown,Unknown,1,1,0,0,0,0.020066889632107,
+0,1,0,0,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0234113712374581,26.0
+0,0,1,1,0,0,0,Unknown,Brotherhood without banners,Unknown,1,1,0,0,0,0.0836120401337792,
+0,0,0,1,0,0,0,Unknown,House Frey,Unknown,1,0,0,0,0,0.0735785953177257,6.0
+0,0,1,0,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0033444816053511,
+0,0,0,0,0,0,0,Unknown,House Osgrey,Unknown,0,0,0,0,0,0.0133779264214046,100.0
+0,0,1,1,0,0,0,Free Folk,Unknown,Unknown,1,0,0,0,0,0.0066889632107023,
+0,0,1,1,1,0,0,Free Folk,Unknown,Unknown,1,1,0,0,0,0.0100334448160535,
+0,0,0,1,0,0,0,Ironborn,Other,Unknown,1,1,0,0,0,0.0100334448160535,
+0,0,1,0,0,0,0,Reach,House Tyrell,Other,1,1,1,0,0,0.0535117056856187,
+0,0,1,1,0,0,0,Unknown,House Tyrell,Unknown,1,0,0,0,0,0.123745819397993,
+0,0,1,1,0,0,0,Unknown,House Tyrell,Ser,1,1,1,1,0,0.130434782608695,
+0,0,1,1,0,0,0,Unknown,House Lannister,Unknown,1,0,0,0,0,0.0167224080267558,
+0,0,0,0,0,0,0,Northmen,House Stark,Unknown,1,0,0,0,0,0.0,
+0,0,0,0,1,0,0,Unknown,Other,Unknown,1,1,0,0,0,0.0066889632107023,
+0,0,0,1,1,0,0,Rivermen,Other,Unknown,1,1,0,0,0,0.0334448160535117,
+0,0,0,1,0,0,0,Unknown,House Hightower,Unknown,1,0,0,1,0,0.0501672240802675,
+0,0,1,1,0,0,0,Unknown,Other,Unknown,1,0,0,1,0,0.137123745819397,
+0,0,0,1,0,0,0,Unknown,Other,Unknown,1,0,0,0,0,0.0167224080267558,
+0,0,1,0,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0033444816053511,
+0,0,0,0,0,0,0,Unknown,House Tully,Unknown,1,1,0,0,0,0.0,
+0,0,0,1,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0100334448160535,64.0
+0,0,0,1,1,0,0,Unknown,Other,Ser,1,0,1,0,0,0.0100334448160535,
+0,0,0,1,0,0,0,Unknown,Other,Ser,0,1,1,0,0,0.0133779264214046,
+0,1,0,0,0,0,0,Unknown,Unknown,Unknown,0,1,0,0,0,0.0234113712374581,
+0,0,0,0,0,0,0,Unknown,Unknown,Maester,1,1,1,0,0,0.0,
+0,0,1,1,0,0,0,Unknown,House Tyrell,Unknown,1,0,0,0,0,0.127090301003344,
+0,0,0,1,0,0,0,Braavosi,Unknown,Unknown,1,0,0,0,0,0.0066889632107023,
+0,1,0,0,0,0,0,Unknown,House Whent,Unknown,0,1,0,0,0,0.0133779264214046,
+0,0,0,1,0,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0167224080267558,
+0,0,0,1,0,0,0,Unknown,Unknown,Ser,1,0,1,0,0,0.0100334448160535,
+0,0,0,0,0,0,0,Unknown,Other,Ser,1,0,1,0,0,0.0033444816053511,
+0,0,1,0,0,0,0,Unknown,Other,Unknown,0,1,0,0,0,0.0133779264214046,
+0,0,0,1,0,0,0,Unknown,Other,Lord,1,1,1,0,0,0.0066889632107023,
+0,0,0,1,0,0,0,Braavosi,Unknown,Unknown,1,0,0,0,0,0.0033444816053511,
+0,0,0,1,0,0,0,Ironborn,House Botley,Unknown,1,0,0,0,0,0.0468227424749163,
+0,0,0,1,0,0,0,Unknown,Unknown,Septon,1,1,0,0,0,0.0066889632107023,
+0,0,0,0,1,0,0,Unknown,Night's Watch,Unknown,1,0,0,0,0,0.0133779264214046,
+0,0,1,1,0,0,0,Unknown,House Tyrell,Unknown,1,1,0,0,0,0.123745819397993,
+0,0,1,1,0,0,0,Other,House Lannister,Unknown,1,1,0,0,0,0.0133779264214046,
+0,0,0,0,1,0,0,Northmen,House Bolton,Unknown,0,1,0,0,0,0.0234113712374581,
+0,0,1,1,0,0,0,Unknown,House Tyrell,Ser,1,0,1,1,0,0.130434782608695,
+0,0,1,1,0,0,0,Unknown,House Tyrell,Unknown,1,1,0,0,0,0.137123745819397,
+0,0,0,0,0,0,0,Unknown,House Mallister,Other,1,0,1,0,0,0.0133779264214046,
+0,1,0,0,0,0,0,Unknown,Night's Watch,Unknown,1,0,0,0,0,0.0066889632107023,
+0,1,0,0,0,0,0,Unknown,House Lannister,Ser,1,1,1,0,0,0.0133779264214046,
+0,0,0,0,0,0,0,Unknown,Other,Ser,0,0,1,0,0,0.0133779264214046,
+0,0,0,0,0,0,0,Reach,House Tyrell,Other,0,1,1,0,0,0.020066889632107,
+0,0,1,1,0,0,0,Unknown,Other,Unknown,1,0,0,1,0,0.130434782608695,
+0,0,1,1,0,0,0,Unknown,House Tyrell,Unknown,1,0,0,0,0,0.130434782608695,
+0,0,0,1,1,0,0,Unknown,House Arryn,Unknown,1,0,0,0,0,0.0133779264214046,
+0,0,1,0,0,0,0,Unknown,Unknown,Other,1,0,1,0,0,0.0033444816053511,
+0,0,1,0,0,0,0,Unknown,Unknown,Unknown,0,0,0,0,0,0.0033444816053511,
+0,0,1,1,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0568561872909698,
+0,1,0,0,0,0,0,Unknown,Unknown,Ser,1,0,1,0,0,0.0066889632107023,
+1,0,0,0,0,0,0,Unknown,Unknown,Grand Maester,1,1,1,0,0,0.0167224080267558,
+0,1,0,0,0,0,0,Unknown,Alchemists' Guild,Wisdom,1,1,1,0,0,0.0066889632107023,
+0,0,0,0,0,0,0,Unknown,Unknown,Ser,1,1,1,0,0,0.0,
+1,0,0,0,0,0,0,Unknown,House Lannister,Unknown,1,0,0,0,0,0.0066889632107023,
+0,0,0,0,0,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0100334448160535,
+0,0,0,0,0,0,0,Unknown,Other,Unknown,1,1,0,0,0,0.0100334448160535,
+0,0,1,0,0,0,0,Unknown,House Swann,Ser,1,0,1,0,0,0.0167224080267558,
+0,0,0,1,0,0,0,Unknown,Other,Unknown,1,1,0,0,0,0.0066889632107023,
+0,0,0,1,1,0,0,Unknown,Other,Ser,1,0,1,0,0,0.020066889632107,
+0,1,1,1,1,0,0,Unknown,Chataya's brothel,Unknown,1,1,0,0,0,0.0434782608695652,25.0
+0,0,0,0,1,0,0,Ghiscari,House of Loraq,Unknown,1,1,0,0,0,0.0334448160535117,
+0,0,0,0,1,0,0,Free folk,Unknown,Unknown,1,0,0,0,0,0.0066889632107023,
+0,0,0,1,0,0,0,Unknown,Other,Unknown,0,1,0,0,0,0.0301003344481605,
+0,0,0,1,0,0,0,Unknown,Other,Other,1,0,1,0,0,0.0066889632107023,
+0,0,1,0,0,0,0,Unknown,Night's Watch,Unknown,0,0,0,0,0,0.0133779264214046,
+0,1,0,0,0,0,0,Qartheen,Unknown,Unknown,1,0,0,0,0,0.0167224080267558,
+0,1,0,0,0,0,0,Unknown,House Baratheon of Dragonstone,Unknown,1,0,0,0,0,0.0033444816053511,
+0,0,1,0,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0033444816053511,
+0,0,1,1,0,0,0,Unknown,Unknown,Ser,1,1,1,0,0,0.0133779264214046,
+0,0,0,0,0,0,0,Unknown,House Plumm,Ser,1,1,1,0,0,0.0234113712374581,
+0,0,0,0,1,0,0,Other,House of Loraq,Unknown,1,1,0,0,0,0.0100334448160535,
+0,1,0,0,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0066889632107023,
+0,0,0,0,1,0,0,Free Folk,Unknown,Unknown,1,0,0,0,0,0.0066889632107023,
+0,0,0,1,1,0,0,Unknown,House Arryn,Unknown,1,0,0,0,0,0.0100334448160535,
+0,0,1,0,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0066889632107023,
+0,0,0,0,0,0,0,Unknown,Unknown,Maester,1,0,1,0,0,0.0,
+0,0,1,1,0,0,0,Unknown,Unknown,Maester,1,1,1,0,0,0.120401337792642,
+0,0,1,0,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0,
+0,0,0,1,0,0,0,Unknown,Unknown,Septa,1,0,0,0,0,0.0033444816053511,
+0,0,0,1,0,0,0,Unknown,House Martell,Unknown,1,0,0,0,0,0.0100334448160535,
+0,0,1,0,0,0,0,Unknown,Brotherhood Without Banners,Unknown,1,0,0,0,0,0.0033444816053511,
+0,0,0,0,0,0,0,Unknown,Unknown,Grand Maester,1,1,1,0,0,0.237458193979933,
+0,0,0,1,0,0,0,Braavosi,Other,Unknown,1,0,0,0,0,0.0267558528428093,
+0,0,0,1,1,0,0,Braavosi,Unknown,Unknown,1,0,0,0,0,0.020066889632107,
+0,0,1,0,1,0,0,Braavosi,Second Sons,Unknown,0,1,0,0,0,0.0468227424749163,
+0,1,1,1,0,0,0,Unknown,House Florent,Unknown,1,1,0,0,0,0.0668896321070234,
+0,0,0,1,0,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0066889632107023,
+0,0,0,0,1,0,0,Ghiscari,Unknown,Cupbearer,1,0,1,0,0,0.0167224080267558,
+0,0,0,1,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0367892976588628,
+0,0,0,1,0,0,0,Unknown,Unknown,Archmaester,1,0,1,0,0,0.0100334448160535,
+0,0,0,1,0,0,0,Other,Unknown,Unknown,1,0,0,0,0,0.0100334448160535,
+1,0,0,0,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0100334448160535,37.0
+0,0,0,1,1,0,0,Unknown,House Baelish,Ser,1,1,1,0,0,0.0167224080267558,
+1,0,0,1,0,0,0,Dothraki,Unknown,Khal,1,1,0,0,0,0.0167224080267558,
+0,0,0,1,0,0,0,Unknown,House Martell,Unknown,1,0,0,0,0,0.0100334448160535,
+1,0,0,0,0,0,0,Unknown,House Lannister,Unknown,0,1,0,0,0,0.0267558528428093,
+0,0,1,1,0,0,0,Unknown,Other,Unknown,1,1,0,0,0,0.0234113712374581,
+0,0,0,0,0,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0133779264214046,
+0,0,0,1,0,0,0,Unknown,House Martell,Unknown,0,1,0,0,0,0.0668896321070234,0.0
+0,0,0,0,1,0,0,Free Folk,Unknown,Unknown,1,0,0,0,0,0.0434782608695652,
+0,0,0,0,0,0,0,Unknown,Brotherhood without banners,Unknown,1,0,0,0,0,0.0,
+0,0,1,0,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0033444816053511,
+0,0,0,0,0,0,0,Unknown,House Osgrey,Unknown,1,1,0,0,0,0.0,
+0,1,0,0,0,0,0,Unknown,Alchemists' Guild,Wisdom,1,1,1,0,0,0.0066889632107023,
+0,0,1,1,1,0,0,Unknown,Night's Watch,Unknown,1,1,0,0,0,0.0501672240802675,
+0,1,0,0,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0100334448160535,
+0,1,0,0,0,0,0,Northmen,House Stark,Unknown,1,1,0,0,0,0.0033444816053511,
+0,1,0,0,0,0,0,Unknown,House Tully,Unknown,0,1,0,0,0,0.0133779264214046,
+0,0,0,0,1,0,0,Free Folk,Unknown,Unknown,0,0,0,0,0,0.0468227424749163,
+0,0,1,0,0,0,0,Unknown,House Bolton,Unknown,1,1,0,0,0,0.0033444816053511,
+0,0,0,0,1,0,0,Unknown,Second Sons,Unknown,1,0,0,0,0,0.0133779264214046,
+0,0,0,1,0,0,0,Unknown,Unknown,Other,1,0,1,0,0,0.0267558528428093,
+0,0,0,1,0,0,0,Braavosi,Unknown,Unknown,1,0,0,0,0,0.0100334448160535,
+1,1,1,1,1,0,0,Unknown,House Stark,Unknown,1,0,0,0,0,0.0969899665551839,
+0,0,0,0,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0033444816053511,
+0,1,1,1,0,0,0,Free Folk,Unknown,Unknown,1,0,0,1,0,0.020066889632107,
+0,0,0,0,1,0,0,Northmen,Other,Unknown,1,1,0,0,0,0.0167224080267558,
+0,1,0,0,0,0,0,Unknown,Unknown,Unknown,1,1,0,1,0,0.020066889632107,
+0,0,0,1,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0167224080267558,
+0,0,1,0,0,0,0,Unknown,Unknown,Other,1,0,1,0,0,0.0,
+0,0,0,1,0,0,0,Ironmen,Drowned men,Unknown,1,0,0,0,0,0.0066889632107023,
+0,0,0,1,0,0,0,Unknown,Unknown,Archmaester,1,1,1,0,0,0.0167224080267558,
+0,0,0,1,0,0,0,Unknown,Unknown,Archmaester,1,0,1,0,0,0.0066889632107023,
+0,0,1,1,0,0,0,Unknown,Unknown,Maester,1,0,1,0,0,0.127090301003344,
+0,0,0,1,0,0,0,Unknown,Unknown,Archmaester,1,0,1,0,0,0.0066889632107023,
+1,0,0,0,0,0,0,Dothraki,Unknown,Khal,0,1,0,0,0,0.0367892976588628,
+0,0,0,1,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0,
+0,0,0,1,1,0,0,Ironborn,Drowned men,Unknown,1,1,0,0,0,0.0100334448160535,
+0,0,0,1,1,0,0,Unknown,Night's Watch,Unknown,1,1,0,0,0,0.0133779264214046,
+0,0,1,0,0,0,0,Unknown,Night's Watch,Unknown,0,1,0,0,0,0.0133779264214046,79.0
+0,0,0,1,0,0,0,Unknown,House Oakheart,Ser,0,1,1,0,0,0.0234113712374581,
+0,0,1,1,0,0,0,Unknown,House Tyrell,Unknown,1,0,0,1,0,0.127090301003344,
+0,0,0,1,0,0,0,Braavosi,Unknown,Unknown,1,1,0,0,0,0.0133779264214046,
+0,0,0,1,0,0,0,Unknown,Kingsguard,Ser,1,1,1,0,0,0.0033444816053511,
+0,1,1,1,1,0,0,Free Folk,Unknown,Unknown,0,1,0,0,0,0.0802675585284281,
+0,0,0,0,0,0,0,Unknown,Unknown,Ser,0,0,1,0,0,0.0,
+0,0,0,0,0,0,0,Unknown,House Osgrey,Other,1,0,1,0,0,0.0100334448160535,
+0,0,0,0,0,0,0,Unknown,House Westerling,Ser,1,0,1,0,0,0.0,
+0,1,1,1,0,0,0,Braavosi,Unknown,Unknown,1,1,0,0,0,0.0133779264214046,
+0,0,0,0,1,0,0,Unknown,House Wylde,Ser,1,1,1,0,0,0.0133779264214046,
+0,1,0,0,0,0,0,Unknown,Faith of the Seven,Septon,1,0,0,0,0,0.0033444816053511,
+0,0,0,1,0,0,0,Unknown,House Royce of the Gates of the Moon,Unknown,1,0,0,0,0,0.0100334448160535,
+0,0,1,0,0,0,0,Unknown,Other,Unknown,1,0,0,0,0,0.0033444816053511,
+1,0,0,0,0,0,0,Unknown,Night's Watch,Unknown,0,1,0,0,0,0.0568561872909698,
+0,1,1,0,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0066889632107023,
+0,0,0,1,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0066889632107023,
+0,0,0,1,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0133779264214046,
+0,0,1,1,1,0,0,Unknown,Night's Watch,Unknown,1,1,0,0,0,0.0367892976588628,
+0,0,0,1,0,0,0,Unknown,Other,Ser,1,0,1,0,0,0.0133779264214046,
+0,1,0,1,0,1,1,Northmen,House Stark,Unknown,1,0,0,0,0,0.020066889632107,
+0,0,1,0,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0066889632107023,
+0,0,1,0,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0033444816053511,
+0,0,1,0,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0033444816053511,
+0,0,0,0,0,0,0,Unknown,Unknown,Unknown,0,0,0,0,0,0.0033444816053511,
+0,0,0,0,0,0,0,Unknown,Night's Watch,Unknown,1,0,0,0,0,0.0066889632107023,
+0,0,0,0,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0033444816053511,
+0,0,0,0,0,0,0,Unknown,House Osgrey,Unknown,0,1,0,0,0,0.0133779264214046,100.0
+0,0,0,0,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0033444816053511,
+0,0,1,0,1,0,0,Unknown,Second Sons,Unknown,1,0,0,0,0,0.187290969899665,24.0
+0,0,1,1,0,0,0,Dornish,Other,Unknown,1,1,0,0,0,0.020066889632107,
+0,0,0,0,0,0,0,Unknown,House Osgrey,Other,1,0,1,0,0,0.0066889632107023,
+0,0,1,1,0,0,0,Unknown,House Plumm,Ser,1,1,1,0,0,0.0267558528428093,
+0,0,0,0,0,0,0,Unknown,House Ashford,Other,1,0,1,0,0,0.0,
+0,0,0,1,0,0,0,Braavosi,Unknown,Unknown,1,0,0,0,0,0.0100334448160535,
+0,1,0,0,0,0,0,Unknown,Alchemists' Guild,Wisdom,1,1,1,0,0,0.0100334448160535,
+0,0,1,0,0,0,0,Unknown,House Baratheon of Dragonstone,Unknown,1,1,0,0,0,0.0066889632107023,
+1,1,0,0,0,0,0,northmen,House Stark,Unknown,1,1,0,0,0,0.0100334448160535,
+0,0,0,1,0,0,0,Unknown,Unknown,Ser,1,0,1,0,0,0.0100334448160535,
+0,1,0,0,0,0,0,Unknown,Other,Unknown,0,1,0,0,0,0.0066889632107023,
+0,1,0,0,0,0,0,northmen,House Stark,Unknown,0,1,0,0,0,0.0100334448160535,
+0,1,0,0,0,0,0,Unknown,Unknown,Unknown,0,1,0,0,0,0.0167224080267558,
+0,0,0,1,0,0,0,Unknown,House Lannister,Unknown,1,0,0,0,0,0.0133779264214046,
+0,0,0,0,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0033444816053511,
+0,0,1,0,0,0,0,Unknown,Brotherhood without banners,Unknown,1,0,0,0,0,0.0033444816053511,
+0,1,0,1,0,0,0,Unknown,House Greyjoy,Maester,1,1,1,0,0,0.0100334448160535,
+0,0,0,1,1,0,0,Ironborn,Unknown,Unknown,1,0,0,0,0,0.0167224080267558,
+0,0,0,0,1,0,0,Ironborn,Other,Unknown,1,0,0,0,0,0.0066889632107023,
+0,0,0,0,0,0,0,Unknown,House Velaryon,Ser,1,1,1,0,0,0.0267558528428093,
+0,0,0,0,1,0,0,Ironborn,Other,Unknown,1,0,0,0,0,0.0066889632107023,
+0,0,0,0,1,0,0,Ironmen,Unknown,Unknown,1,1,0,0,0,0.0033444816053511,
+1,0,0,0,0,0,0,Unknown,Unknown,Other,1,1,1,0,0,0.0033444816053511,
+0,0,0,1,1,0,0,Ironborn,Other,Unknown,1,1,0,0,0,0.020066889632107,
+1,0,0,0,1,0,0,Dothraki,Unknown,Unknown,0,0,0,0,0,0.0301003344481605,
+0,0,0,0,0,0,0,Unknown,Other,Other,1,0,1,1,0,0.163879598662207,
+0,1,1,1,1,0,0,Stormlands,House Estermont,Ser,1,1,1,0,0,0.0301003344481605,
+0,1,1,1,0,0,0,Unknown,House Frey,Ser,1,1,1,0,0,0.0334448160535117,
+0,0,0,1,1,0,0,Unknown,Faith of the Seven,Septa,1,0,0,0,0,0.0133779264214046,
+0,1,1,0,0,0,0,Ironborn,Other,Ser,0,1,1,0,0,0.020066889632107,
+1,1,1,1,1,0,0,Unknown,Night's Watch,Unknown,1,1,0,0,0,0.0334448160535117,
+1,1,1,1,1,0,0,Unknown,House Royce of the Gates of the Moon,Ser,1,1,1,0,0,0.0334448160535117,
+0,1,1,1,0,0,0,Unknown,Other,Other,1,0,1,0,0,0.0133779264214046,
+0,1,1,1,0,0,0,Unknown,House Florent,Other,1,1,1,0,0,0.0668896321070234,
+0,1,1,1,0,0,0,Unknown,House Frey,Unknown,1,0,0,0,0,0.1438127090301,40.0
+0,1,1,1,0,0,0,Unknown,House Norcross,Unknown,1,1,0,0,0,0.0802675585284281,15.0
+0,1,1,1,1,0,0,Unknown,House Seaworth,Other,0,1,1,0,0,0.0635451505016722,
+0,1,0,0,0,0,0,Unknown,Other,Unknown,0,1,0,0,0,0.0434782608695652,
+0,0,1,1,1,0,0,Unknown,House Tyrell,Unknown,1,0,0,0,0,0.150501672240802,19.0
+0,0,0,0,0,0,0,Unknown,Other,Lord,0,1,1,0,0,0.040133779264214,
+0,0,1,1,1,0,0,Unknown,Other,Lady,1,0,1,0,0,0.0234113712374581,
+0,0,1,1,0,0,0,Unknown,House Connington,Ser,1,0,1,0,0,0.060200668896321,
+0,1,1,1,1,0,0,Unknown,Other,Unknown,1,1,0,0,0,0.0334448160535117,
+0,1,1,1,1,0,0,Stormlands,House Estermont,Ser,1,1,1,0,0,0.0267558528428093,
+1,1,1,1,1,0,0,Unknown,Other,Ser,1,0,1,0,0,0.0267558528428093,
+0,1,1,1,0,0,0,Unknown,House Frey,Unknown,1,1,0,0,0,0.137123745819397,10.0
+0,1,1,1,0,0,0,Unknown,House Haigh,Unknown,1,0,0,0,0,0.0735785953177257,49.0
+0,0,1,1,1,0,0,Unknown,Other,Other,1,0,1,0,0,0.153846153846153,14.0
+0,0,0,1,1,0,0,Unknown,Other,Other,1,0,1,0,0,0.0133779264214046,
+0,1,1,1,0,0,0,Unknown,House Frey,Unknown,1,0,0,1,0,0.0668896321070234,
+0,1,1,1,1,0,0,Unknown,House Blackwood,Lady,0,0,1,1,0,0.0969899665551839,
+0,1,1,1,0,0,0,Unknown,House Frey,Unknown,1,0,0,0,0,0.1438127090301,23.0
+0,1,1,1,1,0,0,Unknown,House Crakehall,Unknown,0,0,0,1,0,0.153846153846153,19.0
+0,0,0,0,0,0,0,Unknown,Other,Other,0,1,1,1,1,0.414715719063545,100.0
+1,1,1,1,1,0,0,Valemen,House Royce,Ser,1,1,1,0,0,0.040133779264214,
+1,0,1,0,0,0,0,Unknown,House Brax,Other,0,1,1,0,0,0.0535117056856187,
+0,1,1,1,1,0,0,Unknown,Other,Lord,1,1,1,1,0,0.0802675585284281,
+0,1,1,1,1,0,0,Unknown,House Estermont,Ser,1,1,1,0,0,0.0367892976588628,
+0,1,1,1,1,0,0,Unknown,Other,Lady,1,0,1,1,0,0.0635451505016722,
+0,1,1,0,0,0,0,Unknown,Other,Other,1,1,1,0,0,0.0434782608695652,76.0
+1,1,1,1,1,0,0,Unknown,House Waynwood,Other,1,0,1,0,0,0.0869565217391304,
+0,1,1,1,0,0,0,Unknown,House Frey,Unknown,1,1,0,0,0,0.133779264214046,10.0
+0,0,0,0,0,0,0,Unknown,House Caswell,Other,1,1,1,0,0,0.0066889632107023,
+0,0,1,1,1,0,0,Unknown,Other,Lord,1,1,1,1,0,0.060200668896321,
+0,0,0,0,1,0,0,Northmen,House Karstark,Unknown,1,1,0,0,0,0.0434782608695652,
+0,1,1,1,1,0,0,Unknown,House Frey,Unknown,1,0,0,0,0,0.0468227424749163,20.0
+0,1,0,0,1,0,0,Northmen,House Stark,Unknown,1,1,0,1,0,0.103678929765886,
+0,1,1,1,0,0,0,Unknown,House Frey,Ser,1,1,1,1,0,0.163879598662207,42.0
+0,0,0,0,0,0,0,Reach,House Ashford,Other,1,1,1,0,0,0.0100334448160535,
+0,0,0,0,1,0,0,Ghiscari,Other,Cupbearer,1,0,1,0,0,0.0167224080267558,
+0,0,1,1,0,0,0,Unknown,House Hightower,Ser,1,1,1,1,0,0.0668896321070234,
+0,0,1,1,1,0,0,Unknown,Other,Ser,0,1,1,1,0,0.0735785953177257,
+0,0,1,1,1,0,0,Unknown,Faith of the Seven,Septon,0,1,0,0,1,0.354515050167224,
+0,0,0,1,1,0,0,Unknown,House Norcross,Ser,1,0,1,0,0,0.020066889632107,
+0,1,1,1,1,0,0,Unknown,Night's Watch,Unknown,1,1,0,0,0,0.0501672240802675,
+0,1,0,0,0,0,0,Northmen,House Stark,Winterfell,1,1,1,0,0,0.127090301003344,
+0,1,1,1,0,0,0,Unknown,Other,Unknown,1,0,0,1,0,0.133779264214046,
+0,0,0,1,1,0,0,Unknown,Other,Other,1,1,1,0,0,0.0267558528428093,
+0,1,1,1,1,0,0,Unknown,Other,Ser,1,0,1,0,0,0.020066889632107,
+0,0,0,1,0,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0100334448160535,
+0,1,1,1,1,0,0,Unknown,House Frey,Ser,0,1,1,1,0,0.0735785953177257,28.0
+0,1,1,1,1,0,0,Northmen,House Tallhart,Unknown,1,1,0,0,0,0.0702341137123745,16.0
+0,1,1,1,1,0,0,Northmen,Other,Unknown,1,0,0,1,0,0.0635451505016722,
+1,1,1,1,1,0,0,Northmen,Other,Unknown,1,0,0,0,0,0.0702341137123745,16.0
+0,1,0,0,0,0,0,Northmen,House Stark,Winterfell,1,1,1,1,0,0.234113712374581,
+0,0,0,0,1,0,0,Ghiscari,House of Loraq,Cupbearer,1,1,1,0,0,0.0033444816053511,
+1,0,0,0,0,0,0,Unknown,House Redwyne,Other,1,0,1,1,0,0.060200668896321,
+0,1,1,1,1,0,0,Unknown,Other,Lady,0,0,1,1,0,0.0668896321070234,17.0
+0,0,1,1,1,0,0,Unknown,Night's Watch,Unknown,1,1,0,0,0,0.020066889632107,
+0,1,1,1,0,0,0,Unknown,House Frey,Unknown,1,0,0,1,0,0.140468227424749,
+0,0,0,1,1,0,0,Ironborn,Other,Other,1,1,1,0,0,0.0635451505016722,
+0,1,1,1,0,0,0,Unknown,House Frey,Unknown,1,1,0,0,0,0.140468227424749,16.0
+0,0,0,1,0,0,0,Unknown,Other,Other,1,0,1,0,0,0.0066889632107023,
+0,1,1,1,1,0,0,Northmen,House Tallhart,Unknown,1,1,0,0,0,0.060200668896321,21.0
+0,1,0,0,0,0,0,Unknown,Other,Ser,0,1,1,0,0,0.0267558528428093,
+0,1,1,1,0,0,0,Unknown,House Frey,Unknown,1,1,0,0,0,0.100334448160535,24.0
+0,1,1,1,1,0,0,Unknown,Other,Unknown,0,1,0,0,0,0.0334448160535117,
+0,0,0,0,0,0,0,Unknown,House Caron,Other,0,1,1,0,0,0.0267558528428093,
+1,1,1,1,0,0,0,Unknown,House Crakehall,Ser,0,1,1,0,0,0.0367892976588628,
+0,0,0,0,0,0,0,Other,Other,Unknown,0,1,0,0,0,0.0167224080267558,
+0,1,1,1,0,0,0,Unknown,House Waynwood,Unknown,1,0,0,1,0,0.140468227424749,
+0,0,0,0,1,0,0,Unknown,House Caswell,Other,1,1,1,0,0,0.0133779264214046,
+1,1,0,0,0,0,0,Northmen,House Stark,Unknown,0,1,0,0,0,0.0301003344481605,
+1,1,1,1,1,0,0,Unknown,House Lannister,Unknown,1,0,0,0,0,0.0702341137123745,
+0,1,1,1,0,0,0,Unknown,House Frey,Unknown,1,0,0,0,0,0.133779264214046,13.0
+1,1,1,0,0,0,0,Unknown,Unknown,Septon,0,1,0,0,0,0.0635451505016722,
+0,0,0,0,0,0,0,Unknown,House Crakehall,Ser,0,0,1,0,0,0.0100334448160535,
+0,0,0,1,0,0,0,Unknown,House Crabb,Ser,1,1,1,0,0,0.0133779264214046,
+1,0,1,1,1,0,0,Rivermen,Other,Other,1,1,1,0,0,0.0702341137123745,
+0,1,1,1,1,1,1,Northmen,Other,Other,0,1,1,0,0,0.0735785953177257,15.0
+0,0,1,1,1,0,0,Unknown,Night's Watch,Unknown,0,1,0,0,0,0.0267558528428093,
+0,1,1,1,1,0,0,Unknown,Night's Watch,Unknown,1,0,0,0,0,0.0267558528428093,
+0,1,1,1,0,0,0,Unknown,House Florent,Ser,1,0,1,0,0,0.0836120401337792,
+0,1,1,1,1,0,0,Unknown,House Frey,Unknown,1,1,0,0,0,0.0468227424749163,17.0
+0,0,0,1,1,0,0,Unknown,Other,Ser,1,0,1,0,0,0.0234113712374581,
+0,0,0,1,1,0,0,Valemen,House Redfort,Ser,1,0,1,0,0,0.0234113712374581,
+1,1,1,1,1,0,0,Unknown,Night's Watch,Unknown,1,1,0,0,0,0.0066889632107023,
+1,1,0,0,0,0,0,Northmen,House Stark,Winterfell,0,1,1,1,1,0.484949832775919,
+0,1,1,1,1,0,0,Unknown,House Swann,Unknown,0,0,0,1,0,0.0769230769230769,13.0
+0,1,1,1,0,0,0,Unknown,House Frey,Unknown,1,0,0,0,0,0.1438127090301,15.0
+0,0,0,1,1,0,0,Ironborn,Other,Unknown,1,0,0,0,0,0.0167224080267558,
+0,0,0,1,1,0,0,Dornish,Other,Other,1,0,1,0,0,0.0100334448160535,
+0,1,1,1,0,0,0,Unknown,Other,Ser,1,0,1,1,0,0.103678929765886,
+0,0,0,1,1,0,0,Ironborn,House Greyjoy,Other,1,1,1,0,0,0.0735785953177257,
+0,1,1,1,1,0,0,Unknown,Night's Watch,Unknown,0,1,0,0,0,0.0501672240802675,45.0
+0,1,1,1,0,0,0,Unknown,House Paege,Ser,1,1,1,0,0,0.020066889632107,
+0,0,0,1,0,0,0,Unknown,Other,Ser,1,0,1,0,0,0.0100334448160535,
+0,1,1,1,0,0,0,Unknown,Other,Ser,1,0,1,0,0,0.157190635451505,40.0
+0,1,1,1,1,0,0,Unknown,Chataya's brothel,Unknown,1,0,0,0,0,0.040133779264214,
+1,1,1,1,1,0,0,Unknown,Night's Watch,Unknown,0,1,0,0,0,0.167224080267558,
+1,1,1,0,1,0,0,Unknown,Other,Unknown,1,0,0,1,0,0.0836120401337792,
+1,0,0,0,1,0,0,Northmen,Other,Unknown,0,1,0,0,0,0.0869565217391304,
+1,1,1,1,1,0,0,Unknown,House Frey,Ser,1,1,1,1,0,0.180602006688963,53.0
+0,1,1,1,0,0,0,Unknown,Other,Unknown,1,0,0,1,0,0.0969899665551839,
+0,1,1,1,0,0,0,Unknown,House Florent,Unknown,1,0,0,1,0,0.11705685618729,
+0,1,1,1,0,0,0,Unknown,House Frey,Unknown,1,0,0,0,0,0.0501672240802675,9.0
+0,1,1,1,1,0,0,Unknown,House Tully,Unknown,0,0,0,0,0,0.0133779264214046,
+0,0,1,1,1,0,0,Dornish,Other,Other,1,0,1,0,0,0.0267558528428093,
+0,0,0,1,0,0,0,Unknown,Other,Other,1,1,1,1,0,0.0568561872909698,
+0,0,1,1,0,0,0,Unknown,House Arryn,Ser,0,0,1,0,0,0.0836120401337792,
+0,1,1,1,0,0,0,Unknown,House Baratheon of Dragonstone,Ser,1,0,1,0,0,0.0234113712374581,
+1,1,0,0,1,0,0,Unknown,House Stark,Unknown,0,0,0,0,0,0.0434782608695652,
+0,0,0,1,0,0,0,Unknown,House Redwyne,Ser,1,1,1,1,0,0.0769230769230769,
+0,0,1,1,1,0,0,Unknown,Other,Knight,1,1,1,0,0,0.0267558528428093,
+1,0,0,1,1,0,0,Unknown,Other,Unknown,1,1,0,1,0,0.103678929765886,18.0
+0,1,1,1,0,0,0,Unknown,House Frey,Unknown,1,1,0,0,0,0.0869565217391304,11.0
+0,0,1,1,1,0,0,Unknown,Night's Watch,Unknown,0,1,0,0,0,0.0434782608695652,
+1,1,0,0,1,0,0,Vale mountain clans,Stone Crows,Unknown,1,0,0,0,0,0.0167224080267558,
+0,1,1,1,0,0,0,Unknown,House Haigh,Ser,1,1,1,0,0,0.0869565217391304,50.0
+0,0,0,1,0,0,0,Unknown,Kingsguard,Ser,1,1,1,0,0,0.0367892976588628,
+0,1,1,1,0,0,0,Unknown,Other,Ser,0,0,1,0,0,0.0367892976588628,
+1,1,1,1,1,0,0,Unknown,House Waynwood,Ser,1,0,1,0,0,0.060200668896321,28.0
+0,1,0,0,0,0,0,Northmen,House Stark,Winterfell,1,1,1,0,0,0.0802675585284281,
+0,0,1,1,1,0,0,Free Folk,Unknown,Unknown,0,1,0,0,0,0.0267558528428093,
+0,1,1,1,0,0,0,Unknown,Other,Other,1,0,1,0,0,0.0267558528428093,21.0
+0,1,1,1,1,0,0,Unknown,Night's Watch,Unknown,0,1,0,0,0,0.0434782608695652,
+0,1,0,0,0,0,0,Northmen,House Stark,King in the North,1,1,1,0,0,0.0100334448160535,
+1,0,1,0,0,0,0,Rivermen,House Tully,Other,1,1,1,0,1,0.357859531772575,
+0,1,1,1,1,0,0,Northmen,House Tallhart,Other,1,0,1,0,0,0.040133779264214,16.0
+0,1,0,0,1,0,0,Northmen,House Stark,King in the North,1,1,1,0,0,0.0267558528428093,
+0,1,0,0,0,0,0,Unknown,Other,Ser,0,1,1,0,0,0.0234113712374581,
+0,1,0,0,0,0,0,Northmen,House Stark,King in the North,1,0,1,0,0,0.0100334448160535,
+0,1,0,0,0,0,0,Northmen,House Stark,Winterfell,1,1,1,1,0,0.107023411371237,
+0,0,0,1,0,0,0,Unknown,Faith of the Seven,Ser,1,1,1,0,0,0.0769230769230769,50.0
+0,1,0,1,0,0,0,Unknown,House Arryn,Ser,0,1,1,0,0,0.0468227424749163,
+0,0,0,1,1,0,0,Unknown,Other,Unknown,1,0,0,1,0,0.0301003344481605,19.0
+0,0,1,1,0,0,0,Unknown,House Vance of Atranta,Ser,1,1,1,0,0,0.0267558528428093,
+0,1,1,1,1,0,0,Unknown,Night's Watch,Unknown,1,0,0,0,0,0.0133779264214046,
+0,0,1,1,1,0,0,Unknown,House Tyrell,Unknown,1,0,0,0,0,0.163879598662207,19.0
+1,1,1,1,1,0,0,Unknown,House Frey,Unknown,1,1,0,0,0,0.0668896321070234,15.0
+0,0,1,1,1,0,0,Unknown,House Tully,Unknown,0,0,0,0,0,0.0167224080267558,
+0,1,1,1,1,0,0,Reach,Other,Other,1,1,1,0,0,0.0501672240802675,27.0
+0,1,1,1,0,0,0,Unknown,Other,Unknown,1,0,0,1,0,0.160535117056856,41.0
+0,0,1,1,0,0,0,Unknown,Other,Unknown,1,0,0,1,0,0.127090301003344,
+0,1,1,1,0,0,0,Unknown,House Frey,Unknown,1,0,0,0,0,0.0802675585284281,9.0
+1,1,1,0,0,0,0,Unknown,Other,Ser,0,1,1,0,0,0.0668896321070234,
+1,1,0,0,1,0,0,Other,Unknown,Unknown,0,0,0,0,0,0.0334448160535117,
+1,1,1,1,1,0,0,Unknown,Other,Other,0,1,1,0,0,0.0468227424749163,
+0,1,1,1,1,0,0,Unknown,Other,Other,1,0,1,1,0,0.113712374581939,7.0
+0,1,1,1,0,0,0,Northmen,House Glover,Unknown,1,0,0,0,0,0.0535117056856187,8.0
+0,1,1,1,0,0,0,Unknown,House Florent,Ser,1,1,1,0,0,0.0869565217391304,
+0,0,0,1,0,0,0,Unknown,Other,Other,1,1,1,0,0,0.0167224080267558,
+0,0,0,1,1,0,0,Unknown,Other,Ser,1,0,1,0,0,0.0234113712374581,
+0,1,0,0,0,0,0,Northmen,House Stark,King in the North,1,1,1,0,0,0.0100334448160535,
+0,0,0,1,1,0,0,Braavosi,Unknown,Other,1,1,1,0,0,0.0167224080267558,
+1,1,1,1,0,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0635451505016722,
+0,0,0,1,1,0,0,Dornishmen,Other,Other,1,1,1,0,0,0.020066889632107,
+1,1,1,1,1,0,0,Unknown,House Brax,Ser,1,1,1,1,0,0.140468227424749,
+0,1,1,1,1,0,0,Unknown,Unknown,Maester,1,0,1,0,0,0.0434782608695652,
+0,0,0,0,0,0,0,Rivermen,House Frey,Ser,1,1,1,0,0,0.0367892976588628,
+0,0,0,1,0,0,0,Unknown,Other,Ser,1,1,1,1,0,0.0133779264214046,
+0,0,0,1,1,0,0,Unknown,Other,Other,1,1,1,0,0,0.0133779264214046,
+0,0,1,1,1,0,0,Unknown,Night's Watch,Unknown,0,1,0,0,0,0.0301003344481605,
+1,1,1,1,1,0,0,Unknown,House Tyrell,Unknown,1,0,0,0,0,0.130434782608695,
+0,1,1,1,0,0,0,Unknown,Other,Ser,1,1,1,1,0,0.0668896321070234,
+1,1,1,1,1,0,0,Unknown,House Tyrell,Unknown,1,1,0,0,0,0.130434782608695,
+1,0,1,1,1,0,0,Westerman,Other,Knight,1,0,1,0,0,0.0301003344481605,
+0,0,1,1,1,0,0,Unknown,Night's Watch,Unknown,0,1,0,0,0,0.0501672240802675,
+0,0,0,0,0,0,0,Unknown,House Swann,Other,0,1,1,0,0,0.0167224080267558,100.0
+0,1,1,1,0,0,0,Northmen,House Glover,Unknown,1,1,0,0,0,0.0468227424749163,10.0
+0,1,0,0,0,0,0,Unknown,House Wylde,Ser,0,1,1,0,0,0.0133779264214046,
+1,1,1,1,1,0,0,Unknown,House Tyrell,Other,1,1,1,0,0,0.163879598662207,
+0,1,1,0,0,0,0,Free Folk,Unknown,King-Beyond-the-Wall,1,1,1,0,0,0.0568561872909698,
+1,1,1,1,1,0,0,Other,House Westerling,Other,1,1,1,1,0,0.0836120401337792,
+0,0,1,1,1,0,0,Unknown,Other,Ser,1,0,1,0,0,0.0234113712374581,
+0,0,0,1,1,0,0,Unknown,Other,Other,1,1,1,0,0,0.0234113712374581,
+0,0,1,0,0,0,0,Unknown,Other,Grand Maester,0,1,1,0,0,0.0234113712374581,
+0,0,1,1,1,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0468227424749163,
+0,0,1,1,1,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0267558528428093,
+0,0,1,1,1,0,0,Unknown,Other,Ser,1,1,1,0,0,0.040133779264214,55.0
+0,0,0,1,1,0,0,Other,Other,Other,1,1,1,0,0,0.0869565217391304,
+0,0,0,1,0,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0066889632107023,
+0,0,0,0,0,0,0,Unknown,Other,Other,0,1,1,0,0,0.060200668896321,
+0,1,1,0,0,0,0,Free Folk,Unknown,King-Beyond-the-Wall,1,1,1,0,0,0.0535117056856187,
+1,1,1,1,1,0,0,Unknown,Other,Maester,1,1,1,0,0,0.153846153846153,
+0,0,1,1,1,0,0,Ghiscari,Other,Unknown,1,0,0,0,0,0.0234113712374581,
+0,0,1,0,0,0,0,Other,Other,Other,0,1,1,0,0,0.0301003344481605,
+0,0,0,0,1,0,0,Ghiscari,Other,Cupbearer,1,1,1,0,0,0.0100334448160535,
+0,0,1,1,1,0,0,Unknown,Night's Watch,Unknown,0,0,0,0,0,0.020066889632107,
+1,1,1,1,0,0,0,Unknown,Night's Watch,Unknown,1,1,0,0,0,0.0133779264214046,
+0,1,1,0,0,0,0,Unknown,Other,Other,0,1,1,0,0,0.040133779264214,
+0,1,1,0,0,0,0,Unknown,House Swann,Other,1,1,1,0,0,0.0334448160535117,46.0
+0,0,0,1,1,0,0,Unknown,Other,Other,1,1,1,0,0,0.0167224080267558,
+0,0,0,1,0,0,0,Unknown,House Hightower,Ser,1,0,1,1,0,0.0535117056856187,
+0,0,0,0,0,0,0,Unknown,Other,Archmaester,1,1,1,0,0,0.157190635451505,
+0,0,0,0,0,0,0,Unknown,House Hightower,Ser,0,1,1,0,0,0.0501672240802675,42.0
+0,0,1,1,1,0,0,Unknown,Night's Watch,Unknown,0,0,0,0,0,0.0334448160535117,
+1,1,1,0,0,0,0,Unknown,Night's Watch,Unknown,0,1,0,0,0,0.0267558528428093,
+1,1,1,1,1,0,0,Unknown,Night's Watch,Unknown,1,1,0,0,0,0.060200668896321,24.0
+1,1,1,1,0,0,0,Northmen,Other,Winterfell,1,1,1,0,0,0.0702341137123745,
+0,1,1,1,1,0,0,Unknown,House Paege,Ser,1,1,1,0,0,0.0167224080267558,
+0,1,0,0,0,0,0,Unknown,House Baratheon,Ser,1,1,1,0,0,0.0234113712374581,
+1,0,0,1,1,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0267558528428093,
+1,0,0,0,0,0,0,Reach,House Tyrell,Other,0,1,1,0,0,0.0635451505016722,
+1,0,0,0,0,0,0,Northmen,House Umber,Other,1,0,1,0,0,0.0167224080267558,
+0,0,1,1,1,0,0,Unknown,Night's Watch,Maester,1,1,1,0,0,0.0434782608695652,
+0,0,0,0,0,0,0,Other,House Westerling,Ser,0,1,1,0,0,0.270903010033444,
+0,0,0,1,1,0,0,Unknown,Other,Other,0,1,1,0,0,0.0301003344481605,
+0,0,0,0,0,0,0,Unknown,Other,Ser,0,1,1,0,0,0.0869565217391304,30.0
+0,0,0,1,1,0,0,Northmen,Other,Other,1,1,1,0,0,0.0535117056856187,
+0,1,1,1,0,0,0,Unknown,House Haigh,Ser,1,1,1,0,0,0.0903010033444816,51.0
+1,1,1,1,1,0,0,Northmen,House Tallhart,Ser,0,1,1,0,0,0.130434782608695,
+1,0,0,0,0,0,0,Unknown,Other,Lord Commander of the Night's Watch,1,1,1,0,0,0.060200668896321,
+1,1,1,1,1,0,0,Reach,House Redwyne,Ser,1,1,1,0,0,0.214046822742474,
+0,0,0,0,1,0,0,Northmen,House Umber,Other,1,1,1,0,0,0.020066889632107,
+0,1,1,1,0,0,0,Unknown,House Norcross,Ser,1,1,1,1,0,0.0769230769230769,
+0,1,1,1,0,0,0,Unknown,House Frey,Unknown,1,1,0,0,0,0.0903010033444816,18.0
+1,1,1,1,1,0,0,Reach,House Redwyne,Ser,1,1,1,0,0,0.217391304347826,
+0,1,1,0,0,0,0,Unknown,Other,Ser,0,1,1,0,0,0.020066889632107,
+0,0,1,1,1,0,0,Valemen,House Redfort,Other,1,1,1,0,0,0.0468227424749163,
+0,0,0,1,1,0,0,Ironborn,Other,Other,1,1,1,0,0,0.0769230769230769,
+0,0,0,1,1,0,0,Northern mountain clans,Other,Other,1,1,1,0,0,0.0367892976588628,
+0,0,0,0,1,0,0,Other,Unknown,Other,1,1,1,0,0,0.0501672240802675,
+0,0,1,1,0,0,0,Unknown,House Vance of Atranta,Ser,1,1,1,0,0,0.0267558528428093,
+1,1,1,0,1,0,0,Northmen,House Stark,Winterfell,0,1,1,0,0,0.060200668896321,
+0,0,0,0,0,0,0,Unknown,House Beesbury,Ser,0,1,1,0,0,0.0267558528428093,
+0,0,0,0,0,0,0,Unknown,Other,Ser,0,1,1,0,0,0.0535117056856187,
+0,0,0,1,1,0,0,Unknown,House Swyft,Ser,1,0,1,0,0,0.0100334448160535,
+0,0,0,1,0,0,0,Unknown,Other,Ser,1,0,1,0,0,0.0167224080267558,75.0
+1,1,1,1,1,0,0,Unknown,Other,Unknown,1,0,0,0,0,0.0267558528428093,
+1,1,1,1,0,0,0,northmen,House Stark,Unknown,1,0,0,0,0,0.0334448160535117,
+1,1,1,1,1,0,0,Unknown,House Lannister,Unknown,1,0,0,0,0,0.100334448160535,9.0
+0,1,1,1,1,0,0,Unknown,House Frey,Ser,1,1,1,1,0,0.0903010033444816,39.0
+1,1,1,1,1,0,0,Unknown,House Tyrell,Unknown,1,0,0,1,0,0.177257525083612,
+1,1,1,0,1,0,0,Unknown,Night's Watch,Other,0,1,1,0,0,0.060200668896321,
+0,0,1,1,1,0,0,Free Folk,Unknown,Unknown,0,1,0,0,0,0.0501672240802675,
+0,0,0,0,0,0,0,Unknown,House Lannister,Ser,0,1,1,1,0,0.0468227424749163,
+0,0,0,1,0,1,1,Unknown,House Arryn,Eyrie,1,1,1,0,0,0.0434782608695652,
+0,0,0,1,1,0,0,Valemen,House Redfort,Ser,1,0,1,0,0,0.0234113712374581,
+1,1,1,1,1,0,0,Unknown,Night's Watch,Unknown,1,1,0,0,0,0.020066889632107,
+0,0,0,0,0,0,0,Other,House Arryn,Eyrie,0,0,1,0,0,0.0334448160535117,
+0,1,1,1,0,0,0,Unknown,House Beesbury,Unknown,1,0,0,1,0,0.060200668896321,
+0,0,1,1,0,0,0,Westeros,House Darry,Unknown,1,1,0,1,0,0.0769230769230769,
+0,1,1,1,0,0,0,Unknown,Other,Unknown,1,0,0,0,0,0.0635451505016722,12.0
+0,1,1,1,1,0,0,Unknown,House Frey,Unknown,1,0,0,0,0,0.020066889632107,
+0,1,1,1,0,0,0,Unknown,Other,Unknown,1,0,0,1,0,0.100334448160535,
+0,0,0,0,0,0,0,Unknown,Other,Ser,0,1,1,0,0,0.0234113712374581,15.0
+0,0,0,0,0,0,0,Unknown,House Caswell,Other,0,1,1,0,0,0.0234113712374581,100.0
+0,0,0,1,1,0,0,Unknown,Other,Ser,1,0,1,0,0,0.0167224080267558,
+0,1,1,1,0,0,0,Unknown,House Brax,Unknown,1,0,0,0,0,0.113712374581939,9.0
+0,0,0,1,1,0,0,Unknown,Other,Other,1,0,1,0,0,0.0234113712374581,
+0,0,1,1,1,0,0,Ironborn,Other,Unknown,1,0,0,0,0,0.0234113712374581,
+0,0,0,1,1,0,0,Valemen,House Redfort,Ser,1,0,1,0,0,0.0234113712374581,
+0,1,1,1,0,0,0,Unknown,House Wylde,Ser,1,1,1,1,0,0.160535117056856,
+0,1,0,0,0,0,0,Northmen,House Stark,King in the North,1,1,1,0,0,0.0100334448160535,
+0,1,1,1,0,0,0,Unknown,House Frey,Unknown,1,0,0,0,0,0.0535117056856187,14.0
+0,1,0,0,0,0,0,Unknown,House Stark,Winterfell,1,1,1,1,0,0.127090301003344,
+0,1,1,0,0,0,0,Free Folk,Unknown,King-Beyond-the-Wall,1,1,1,0,0,0.0635451505016722,
+0,1,0,0,0,0,0,Northmen,House Stark,King in the North,1,1,1,0,0,0.0100334448160535,
+0,0,1,1,0,1,1,Unknown,House Darry,Ser,0,1,1,0,0,0.0468227424749163,
+0,0,0,1,1,0,0,Northmen,House Mormont,Unknown,1,0,0,0,0,0.040133779264214,27.0
+0,0,0,1,1,0,0,Other,Other,Unknown,1,0,0,1,0,0.020066889632107,
+1,1,1,1,1,0,0,Unknown,House Lannister,Unknown,1,0,0,0,0,0.103678929765886,17.0
+0,1,1,1,0,0,0,Unknown,House Frey,Unknown,1,0,0,1,0,0.0501672240802675,
+0,0,1,1,0,0,0,Unknown,Unknown,Grand Maester,0,1,1,0,0,0.260869565217391,82.0
+0,0,1,1,0,0,0,Dornish,Other,Unknown,1,0,0,0,0,0.020066889632107,
+0,0,1,0,0,0,0,Northmen,House Stark,Other,1,1,1,0,0,0.0167224080267558,
+0,1,1,1,1,0,0,Unknown,Night's Watch,Unknown,1,1,0,0,0,0.0367892976588628,54.0
+0,0,1,1,1,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0334448160535117,
+0,0,0,0,1,0,0,Ghiscari,Other,Cupbearer,1,0,1,0,0,0.0167224080267558,
+1,1,0,1,1,0,0,Unknown,House Stark,Unknown,0,1,0,0,0,0.0535117056856187,20.0
+0,1,1,1,0,0,0,Unknown,House Frey,Unknown,1,0,0,1,0,0.0668896321070234,43.0
+0,0,0,1,1,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0167224080267558,
+0,1,1,0,0,0,0,Other,Night's Watch,Unknown,0,1,0,0,0,0.040133779264214,
+0,1,1,1,0,0,0,Northmen,Other,Unknown,1,1,0,0,0,0.060200668896321,19.0
+0,0,1,1,1,0,0,Dornish,Other,Other,1,0,1,0,0,0.0267558528428093,
+0,0,1,1,1,0,0,Unknown,House Lannister,Unknown,1,0,0,1,0,0.0735785953177257,
+0,0,0,0,1,0,0,Other,Night's Watch,Other,1,1,1,0,0,0.0501672240802675,46.0
+0,0,1,1,1,0,0,Unknown,Night's Watch,Unknown,1,1,0,0,0,0.0167224080267558,
+1,1,1,1,1,0,0,Unknown,Other,Other,0,1,1,0,0,0.0568561872909698,
+0,0,1,1,0,0,0,Unknown,Other,Ser,1,1,1,1,0,0.127090301003344,
+0,0,0,1,1,0,0,Unknown,Other,Unknown,1,0,0,1,0,0.0468227424749163,
+0,0,1,1,1,0,0,Unknown,Other,Lady,1,0,1,1,0,0.17391304347826,
+0,1,1,1,0,0,0,Unknown,Other,Unknown,1,0,0,1,0,0.0802675585284281,
+0,0,1,1,1,0,0,Unknown,Other,Other,1,0,1,0,0,0.0234113712374581,
+0,0,0,0,0,0,0,Unknown,House Baratheon of Dragonstone,Unknown,1,0,0,0,0,0.0,
+1,1,1,1,1,0,0,Unknown,Other,Other,1,0,1,0,0,0.0367892976588628,
+0,1,1,1,1,0,0,Unknown,House Haigh,Ser,1,0,1,1,0,0.0869565217391304,
+0,1,1,1,1,0,0,Stormlands,House Estermont,Ser,1,0,1,0,0,0.0334448160535117,
+0,0,0,0,0,0,0,Westerman,Other,Ser,0,1,1,0,0,0.0735785953177257,
+0,0,1,1,1,1,1,Other,House Martell,Unknown,1,0,0,0,0,0.107023411371237,12.0
+1,0,1,0,0,0,0,Unknown,Other,Lord,0,0,1,0,0,0.0167224080267558,
+0,0,0,1,1,0,0,Unknown,Other,Ser,1,0,1,0,0,0.0133779264214046,
+0,0,0,1,1,0,0,Ironborn,Other,Unknown,1,0,0,0,0,0.0234113712374581,
+0,1,1,1,1,0,0,Unknown,Faith of the Seven,Septon,1,1,0,0,0,0.0769230769230769,56.0
+0,1,1,1,1,0,0,Unknown,Other,Lord,1,1,1,1,0,0.163879598662207,
+0,0,1,1,0,0,0,Unknown,Other,Lord,1,1,1,0,0,0.020066889632107,22.0
+0,0,1,1,1,0,0,Unknown,House Lannister,Ser,1,0,1,0,0,0.0668896321070234,
+0,0,1,0,0,1,1,Reach,House Tyrell,Other,1,1,1,1,0,0.170568561872909,
+0,0,0,1,1,1,1,Northmen,House Mormont,Unknown,1,1,0,0,0,0.0568561872909698,15.0
+0,1,1,1,1,0,0,Northmen,Other,Other,1,0,1,0,0,0.0367892976588628,
+0,0,0,0,0,0,0,Unknown,House Beesbury,Other,0,1,1,0,0,0.260869565217391,81.0
+0,0,1,1,1,0,0,Unknown,Other,Lord,1,1,1,0,0,0.0267558528428093,
+1,1,0,0,0,0,0,Unknown,House Darry,Other,0,0,1,0,0,0.0568561872909698,9.0
+0,0,1,1,0,0,0,Rivermen,Other,Other,1,1,1,0,0,0.0234113712374581,
+0,1,1,1,1,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0267558528428093,
+0,0,1,0,0,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0167224080267558,
+1,1,1,1,1,0,0,Dothraki,House Targaryen,Unknown,1,0,0,0,0,0.133779264214046,
+0,0,1,1,1,0,0,Northmen,House Karstark,Unknown,1,0,0,1,0,0.157190635451505,21.0
+1,1,1,1,1,0,0,Unknown,House Frey,Ser,0,1,1,1,0,0.247491638795986,41.0
+1,1,1,1,0,0,0,Unknown,House Hollard,Ser,0,1,1,0,0,0.23076923076923,39.0
+0,1,1,1,1,0,0,Free Folk,Unknown,Unknown,0,1,0,0,0,0.170568561872909,
+0,1,1,1,1,0,0,Unknown,House Seaworth,Other,0,1,1,0,0,0.0702341137123745,
+1,1,1,1,1,0,0,Unknown,House Mallister,Ser,1,1,1,0,0,0.130434782608695,60.0
+1,1,1,1,1,0,0,Unknown,House Baratheon,Unknown,1,1,0,0,0,0.284280936454849,18.0
+1,1,1,1,1,0,0,Unknown,House Frey,Ser,1,1,1,1,0,0.274247491638795,56.0
+0,0,0,1,1,0,0,Unknown,Other,Other,1,1,1,0,0,0.0802675585284281,45.0
+0,1,1,1,1,0,0,Unknown,Other,Ser,1,0,1,1,0,0.0635451505016722,46.0
+0,0,0,0,0,0,0,Unknown,Other,Other,0,1,1,1,0,0.334448160535117,
+0,1,1,1,1,0,0,Unknown,House Frey,Unknown,1,0,0,1,0,0.160535117056856,54.0
+0,0,0,1,1,0,0,Northmen,House Mormont,Unknown,1,0,0,0,0,0.040133779264214,28.0
+0,1,1,1,0,0,0,Unknown,House Frey,Unknown,1,0,0,1,0,0.107023411371237,56.0
+0,1,1,0,0,0,0,Unknown,Night's Watch,Ser,0,1,1,0,0,0.0267558528428093,
+0,1,1,1,0,0,0,Unknown,House Frey,Unknown,1,1,0,0,0,0.137123745819397,21.0
+0,0,0,1,1,0,0,Dornishmen,House Martell,Ser,1,0,1,0,0,0.0234113712374581,
+0,0,1,1,1,0,0,Unknown,House Lannister,Other,1,0,1,1,0,0.020066889632107,
+0,1,1,1,1,0,0,Unknown,House Seaworth,Other,0,1,1,0,0,0.0635451505016722,
+0,1,1,1,0,0,0,Unknown,Other,Unknown,1,0,0,0,0,0.103678929765886,43.0
+0,1,1,1,0,0,0,Unknown,House Darry,Unknown,1,0,0,1,0,0.190635451505016,
+0,1,1,1,0,0,0,Unknown,House Frey,Unknown,1,0,0,0,0,0.160535117056856,19.0
+0,0,0,1,1,5,1,Dornish,House Martell,Other,1,1,1,1,0,0.0367892976588628,
+0,0,1,1,1,0,0,Ironborn,Other,Other,1,1,1,0,0,0.0434782608695652,22.0
+0,0,1,0,0,0,0,Unknown,Night's Watch,Lord Commander of the Night's Watch,1,1,1,0,0,0.0501672240802675,
+0,1,1,1,0,0,0,Unknown,House Waynwood,Unknown,1,0,0,1,0,0.0969899665551839,
+0,0,0,0,0,0,0,Unknown,House Targaryen,Prince,0,1,1,0,0,0.100334448160535,25.0
+1,1,1,1,1,0,0,Unknown,House Frey,Unknown,1,0,0,0,0,0.0301003344481605,
+0,1,1,1,1,5,1,Unknown,House Lannister,Unknown,1,1,0,0,0,0.137123745819397,20.0
+0,1,1,1,0,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0234113712374581,
+0,1,1,1,0,0,0,Unknown,House Frey,Unknown,1,0,0,0,0,0.0836120401337792,11.0
+1,1,1,1,1,0,0,Unknown,Night's Watch,Unknown,1,1,0,0,0,0.0234113712374581,
+0,0,1,1,1,0,0,Unknown,Night's Watch,Unknown,0,1,0,0,0,0.0234113712374581,
+0,0,0,0,0,0,0,Rivermen,House Tully,Other,0,1,1,0,0,0.0167224080267558,
+1,1,0,0,0,1,1,Northmen,Other,Other,0,1,1,0,0,0.0635451505016722,
+0,0,1,1,1,0,0,Unknown,House Tyrell,Unknown,1,0,0,0,0,0.153846153846153,19.0
+0,1,1,1,1,0,0,Ironborn,Other,Other,1,0,1,0,0,0.0234113712374581,
+0,1,1,1,0,0,0,Unknown,House Crakehall,Unknown,1,0,0,1,0,0.0501672240802675,
+0,1,1,1,0,0,0,Unknown,House Crane,Unknown,1,0,0,1,0,0.0668896321070234,
+0,1,1,1,0,0,0,Unknown,House Florent,Unknown,1,0,0,1,0,0.0869565217391304,
+0,1,1,1,1,0,0,Unknown,House Frey,Unknown,1,0,0,0,0,0.0167224080267558,
+0,0,1,1,0,0,0,Unknown,Other,Ser,1,1,1,1,0,0.0301003344481605,
+0,1,1,1,1,0,0,Unknown,Unknown,Maester,1,0,1,0,0,0.0234113712374581,
+0,0,1,1,1,0,0,Unknown,House Crane,Unknown,1,0,0,0,0,0.0301003344481605,
+0,1,1,1,0,0,0,Unknown,House Frey,Unknown,1,0,0,0,0,0.0836120401337792,17.0
+0,0,1,1,0,0,0,Unknown,House Crakehall,Ser,1,1,1,0,0,0.0267558528428093,
+0,0,0,0,1,0,0,Ghiscari,Other,Cupbearer,1,1,1,0,0,0.0167224080267558,
+1,1,1,1,1,0,0,Unknown,House Tyrell,Unknown,1,0,0,1,0,0.163879598662207,
+0,0,0,1,1,0,0,Unknown,Faith of the Seven,Septa,1,0,0,0,0,0.0301003344481605,
+0,0,1,1,0,0,0,Unknown,House Velaryon,Other,1,1,1,0,0,0.020066889632107,12.0
+0,0,0,1,0,0,0,Braavosi,Unknown,Other,1,1,1,0,0,0.0100334448160535,
+0,1,1,0,0,0,0,Valyrian,House Velaryon,Other,0,1,1,0,0,0.0234113712374581,
+0,0,0,1,1,0,0,Unknown,Other,Other,1,0,1,0,0,0.020066889632107,
+1,1,1,1,1,0,0,Unknown,House Waynwood,Ser,1,1,1,0,0,0.0367892976588628,
+0,1,1,1,1,0,0,Unknown,House Frey,Lady,1,0,1,1,0,0.120401337792642,37.0
+0,1,1,1,1,0,0,Unknown,Night's Watch,Maester,1,0,1,0,0,0.0234113712374581,
+1,1,1,1,1,0,0,Unknown,House Tyrell,Unknown,1,1,0,0,0,0.140468227424749,
+0,0,1,1,1,0,0,Free Folk,Unknown,Unknown,1,1,0,1,0,0.0267558528428093,
+0,0,1,1,1,0,0,Unknown,Night's Watch,Unknown,0,1,0,0,0,0.020066889632107,
+0,0,0,0,0,0,0,Unknown,House Targaryen,Unknown,1,1,0,0,0,0.0468227424749163,
+0,0,1,0,0,0,0,Unknown,Faith of the Seven,Septon,0,1,0,0,0,0.31438127090301,
+0,1,1,1,0,0,0,Unknown,House Caron,Unknown,1,1,0,1,0,0.107023411371237,47.0
+0,0,1,0,0,0,0,Unknown,Other,Other,1,1,1,0,0,0.167224080267558,
+0,0,1,1,0,0,0,Unknown,Other,Ser,0,1,1,0,0,0.0267558528428093,
+0,0,1,1,1,0,0,Dornish,Other,Unknown,1,1,0,0,0,0.0133779264214046,
+0,0,1,1,0,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0267558528428093,
+0,0,0,0,0,0,0,Other,Unknown,Other,1,0,1,0,0,0.0133779264214046,
+1,1,1,1,1,0,0,Unknown,House Lannister,Unknown,1,0,0,0,0,0.0702341137123745,
+0,0,0,1,1,0,0,Braavosi,Other,Unknown,1,1,0,0,0,0.0133779264214046,
+0,1,1,1,1,0,0,Ironborn,Other,Other,1,0,1,0,0,0.020066889632107,
+0,0,1,1,1,0,0,Unknown,House Vance of Atranta,Other,1,1,1,0,0,0.0367892976588628,
+0,0,1,1,1,0,0,Dornish,Other,Other,1,0,1,0,0,0.0434782608695652,
+0,0,1,1,1,0,0,Unknown,Unknown,Septa,1,0,0,0,0,0.0267558528428093,
+0,0,0,1,1,0,0,Unknown,Faith of the Seven,Septon,1,1,0,0,0,0.0167224080267558,
+0,0,1,1,1,0,0,Tyroshi,Night's Watch,Unknown,0,1,0,0,0,0.0367892976588628,
+1,1,1,1,1,1,1,Unknown,House Frey,Unknown,1,1,0,0,0,0.0836120401337792,24.0
+0,0,1,1,1,0,0,Unknown,Other,Unknown,1,0,0,0,0,0.0234113712374581,
+0,0,1,1,0,0,0,Unknown,House Tyrell,Ser,1,1,1,1,0,0.130434782608695,
+0,1,1,1,1,0,0,Northmen,Other,Other,1,1,1,0,0,0.0367892976588628,
+0,0,0,1,0,0,0,Unknown,House Caswell,Lord Commander of the Night's Watch,0,1,1,0,0,0.0568561872909698,
+0,0,0,0,1,0,0,Other,Unknown,Other,0,0,1,0,0,0.0133779264214046,
+0,1,1,1,0,0,0,Unknown,Unknown,Maester,1,0,1,0,0,0.0702341137123745,
+0,0,1,1,1,0,0,Unknown,Other,Unknown,1,1,0,0,0,0.0066889632107023,
+0,0,0,0,0,0,0,Unknown,Other,Other,1,0,1,0,0,0.0,
+0,0,1,1,1,0,0,Unknown,Night's Watch,Unknown,0,0,0,0,0,0.0234113712374581,
+0,0,0,1,1,0,0,Unknown,Other,Other,1,0,1,0,0,0.0267558528428093,
+0,1,1,1,0,0,0,Unknown,House Frey,Unknown,1,0,0,0,0,0.0501672240802675,8.0
+0,0,1,1,1,0,0,Unknown,Other,Unknown,1,1,0,0,0,0.0568561872909698,
+0,0,1,1,1,0,0,Unknown,House Plumm,Lord,0,1,1,1,0,0.0869565217391304,
+0,0,0,0,0,0,0,Unknown,House Bracken,Ser,1,1,1,0,0,0.0267558528428093,
+0,1,1,0,0,0,0,Unknown,Other,Ser,0,0,1,0,0,0.0434782608695652,69.0
+0,0,1,1,0,0,0,Northern mountain clans,Other,Unknown,0,0,0,0,0,0.0301003344481605,
+0,1,1,1,0,0,0,Unknown,House Frey,Ser,0,1,1,1,0,0.170568561872909,
+1,1,1,1,1,0,0,Unknown,House Mallister,Unknown,1,1,0,0,0,0.0769230769230769,
+0,1,1,1,0,0,0,Unknown,Other,Unknown,1,0,0,0,0,0.103678929765886,41.0
+0,1,1,1,1,0,0,Unknown,House Haigh,Unknown,1,0,0,1,0,0.0735785953177257,64.0
+0,1,1,1,0,0,0,Unknown,House Frey,Unknown,1,0,0,0,0,0.100334448160535,11.0
+1,1,1,1,1,0,0,Unknown,House Frey,Ser,1,1,1,0,0,0.0836120401337792,36.0
+0,1,1,0,1,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0501672240802675,
+0,0,1,1,1,0,0,Unknown,House Plumm,Lord,1,1,1,0,0,0.0301003344481605,
+1,1,1,1,1,0,0,Dothraki,Unknown,Other,1,0,1,0,0,0.060200668896321,
+0,0,0,1,0,0,0,Braavosi,Unknown,Other,1,0,1,0,0,0.0133779264214046,
+0,0,1,1,0,0,0,Unknown,Other,Other,0,1,1,0,1,0.357859531772575,
+0,0,1,0,0,0,0,Unknown,Other,Lord Commander of the Night's Watch,0,1,1,0,0,0.0668896321070234,
+1,1,1,1,0,0,0,northmen,House Stark,Unknown,1,1,0,0,0,0.0234113712374581,
+1,0,1,1,1,0,0,Unknown,Other,Other,1,1,1,0,0,0.0234113712374581,
+0,0,0,1,0,0,0,Unknown,House Hightower,Other,1,1,1,0,0,0.0066889632107023,
+0,0,0,0,0,0,0,Unknown,Other,Ser,0,1,1,0,0,0.0668896321070234,
+0,0,0,1,1,0,0,Unknown,Other,Other,1,0,1,0,0,0.0234113712374581,
+0,0,0,1,0,0,0,Unknown,Other,Other,1,1,1,0,0,0.0334448160535117,
+0,1,1,1,1,0,0,Free folk,Unknown,Unknown,1,0,0,0,0,0.0100334448160535,
+0,0,0,1,1,0,0,Ironborn,Other,Other,0,1,1,0,0,0.0468227424749163,
+0,0,0,0,0,0,0,Other,Unknown,King-Beyond-the-Wall,0,1,1,0,0,0.0,
+0,0,0,1,1,0,0,Unknown,Faith of the Seven,Septon,1,1,0,0,0,0.020066889632107,
+0,0,1,1,0,0,0,Unknown,House Westerling,Ser,0,1,1,0,0,0.0702341137123745,
+0,0,1,0,0,0,0,Unknown,Night's Watch,Unknown,0,1,0,0,0,0.0133779264214046,
+0,0,0,1,1,0,0,Unknown,Other,Ser,1,0,1,0,0,0.020066889632107,
+0,1,1,1,1,0,0,Unknown,House Frey,Ser,1,1,1,1,0,0.177257525083612,41.0
+1,0,1,1,1,0,0,Unknown,Other,Other,1,0,1,0,0,0.020066889632107,
+0,1,1,1,0,0,0,Unknown,House Norcross,Unknown,1,1,0,0,0,0.0836120401337792,9.0
+0,0,0,1,1,0,0,Unknown,Other,Other,1,1,1,0,0,0.0234113712374581,
+0,0,0,0,0,0,0,Unknown,House Royce,Other,0,0,1,1,0,0.0936454849498327,
+0,0,0,1,1,0,0,Unknown,Other,Other,1,1,1,0,0,0.0167224080267558,
+0,1,1,1,0,0,0,Unknown,House Florent,Unknown,1,0,0,1,0,0.107023411371237,
+1,0,0,1,0,0,0,Dothraki,Unknown,Other,1,1,1,0,0,0.0100334448160535,
+0,0,0,1,1,0,0,Northmen,House Ryswell,Unknown,1,1,0,0,0,0.040133779264214,
+0,0,0,0,0,0,0,Unknown,Other,Ser,0,1,1,0,0,0.0267558528428093,
+0,1,1,1,0,0,0,Unknown,House Wylde,Unknown,1,0,0,0,0,0.160535117056856,10.0
+0,1,1,1,0,0,0,Unknown,House Frey,Unknown,1,0,0,0,0,0.060200668896321,19.0
+0,0,0,1,0,0,0,Unknown,Kingsguard,Ser,1,1,1,0,0,0.060200668896321,
+0,1,1,0,0,0,0,Unknown,House Brax,Ser,0,0,1,0,0,0.0468227424749163,
+0,0,1,0,0,0,0,Unknown,Night's Watch,Lord Commander of the Night's Watch,1,1,1,0,0,0.0568561872909698,
+1,1,1,1,0,0,0,Unknown,Other,Other,0,0,1,0,0,0.0501672240802675,
+0,0,0,1,1,0,0,Unknown,Other,Lord,1,1,1,0,0,0.0133779264214046,
+1,1,1,1,1,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0735785953177257,68.0
+0,0,1,0,0,0,0,Unknown,Other,Lord Commander of the Night's Watch,1,1,1,0,0,0.0635451505016722,
+1,0,0,0,0,0,0,Northmen,House Stark,King in the North,1,1,1,0,0,0.040133779264214,
+0,0,0,1,1,0,0,Northmen,House Ryswell,Other,1,1,1,0,0,0.040133779264214,
+0,0,0,1,0,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0267558528428093,
+0,1,0,0,0,0,0,Northmen,House Stark,Winterfell,1,1,1,1,0,0.130434782608695,
+0,0,0,1,1,0,0,Unknown,Other,Other,1,0,1,0,0,0.0167224080267558,
+0,0,0,0,0,0,0,Unknown,Other,Ser,1,1,1,1,0,0.0234113712374581,
+1,1,1,1,1,0,0,Unknown,House Frey,Unknown,1,0,0,0,0,0.0234113712374581,
+0,0,0,0,1,0,0,Unknown,House Connington,Other,1,1,1,0,0,0.0334448160535117,
+0,0,1,1,0,0,0,Unknown,House Vance of Atranta,Ser,1,1,1,0,0,0.0267558528428093,
+0,0,1,0,1,0,0,Tyroshi,Unknown,Other,1,1,1,0,0,0.020066889632107,
+0,0,0,1,0,0,0,Unknown,Other,Other,1,0,1,0,0,0.0066889632107023,
+0,0,0,1,1,0,0,Unknown,Other,Ser,1,0,1,0,0,0.0267558528428093,
+1,0,1,1,0,0,0,Unknown,Unknown,Other,1,1,1,0,0,0.0234113712374581,
+0,0,1,0,0,0,0,Unknown,House Hightower,Lord Commander of the Night's Watch,1,1,1,0,0,0.0535117056856187,
+0,1,1,0,0,0,0,Unknown,House Brax,Ser,0,1,1,0,0,0.040133779264214,
+0,1,1,1,0,0,0,Unknown,House Crane,Ser,1,0,1,1,0,0.0702341137123745,
+1,1,1,1,0,0,0,Unknown,House Redwyne,Ser,0,1,1,0,1,0.364548494983277,
+0,1,1,1,0,0,0,Unknown,House Florent,Ser,1,1,1,0,0,0.0635451505016722,
+1,1,1,1,1,1,1,Unknown,House Frey,Unknown,1,1,0,0,0,0.0234113712374581,
+0,1,1,1,0,0,0,Unknown,House Frey,Unknown,1,0,0,0,0,0.137123745819397,11.0
+0,1,1,1,0,0,0,Unknown,House Royce,Unknown,1,0,0,1,0,0.140468227424749,
+0,1,1,1,0,0,0,Unknown,House Florent,Unknown,1,0,0,1,0,0.0702341137123745,
+0,0,1,1,1,0,0,Dornish,Other,Ser,1,1,1,1,0,0.0535117056856187,
+0,0,0,0,0,0,0,Valyrian,House Targaryen,Princess,0,1,1,0,0,0.0702341137123745,100.0
+0,1,1,1,0,0,0,Unknown,House Paege,Unknown,1,0,0,1,0,0.0802675585284281,
+0,1,1,1,0,0,0,Unknown,House Frey,Unknown,1,0,0,0,0,0.147157190635451,18.0
+0,1,1,1,1,0,0,Unknown,House Whent,Lady,1,0,1,1,0,0.0301003344481605,
+0,1,1,1,0,0,0,Unknown,House Frey,Unknown,1,0,0,0,0,0.137123745819397,20.0
+0,1,1,1,0,0,0,Ironborn,House Botley,Other,0,1,1,0,0,0.0903010033444816,
+0,0,0,1,1,0,0,Unknown,Faith of the Seven,Septa,1,0,0,0,0,0.0167224080267558,
+0,0,0,1,1,0,0,Westerman,Other,Other,1,1,1,0,0,0.020066889632107,
+0,1,1,1,1,0,0,Unknown,Other,Unknown,1,1,0,0,0,0.0635451505016722,60.0
+0,0,1,1,1,0,0,Unknown,Other,Lord,1,0,1,0,0,0.020066889632107,
+0,0,0,1,0,0,0,Other,Other,Other,1,0,1,1,0,0.0434782608695652,
+0,0,0,0,0,0,0,Unknown,Kingsguard,Ser,1,1,1,0,0,0.0,
+0,1,1,1,0,0,0,Unknown,House Frey,Unknown,1,0,0,0,0,0.137123745819397,20.0
+1,1,1,1,1,1,1,Rivermen,House Whent,Other,0,0,1,1,0,0.0802675585284281,
+0,0,1,1,0,0,0,Unknown,House Swyft,Unknown,1,0,0,1,0,0.0267558528428093,
+0,0,1,1,1,0,0,Unknown,House Crakehall,Unknown,1,0,0,1,0,0.0668896321070234,
+0,1,1,1,1,0,0,Unknown,House Frey,Unknown,1,0,0,0,0,0.0434782608695652,13.0
+0,0,0,0,0,0,0,Unknown,Other,Ser,1,1,1,1,0,0.0167224080267558,
+0,0,0,1,1,0,0,Ironborn,Other,Other,1,1,1,0,0,0.0635451505016722,
+0,0,0,0,0,0,0,Unknown,Other,Other,0,1,1,0,0,0.0167224080267558,
+0,1,1,1,1,0,0,Unknown,House Seaworth,Unknown,1,1,0,0,0,0.0568561872909698,16.0
+0,1,1,1,1,0,0,Unknown,House Seaworth,Unknown,1,1,0,0,0,0.0635451505016722,12.0
+0,1,1,1,0,0,0,Unknown,House Frey,Unknown,1,0,0,0,0,0.100334448160535,42.0
+0,0,1,1,1,0,0,Unknown,House Swyft,Ser,1,1,1,0,0,0.0301003344481605,
+0,0,0,0,0,0,0,Unknown,Other,Ser,0,0,1,0,0,0.0936454849498327,
+0,0,1,1,0,0,0,Unknown,Other,Ser,1,0,1,0,0,0.020066889632107,
+0,0,1,1,0,0,0,Unknown,House Crakehall,Other,1,1,1,0,0,0.0267558528428093,
+0,0,0,1,0,0,0,Ironborn,Unknown,Other,1,1,1,0,0,0.0100334448160535,
+0,0,1,1,0,0,0,Unknown,Other,Other,1,0,1,1,0,0.0869565217391304,
+0,0,0,1,1,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0167224080267558,
+0,1,1,1,1,0,0,Northmen,Other,Other,1,0,1,1,0,0.0702341137123745,
+0,1,1,1,0,0,0,Unknown,House Paege,Unknown,1,0,0,1,0,0.0802675585284281,
+0,0,0,1,0,0,0,Unknown,House Hollard,Ser,1,1,1,0,0,0.0434782608695652,
+0,0,0,1,1,0,0,Unknown,Other,Ser,1,0,1,0,0,0.0301003344481605,
+0,1,1,1,1,0,0,Unknown,House Frey,Unknown,0,1,0,1,0,0.20066889632107,48.0
+0,1,1,1,1,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0468227424749163,
+0,1,1,1,1,0,0,Unknown,Other,Ser,1,0,1,0,0,0.0234113712374581,
+0,0,1,1,0,0,0,Braavosi,Unknown,Other,1,1,1,0,0,0.0234113712374581,
+0,0,1,1,1,0,0,Unknown,Other,Other,1,0,1,0,0,0.0167224080267558,
+0,0,0,1,1,0,0,Northmen,Other,Ser,1,0,1,0,0,0.0167224080267558,
+0,0,1,1,1,0,0,Unknown,Other,Ser,0,1,1,0,0,0.040133779264214,
+0,0,1,1,0,0,0,Unknown,House Tyrell,Ser,1,1,1,1,0,0.137123745819397,
+0,0,1,1,1,0,0,Unknown,Other,Other,1,1,1,1,0,0.0434782608695652,
+0,0,0,1,0,0,0,Unknown,House Harlaw,Other,1,1,1,0,0,0.0535117056856187,
+0,0,1,1,1,0,0,Unknown,Night's Watch,Unknown,1,0,0,0,0,0.0133779264214046,
+0,0,0,1,0,0,0,Ironborn,House Harlaw,Other,1,0,1,0,0,0.0100334448160535,
+0,0,1,1,1,0,0,Unknown,Other,Other,1,1,1,1,0,0.020066889632107,
+1,1,1,1,1,0,0,Unknown,Unknown,Unknown,0,1,0,0,0,0.120401337792642,20.0
+1,1,1,0,1,0,0,Unknown,Night's Watch,Unknown,1,1,0,0,0,0.0367892976588628,
+1,1,1,0,1,0,0,northmen,House Stark,Unknown,0,1,0,0,0,0.0635451505016722,49.0
+0,0,0,1,0,0,0,Unknown,Other,Other,1,0,1,0,0,0.0066889632107023,
+0,0,0,1,1,0,0,Unknown,Faith of the Seven,Septon,1,1,0,0,0,0.0167224080267558,
+0,0,0,1,1,0,0,Northern mountain clans,Other,Other,1,0,1,0,0,0.020066889632107,
+0,0,1,1,1,0,0,Free Folk,Unknown,Unknown,0,1,0,0,0,0.0267558528428093,
+0,0,0,1,1,0,0,Unknown,Other,Other,1,0,1,0,0,0.0167224080267558,
+0,0,1,1,1,0,0,Dornish,Other,Other,1,0,1,0,0,0.0234113712374581,
+0,0,1,0,0,0,0,Unknown,Other,Lord Commander of the Night's Watch,1,1,1,0,0,0.0535117056856187,
+0,0,1,1,1,0,0,Unknown,Other,Ser,1,0,1,0,0,0.0301003344481605,
+0,0,0,1,1,0,0,Ironborn,Other,Other,1,0,1,0,0,0.0133779264214046,
+0,0,0,1,1,0,0,Unknown,Other,Other,1,1,1,0,0,0.0301003344481605,
+0,0,0,1,1,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0100334448160535,
+0,0,1,1,0,0,0,Unknown,House Crakehall,Ser,1,1,1,0,0,0.0234113712374581,
+0,0,0,0,0,0,0,Westerman,House Lannister,Ser,0,1,1,1,0,0.0769230769230769,
+0,1,1,1,0,0,0,Unknown,House Wylde,Unknown,1,0,0,1,0,0.0501672240802675,
+0,1,1,1,1,0,0,Unknown,House Frey,Unknown,1,0,0,0,0,0.0869565217391304,36.0
+1,1,1,1,1,0,0,Unknown,House Lannister,Unknown,0,1,0,1,0,0.133779264214046,13.0
+0,1,1,1,0,0,0,Unknown,House Frey,Unknown,1,0,0,0,0,0.0836120401337792,13.0
+1,1,1,1,1,0,0,Unknown,House Brax,Ser,1,1,1,0,0,0.0434782608695652,
+0,1,1,1,0,0,0,Unknown,House Frey,Ser,0,1,1,1,0,0.0635451505016722,38.0
+0,1,1,1,1,0,0,Unknown,House Frey,Ser,1,1,1,0,0,0.0802675585284281,18.0
+0,0,0,0,0,0,0,Dornish,House Dayne,Ser,1,1,1,0,0,0.0066889632107023,
+0,0,1,1,1,0,0,Unknown,Other,Ser,1,1,1,0,0,0.020066889632107,
+0,0,0,1,1,0,0,Unknown,Faith of the Seven,Septa,1,0,0,0,0,0.020066889632107,
+1,1,1,1,1,0,0,Unknown,Other,Other,1,0,1,0,0,0.0334448160535117,68.0
+0,0,0,1,0,0,0,Valemen,Other,Other,1,0,1,0,0,0.0100334448160535,
+0,0,0,0,0,0,0,Valyrian,House Velaryon,Ser,0,1,1,0,0,0.0301003344481605,
+0,0,0,0,0,0,0,Valyrian,House Velaryon,Other,1,0,1,1,0,0.0802675585284281,
+1,1,0,0,0,0,0,Unknown,Other,Winterfell,0,1,1,0,0,0.0535117056856187,
+1,1,1,1,0,0,0,Unknown,House Greyjoy,Other,0,0,1,0,0,0.0367892976588628,
+0,0,0,0,1,0,0,Unknown,House Plumm,Lord,0,0,1,0,0,0.0936454849498327,100.0
+0,1,1,1,1,0,0,Unknown,House Lannister,Other,1,1,1,0,0,0.040133779264214,
+1,1,1,1,1,0,0,Unknown,House Crane,Ser,1,0,1,0,0,0.0267558528428093,
+0,1,1,1,0,0,0,Unknown,House Frey,Unknown,1,0,0,0,0,0.0334448160535117,11.0
+0,1,1,1,0,0,0,Unknown,House Haigh,Unknown,1,0,0,0,0,0.0769230769230769,11.0
+0,1,1,1,0,0,0,Unknown,House Brax,Unknown,1,0,0,0,0,0.11705685618729,12.0
+0,1,1,1,0,0,0,Unknown,Other,Unknown,1,1,0,0,0,0.0668896321070234,15.0
+0,1,1,1,1,0,0,Ironborn,Other,Other,1,1,1,0,0,0.0234113712374581,
+0,0,0,1,1,0,0,Unknown,House Waynwood,Ser,1,1,1,0,0,0.0267558528428093,
+0,0,0,1,0,0,0,Unknown,Other,Archmaester,1,1,1,0,0,0.0434782608695652,
+0,1,1,1,0,0,0,Unknown,Other,Unknown,1,1,0,0,0,0.110367892976588,42.0
+0,1,0,0,0,0,0,Unknown,House Stark,King in the North,1,1,1,0,0,0.0100334448160535,
+0,1,1,1,0,0,0,Unknown,House Frey,Unknown,1,1,0,1,0,0.107023411371237,56.0
+0,0,0,1,0,0,0,Unknown,House Beesbury,Other,1,0,1,0,0,0.0066889632107023,
+0,1,1,1,1,0,0,Unknown,House Frey,Unknown,1,1,0,0,0,0.0501672240802675,16.0
+0,1,1,1,1,0,0,Unknown,House Frey,Unknown,1,1,0,0,0,0.0501672240802675,19.0
+1,1,1,1,1,0,0,Unknown,House Frey,Ser,1,1,1,1,0,0.100334448160535,38.0
+0,1,1,1,1,0,0,Unknown,Unknown,Maester,1,1,1,0,0,0.0635451505016722,33.0
+0,0,0,0,1,0,0,Dornish,Other,Ser,0,1,1,0,0,0.040133779264214,
+1,1,1,0,1,1,1,Unknown,House Darry,Ser,0,1,1,0,0,0.120401337792642,
+0,0,0,1,0,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0100334448160535,
+1,1,1,1,1,4,1,Unknown,House Lannister,Unknown,0,1,0,0,0,0.167224080267558,14.0
+0,1,1,1,1,0,0,Unknown,House Frey,Unknown,1,1,0,0,0,0.0802675585284281,16.0
+0,1,0,0,0,0,0,Northmen,House Stark,Winterfell,0,1,1,1,0,0.11705685618729,
+0,1,1,1,1,0,0,Unknown,Other,Other,1,1,1,0,0,0.0434782608695652,
+0,0,1,1,0,0,0,Northmen,Other,Ser,1,1,1,0,0,0.0334448160535117,86.0
+0,1,1,1,0,0,0,Unknown,House Whent,Unknown,1,0,0,1,0,0.133779264214046,
+0,0,0,1,1,0,0,Valemen,House Royce,Unknown,1,1,0,1,0,0.0434782608695652,
+0,1,1,1,0,0,0,Unknown,House Frey,Unknown,1,1,0,0,0,0.0468227424749163,18.0
+0,1,1,1,0,0,0,Unknown,Other,Unknown,1,0,0,1,0,0.0501672240802675,
+0,1,1,1,0,0,0,Unknown,House Frey,Unknown,1,0,0,0,0,0.0468227424749163,20.0
+1,1,1,1,1,0,0,Unknown,Other,Ser,1,1,1,0,0,0.130434782608695,
+0,0,0,1,1,4,1,Unknown,House Bracken,Ser,0,1,1,1,0,0.210702341137123,69.0
+1,1,1,1,1,0,0,Unknown,House Frey,Ser,0,1,1,1,0,0.147157190635451,60.0
+0,1,1,0,1,4,1,Valyrian,House Targaryen,Prince,0,1,1,1,0,0.207357859531772,41.0
+0,0,0,0,1,4,1,Valyrian,House Targaryen,Other,0,1,1,0,0,0.311036789297658,20.0
+0,1,1,1,0,0,0,Unknown,House Frey,Other,1,0,1,1,0,0.237458193979933,23.0
+0,0,0,0,0,0,0,Reach,House Ashford,Ser,1,1,1,0,0,0.0167224080267558,
+0,0,1,1,1,0,0,Unknown,Other,Other,1,1,1,0,0,0.060200668896321,
+0,0,0,1,1,0,0,Northmen,House Karstark,Other,1,1,1,0,0,0.137123745819397,
+1,1,1,1,1,8,1,Northmen,House Stark,Princess,1,0,1,0,1,1.0,16.0
+0,1,1,1,1,1,1,Unknown,House Florent,Ser,1,1,1,0,0,0.307692307692307,
+0,1,1,1,1,0,0,Valyrian,House Velaryon,Other,1,1,1,0,1,0.377926421404682,28.0
+0,0,1,1,1,0,0,Unknown,Second Sons,Other,1,1,1,0,0,0.140468227424749,
+0,1,1,1,1,0,0,Northmen,House Tallhart,Unknown,0,1,0,0,0,0.0702341137123745,18.0
+1,1,1,1,1,0,0,Unknown,Other,Ser,1,1,1,0,0,0.217391304347826,
+0,0,0,0,0,0,0,Other,Other,Unknown,1,1,0,0,0,0.0,
+0,0,0,0,1,0,0,Unknown,Other,Unknown,1,0,0,0,0,0.0903010033444816,
+1,1,1,1,1,7,1,Northmen,House Stark,Other,1,1,1,0,1,1.0,15.0
+1,1,1,1,1,0,0,Unknown,House Stokeworth,Ser,1,1,1,1,1,0.471571906354515,41.0
+1,1,0,0,1,0,0,Unknown,House Caron,Other,0,1,1,0,0,0.0668896321070234,
+0,1,1,1,1,0,0,Unknown,House Tyrell,Unknown,1,1,0,0,0,0.0367892976588628,
+0,1,1,0,1,0,0,Unknown,House Estermont,Unknown,0,1,0,1,0,0.103678929765886,
+1,1,1,0,0,0,0,Unknown,Night's Watch,Unknown,0,1,0,0,0,0.197324414715719,
+0,0,0,1,1,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0434782608695652,
+1,1,1,1,1,9,1,Other,House Lannister,Other,1,0,1,1,1,1.0,39.0
+0,1,1,0,0,0,0,Unknown,House Clegane,Unknown,0,0,0,0,0,0.0635451505016722,
+0,0,1,1,1,0,0,Other,Unknown,Other,0,1,1,0,0,0.103678929765886,
+1,0,0,0,0,0,0,Dothraki,Other,Bloodrider,0,1,0,0,0,0.0334448160535117,
+0,1,1,0,0,0,0,Unknown,Other,Ser,0,1,1,0,0,0.160535117056856,
+1,1,1,1,1,0,0,Ironborn,Night's Watch,Other,1,1,1,0,0,0.150501672240802,
+0,0,0,1,1,0,0,Unknown,House Greyjoy,Unknown,0,1,0,0,0,0.0234113712374581,
+0,1,0,0,0,0,0,Vale mountain clans,Other,Unknown,1,1,0,0,0,0.0167224080267558,
+0,0,0,1,0,0,0,Unknown,Unknown,Ser,1,1,1,0,0,0.0468227424749163,65.0
+0,1,1,1,0,0,0,Unknown,Unknown,Maester,0,1,1,0,0,0.183946488294314,80.0
+0,0,1,1,1,0,0,Tyroshi,Other,Unknown,1,1,0,0,0,0.220735785953177,
+0,1,0,1,1,0,0,Ironborn,House Greyjoy,Other,1,1,1,0,0,0.120401337792642,
+0,0,1,1,1,0,0,Unknown,Other,Other,1,1,1,0,0,0.0334448160535117,
+0,0,0,1,0,0,0,Unknown,Other,Other,1,0,1,0,0,0.0167224080267558,
+0,0,1,1,1,0,0,Free Folk,Unknown,Unknown,0,0,0,0,0,0.0869565217391304,
+1,1,1,1,1,6,1,Dornish,Other,Other,1,1,1,1,1,0.498327759197324,58.0
+0,0,0,1,0,0,0,Unknown,Unknown,Archmaester,1,1,1,0,0,0.0167224080267558,
+0,1,1,1,1,0,0,Valemen,Other,Unknown,1,1,0,0,0,0.100334448160535,
+1,1,1,1,0,0,0,Dornishmen,House Dayne,Other,1,1,1,0,0,0.0836120401337792,18.0
+0,1,1,1,0,0,0,Unknown,House Frey,Unknown,1,1,0,1,0,0.147157190635451,46.0
+0,1,1,1,1,0,0,Stormlands,House Estermont,Ser,1,1,1,1,0,0.060200668896321,77.0
+0,0,1,1,1,2,1,Dornish,Other,Unknown,1,0,0,1,0,0.160535117056856,
+1,1,0,0,0,0,0,Northmen,House Glover,Unknown,0,1,0,0,0,0.0334448160535117,
+1,1,1,1,1,0,0,Unknown,Other,Other,1,1,1,1,0,0.23076923076923,68.0
+1,1,1,1,1,0,0,Northmen,House Glover,Other,1,1,1,0,0,0.120401337792642,
+1,1,1,0,0,0,0,Unknown,House Hightower,Ser,0,1,1,0,1,0.414715719063545,
+0,0,1,1,1,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.0869565217391304,
+0,0,0,0,1,0,0,Dornish,Other,Ser,1,1,1,0,0,0.157190635451505,30.0
+0,1,1,1,1,1,1,Free Folk,Unknown,Unknown,1,0,0,1,0,0.2876254180602,23.0
+0,0,0,1,0,0,0,Ironborn,House Goodbrother,Unknown,1,1,0,0,0,0.0468227424749163,
+0,0,1,1,1,0,0,Unknown,Other,Other,1,1,1,0,0,0.0434782608695652,
+1,1,1,1,1,0,0,Unknown,Other,Other,0,1,1,0,1,0.364548494983277,
+0,0,0,0,0,0,0,Ironborn,Unknown,Unknown,0,1,0,0,0,0.204013377926421,
+0,0,0,1,1,0,0,Ironborn,Other,Ser,1,1,1,0,0,0.107023411371237,
+0,0,0,1,1,0,0,Valemen,Other,Ser,1,1,1,0,0,0.120401337792642,24.0
+0,0,0,0,0,0,0,Unknown,House Targaryen,Other,0,0,1,1,0,0.270903010033444,21.0
+1,1,1,1,1,0,0,Northmen,House Stark,Unknown,1,1,0,0,0,0.244147157190635,
+1,1,1,1,1,2,1,Northmen,House Karstark,Other,1,1,1,0,0,0.0969899665551839,
+0,0,1,0,0,0,0,Dothraki,Brave Companions,Unknown,0,1,0,0,0,0.0167224080267558,
+0,1,1,1,1,0,0,Northmen,House Umber,Other,1,1,1,0,0,0.1438127090301,64.0
+1,1,1,1,1,0,0,Other,Other,Other,1,1,1,0,0,0.0735785953177257,
+1,1,1,1,1,0,0,Unknown,Night's Watch,Other,0,1,1,0,1,0.561872909698996,22.0
+1,1,1,1,1,0,0,Unknown,House Frey,Ser,0,1,1,1,0,0.147157190635451,52.0
+0,0,0,0,0,0,0,Unknown,House Wylde,Other,0,1,1,0,0,0.250836120401337,
+1,1,1,1,1,0,0,Dothraki,Unknown,Other,1,0,1,0,0,0.0668896321070234,
+0,0,0,0,0,0,0,Unknown,Other,Unknown,0,0,0,0,0,0.0234113712374581,100.0
+1,1,1,1,1,0,0,Dothraki,House Targaryen,Unknown,1,0,0,0,0,0.1438127090301,21.0
+0,0,1,1,0,0,0,Unknown,Other,Other,1,1,1,1,0,0.137123745819397,
+1,1,1,0,1,1,1,Northmen,Other,Other,0,1,1,0,0,0.170568561872909,
+1,1,1,1,1,1,1,Northmen,House Mormont,Ser,1,1,1,1,1,0.722408026755852,51.0
+1,1,1,1,1,0,0,Unknown,Other,Ser,1,1,1,0,0,0.11705685618729,
+0,0,0,0,1,0,0,Ghiscari,House of Loraq,Unknown,0,1,0,0,0,0.0769230769230769,23.0
+1,0,0,0,0,0,0,Unknown,House Bracken,Unknown,0,1,0,0,0,0.0100334448160535,
+1,0,0,0,0,0,0,Unknown,House Lannister,Unknown,1,1,0,0,0,0.060200668896321,
+0,0,1,0,0,0,0,Unknown,Other,Ser,1,1,1,0,0,0.040133779264214,
+1,1,1,1,1,5,1,Unknown,Other,Ser,1,1,1,1,1,0.478260869565217,23.0
+0,0,1,1,0,0,0,Unknown,Brotherhood Without Banners,Unknown,1,0,0,0,0,0.0133779264214046,
+0,0,0,0,0,0,0,Unknown,Other,Ser,0,1,1,0,0,0.0535117056856187,
+0,1,1,1,1,2,1,Unknown,House Stokeworth,Other,1,0,1,1,0,0.127090301003344,40.0
+1,1,1,0,1,5,1,Northmen,House Stark,Unknown,0,1,0,0,1,0.354515050167224,17.0
+0,1,1,1,1,0,0,Unknown,House Crakehall,Ser,1,1,1,0,0,0.107023411371237,
+0,1,1,1,1,0,0,Unknown,House Blackwood,Unknown,0,1,0,0,0,0.0735785953177257,
+1,1,1,1,1,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0903010033444816,
+0,1,1,1,1,1,1,Unknown,House Hightower,Unknown,1,1,0,1,0,0.11705685618729,
+1,1,1,1,1,1,1,Unknown,House Tyrell,Other,1,1,1,1,1,0.856187290969899,49.0
+0,0,1,1,1,0,0,Unknown,Unknown,Unknown,0,1,0,0,0,0.040133779264214,
+1,1,1,0,0,0,0,Valemen,Other,Ser,0,1,1,0,0,0.120401337792642,
+1,0,1,1,1,0,0,Dothraki,Unknown,Bloodrider,1,0,0,0,0,0.0334448160535117,
+0,1,1,0,0,0,0,Unknown,House Botley,Unknown,1,1,0,0,0,0.020066889632107,
+1,1,1,1,0,0,0,Unknown,Unknown,Unknown,0,1,0,0,0,0.1438127090301,21.0
+0,1,1,1,1,1,1,Unknown,House Seaworth,Lady,1,0,1,1,0,0.0635451505016722,
+1,0,1,1,0,0,0,Unknown,Unknown,Archmaester,1,1,1,0,0,0.160535117056856,
+1,1,0,0,0,0,0,Unknown,Unknown,Unknown,0,0,0,0,0,0.040133779264214,
+0,1,1,1,1,0,0,Unknown,House Seaworth,Unknown,0,1,0,0,0,0.0769230769230769,
+0,1,1,1,1,0,0,Other,Other,Unknown,1,0,0,0,0,0.270903010033444,22.0
+0,0,0,1,1,0,0,Unknown,Other,Unknown,0,0,0,0,0,0.0468227424749163,12.0
+0,0,0,0,1,0,0,Unknown,House Blackwood,Unknown,0,0,0,0,0,0.0501672240802675,100.0
+0,1,1,1,1,0,0,Other,Other,Unknown,1,0,0,0,1,0.745819397993311,
+0,0,1,1,0,0,0,Unknown,Brotherhood without banners,Unknown,1,0,0,0,0,0.0100334448160535,
+1,1,1,1,1,0,0,Unknown,Other,Ser,1,1,1,0,0,0.220735785953177,
+1,1,1,1,1,0,0,Other,House Frey,Unknown,0,1,0,1,1,0.434782608695652,38.0
+1,0,0,0,0,0,0,Unknown,House Bracken,Unknown,0,1,0,0,0,0.0100334448160535,
+0,0,1,1,1,0,0,Other,House Targaryen,Unknown,1,0,0,0,0,0.17391304347826,17.0
+1,1,1,1,1,0,0,Unknown,Other,Unknown,1,1,0,0,0,0.0769230769230769,
+0,0,1,1,1,0,0,Free Folk,Unknown,Unknown,1,0,0,0,0,0.0769230769230769,6.0
+1,1,1,1,1,0,0,Unknown,House Arryn,Unknown,1,1,0,0,0,0.0468227424749163,
+1,1,1,0,0,0,0,Rivermen,House Whent,Other,1,0,1,1,0,0.0434782608695652,
+1,1,1,0,0,0,0,Unknown,House Stark,Septa,0,0,0,0,0,0.103678929765886,
+0,0,0,1,0,0,0,Unknown,Unknown,Maester,1,1,1,0,0,0.0100334448160535,
+0,0,0,1,1,0,0,Unknown,House Martell,Maester,1,1,1,0,0,0.0234113712374581,
+1,0,0,1,0,0,0,Dornish,House Martell,Other,1,0,1,1,0,0.0535117056856187,
+1,1,1,1,1,0,0,Unknown,House Royce of the Gates of the Moon,Unknown,1,0,0,0,0,0.120401337792642,26.0
+1,1,1,1,1,5,1,Unknown,Other,Princess,1,0,1,0,1,0.561872909698996,15.0
+1,1,1,1,1,0,0,Unknown,House Royce of the Gates of the Moon,Other,1,1,1,0,0,0.0869565217391304,
+0,0,0,1,1,0,0,Ironborn,House Greyjoy,Other,1,1,1,0,0,0.0501672240802675,
+0,0,1,1,1,1,1,Dornishmen,House Martell,Unknown,1,0,0,0,1,0.377926421404682,31.0
+1,1,0,1,1,0,0,Other,House Martell,Other,1,0,1,1,0,0.197324414715719,
+1,1,1,1,1,5,1,Dornishmen,House Martell,Ser,0,1,1,0,1,0.77257525083612,43.0
+0,0,1,1,1,1,1,Dornishmen,House Martell,Unknown,1,0,0,0,0,0.103678929765886,18.0
+1,1,1,1,1,0,0,Unknown,House Redwyne,Other,1,0,1,1,0,0.2876254180602,77.0
+1,1,1,1,1,0,0,Valemen,House Redfort,Ser,1,1,1,1,0,0.0702341137123745,
+0,0,0,0,0,0,0,Unknown,Unknown,Grand Maester,1,1,1,0,0,0.254180602006688,
+1,1,1,1,1,0,0,Free folk,House Stark,Unknown,1,1,0,0,0,0.250836120401337,
+0,1,1,1,1,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0869565217391304,
+0,1,1,1,1,0,0,Unknown,Other,Ser,1,1,1,0,0,0.123745819397993,
+1,0,0,0,0,5,1,Unknown,House Baratheon,Other,0,1,1,1,1,0.48829431438127,
+0,1,1,1,1,0,0,Unknown,Other,Ser,1,1,1,0,0,0.170568561872909,
+1,1,1,1,1,0,0,Unknown,Other,Other,1,1,1,0,0,0.0635451505016722,
+1,0,1,0,1,1,1,Rivermen,House Whent,Ser,0,1,1,0,0,0.0802675585284281,
+0,0,1,0,0,0,0,Unknown,House Hightower,Ser,0,1,1,0,1,0.371237458193979,
+0,1,1,1,1,0,0,Unknown,House Baratheon of Dragonstone,Unknown,1,1,0,0,0,0.107023411371237,
+1,1,1,1,1,0,0,Unknown,House Redwyne,Other,1,1,1,1,1,0.511705685618729,
+0,0,0,0,0,0,0,Unknown,House Caron,Other,1,1,1,0,0,0.0133779264214046,
+0,1,1,1,0,0,0,Unknown,House Frey,Unknown,0,1,0,1,0,0.177257525083612,19.0
+0,1,1,1,0,0,0,Unknown,House Whent,Unknown,1,0,0,0,0,0.0468227424749163,
+1,1,1,1,1,0,0,Unknown,Other,Unknown,1,1,0,0,0,0.290969899665551,19.0
+1,1,1,1,0,0,0,Other,Other,Ser,0,1,1,0,0,0.0936454849498327,
+0,1,1,1,0,0,0,Unknown,House Clegane,Other,0,1,1,0,0,0.0769230769230769,
+0,1,1,1,1,0,0,Unknown,Other,Other,1,0,1,0,0,0.0969899665551839,
+0,1,1,1,1,0,0,Unknown,Unknown,Maester,1,1,1,0,0,0.0568561872909698,32.0
+1,1,1,1,1,0,0,Unknown,House Lannister,Grand Maester,0,1,1,0,1,0.638795986622073,84.0
+1,1,1,1,1,0,0,Unknown,Night's Watch,Unknown,0,1,0,0,0,0.210702341137123,
+1,0,0,0,0,0,0,Dothraki,Unknown,Bloodrider,0,1,0,0,0,0.0635451505016722,
+1,1,1,1,1,0,0,Dornishmen,House Martell,Ser,0,1,1,0,1,0.551839464882943,19.0
+0,0,0,1,1,0,0,Ironborn,Other,Other,1,1,1,0,0,0.0334448160535117,
+0,1,1,1,1,1,1,Northmen,Other,Other,1,1,1,1,1,0.461538461538461,23.0
+1,1,1,1,1,0,0,Unknown,Other,Other,1,1,1,1,1,0.618729096989966,
+0,0,0,0,0,0,0,Unknown,Other,Ser,1,1,1,0,0,0.040133779264214,
+1,0,1,1,0,0,0,Unknown,House Darry,Other,0,1,1,0,0,0.0769230769230769,
+0,0,1,1,0,0,0,Unknown,House Swann,Other,1,0,1,1,0,0.060200668896321,
+0,0,1,1,1,0,0,Unknown,Night's Watch,Unknown,0,1,0,0,0,0.0267558528428093,
+0,0,0,1,1,0,0,Ironborn,House Botley,Other,1,1,1,0,0,0.120401337792642,
+0,0,1,1,1,0,0,Free Folk,Other,Other,0,1,1,0,0,0.140468227424749,
+0,0,1,0,1,0,0,Unknown,Night's Watch,Unknown,1,1,0,0,0,0.0568561872909698,
+0,0,1,0,0,0,0,Ghiscari,Other,Unknown,0,1,0,0,0,0.040133779264214,
+0,0,1,1,1,0,0,Unknown,Other,Unknown,1,1,0,0,0,0.0535117056856187,
+0,0,1,0,1,0,0,Other,Other,Unknown,0,1,0,0,0,0.0568561872909698,
+0,0,1,0,0,2,1,Valyrian,House Blackfyre,Unknown,0,1,0,0,0,0.0836120401337792,12.0
+0,0,0,0,0,0,0,Valyrian,House Velaryon,Ser,0,1,1,0,0,0.107023411371237,16.0
+0,0,0,0,0,7,1,Unknown,Unknown,Unknown,0,1,0,0,1,0.695652173913043,
+0,0,1,0,0,2,1,Valyrian,House Blackfyre,Unknown,0,1,0,0,0,0.0869565217391304,12.0
+1,1,1,1,1,4,1,Ironmen,House Greyjoy,Other,1,1,1,0,1,0.45819397993311,36.0
+0,0,0,0,0,0,0,Free Folk,Unknown,Unknown,0,1,0,0,0,0.0,
+1,1,0,1,1,0,0,Ironborn,House Greyjoy,Other,1,0,1,1,0,0.237458193979933,
+0,1,1,1,1,0,0,Unknown,Chataya's brothel,Unknown,1,0,0,0,0,0.0769230769230769,23.0
+1,1,1,0,1,0,0,Unknown,House Stark,Unknown,0,1,0,0,0,0.0735785953177257,
+1,1,1,1,1,0,0,Unknown,Other,Ser,1,1,1,0,0,0.23076923076923,
+0,1,1,0,1,0,0,Unknown,House Florent,Other,0,1,1,1,0,0.327759197324414,
+0,0,0,1,1,0,0,Northmen,House Mormont,Unknown,1,0,0,0,0,0.0702341137123745,32.0
+1,1,1,1,1,0,0,Unknown,House Hightower,Other,1,0,1,1,0,0.227424749163879,48.0
+1,0,1,1,0,0,0,Unknown,Brotherhood without banners,Unknown,1,1,0,0,0,0.130434782608695,
+0,1,1,1,1,0,0,Ironborn,House Drumm,Other,1,1,1,0,0,0.0434782608695652,
+1,1,1,1,1,0,0,Unknown,Other,Ser,0,1,1,0,0,0.277591973244147,
+0,0,0,0,1,0,0,Unknown,Other,Ser,1,1,1,0,0,0.140468227424749,
+0,0,0,0,0,0,0,Unknown,Unknown,Ser,0,1,1,0,0,0.103678929765886,60.0
+1,1,1,1,1,0,0,Other,House Martell,Other,1,1,1,0,0,0.25752508361204,48.0
+1,1,1,1,1,0,0,Unknown,House Oakheart,Other,1,1,1,0,0,0.0367892976588628,
+1,1,1,1,1,0,0,Dornishmen,House Dayne,Ser,0,1,1,0,0,0.153846153846153,
+1,1,1,1,1,0,0,Reach,House Oakheart,Ser,0,1,1,0,1,0.34448160535117,
+1,1,1,0,1,0,0,Unknown,House Dayne,Unknown,0,0,0,0,0,0.0936454849498327,
+1,1,0,1,0,0,0,Dornish,Other,Ser,0,1,1,0,0,0.0668896321070234,
+1,1,0,1,1,0,0,Ironborn,House Greyjoy,Other,1,0,1,1,1,0.709030100334448,30.0
+0,1,1,1,1,0,0,Other,Unknown,Unknown,1,0,0,1,0,0.11705685618729,
+0,0,0,0,0,0,0,Free folk,Unknown,King-Beyond-the-Wall,1,1,1,0,0,0.0,
+0,1,1,1,0,0,0,Ironborn,Other,Other,0,1,1,0,0,0.060200668896321,
+0,0,0,0,0,4,1,Unknown,Unknown,Unknown,0,1,0,0,1,0.739130434782608,
+0,1,1,1,1,0,0,Unknown,House Redwyne,Maester,1,1,1,0,0,0.0301003344481605,
+0,0,0,0,0,9,1,Unknown,Unknown,Unknown,0,1,0,0,1,0.501672240802675,
+1,1,1,1,1,0,0,Other,House Swann,Ser,1,1,1,0,0,0.311036789297658,
+0,0,0,0,1,0,0,Unknown,House Bracken,Unknown,0,0,0,0,0,0.0501672240802675,100.0
+1,1,1,1,1,0,0,Westeros,Other,Ser,1,1,1,0,1,1.0,69.0
+0,0,0,1,1,0,0,Northmen,House Ryswell,Other,1,0,1,1,0,0.163879598662207,
+0,0,0,1,0,0,0,Braavosi,Unknown,Unknown,1,0,0,0,0,0.040133779264214,
+0,0,1,1,0,0,0,Unknown,Brotherhood Without Banners,Unknown,1,0,0,0,0,0.020066889632107,
+0,1,1,1,1,0,0,Other,House Targaryen,Unknown,1,1,0,0,0,0.1438127090301,
+1,1,1,1,1,5,1,Northmen,House Stark,Other,1,1,1,0,1,0.40133779264214,38.0
+0,0,0,0,0,0,0,Unknown,House Bracken,Unknown,0,0,0,0,0,0.0301003344481605,22.0
+1,1,1,1,1,0,0,Unknown,Unknown,Other,0,1,1,0,1,0.434782608695652,23.0
+0,1,1,1,0,0,0,Unknown,Brave Companions,Unknown,0,1,0,0,0,0.127090301003344,
+0,1,1,1,0,0,0,Ironborn,House Greyjoy,Unknown,1,1,0,0,0,0.0133779264214046,
+0,0,0,1,1,0,0,Northern mountain clans,Other,Other,1,1,1,0,0,0.0301003344481605,
+1,1,1,1,1,0,0,Unknown,Night's Watch,Other,1,1,1,0,0,0.254180602006688,
+0,1,1,1,1,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0535117056856187,
+1,1,1,1,1,0,0,Other,House Stark,Other,1,0,1,0,0,0.0903010033444816,
+0,0,0,1,1,4,1,Valyrian,House Targaryen,Ser,0,1,1,0,1,0.605351170568561,77.0
+1,1,1,1,1,5,1,Rivermen,House Tully,Ser,1,1,1,0,1,0.341137123745819,63.0
+1,1,1,1,1,0,0,Unknown,House Martell,Maester,1,1,1,0,0,0.040133779264214,
+0,0,0,0,0,0,0,Dornishmen,Other,Other,1,0,1,0,0,0.0100334448160535,
+1,1,1,1,1,0,0,Unknown,Night's Watch,Septon,1,1,0,0,0,0.0334448160535117,
+1,1,1,0,0,0,0,Vale mountain clans,Other,Unknown,1,0,0,0,0,0.0367892976588628,
+0,0,0,1,1,0,0,Unknown,Other,Ser,0,1,1,0,0,0.0702341137123745,
+1,1,1,1,1,0,0,Unknown,House Arryn,Maester,1,1,1,0,0,0.0668896321070234,
+0,0,0,0,0,0,0,Valyrian,House Velaryon,Other,0,1,1,1,1,0.525083612040133,79.0
+0,0,0,1,0,0,0,Stormlands,Other,Ser,0,1,1,0,1,0.505016722408026,48.0
+0,0,0,0,0,0,0,Valyrian,House Blackfyre,Ser,0,1,1,1,0,0.0,26.0
+0,0,0,0,0,5,1,Valyrian,House Targaryen,Other,0,1,1,1,1,0.668896321070234,49.0
+1,1,1,1,1,15,1,Valyrian,House Targaryen,Other,1,0,1,1,1,1.0,21.0
+0,0,1,0,1,0,0,Northmen,Other,Unknown,1,0,0,0,0,0.0234113712374581,
+1,1,1,1,1,0,0,Westerman,House Lannister,Ser,1,1,1,0,0,0.207357859531772,32.0
+0,0,0,1,0,0,0,Unknown,House Crabb,Unknown,0,1,0,0,0,0.0702341137123745,
+1,1,1,1,1,0,0,Unknown,House Baratheon,Unknown,0,1,0,0,0,0.140468227424749,56.0
+0,1,0,1,1,0,0,Northmen,House Bolton,Unknown,0,1,0,0,0,0.0903010033444816,18.0
+0,1,1,1,1,1,1,Westeros,House Seaworth,Ser,1,1,1,1,1,0.969899665551839,45.0
+1,1,0,0,1,0,0,Other,House Targaryen,Unknown,0,0,0,0,0,0.110367892976588,
+0,0,0,1,1,1,1,Dornishmen,House Martell,Unknown,1,0,0,0,0,0.103678929765886,14.0
+1,1,1,1,1,0,0,Unknown,Night's Watch,Unknown,1,1,0,0,0,0.0936454849498327,
+1,1,1,1,1,0,0,Northmen,House Karstark,Unknown,0,1,0,0,0,0.0735785953177257,
+1,1,1,1,1,6,1,Northmen,House Stark,Winterfell,0,1,1,1,1,1.0,36.0
+0,0,1,1,1,1,1,Dornishmen,House Martell,Unknown,1,0,0,0,0,0.11705685618729,20.0
+1,1,1,1,1,8,1,Rivermen,House Tully,Ser,1,1,1,1,1,0.655518394648829,38.0
+1,1,1,1,1,7,1,Unknown,Unknown,Princess,0,0,1,1,1,0.441471571906354,27.0
+0,1,0,0,0,0,0,Unknown,Other,Ser,0,1,1,0,0,0.0367892976588628,
+0,0,1,1,0,0,0,Unknown,House Westerling,Unknown,1,0,0,0,0,0.0468227424749163,18.0
+0,0,0,0,0,0,0,Unknown,House Stokeworth,Other,0,1,1,1,0,0.0234113712374581,100.0
+0,0,0,1,1,0,0,Unknown,Other,Unknown,1,0,0,0,0,0.0267558528428093,24.0
+0,0,0,0,0,0,0,Unknown,House Osgrey,Knight,1,1,1,1,0,0.147157190635451,
+1,1,1,0,1,0,0,Unknown,House Stark,Unknown,0,1,0,0,0,0.0568561872909698,
+0,1,1,1,1,1,1,Unknown,House Stokeworth,Unknown,0,0,0,1,0,0.100334448160535,35.0
+0,0,0,0,1,0,0,Ghiscari,Other,Other,1,0,1,0,0,0.0903010033444816,88.0
+0,0,0,1,0,0,0,Ironborn,Drowned men,Unknown,1,1,0,0,0,0.0100334448160535,
+0,0,0,1,0,0,0,Unknown,House Hightower,Ser,1,0,1,0,0,0.0501672240802675,
+1,1,0,0,0,0,0,Unknown,Night's Watch,Unknown,0,1,0,0,0,0.0936454849498327,66.0
+1,1,1,1,1,0,0,Unknown,Unknown,Lady,1,0,1,1,0,0.217391304347826,60.0
+1,1,1,1,1,0,0,Unknown,Other,Ser,1,1,1,1,0,0.327759197324414,28.0
+1,1,1,1,1,0,0,Unknown,House Lannister,Unknown,0,1,0,0,0,0.140468227424749,36.0
+0,1,1,0,0,0,0,Ironborn,House Harlaw,Unknown,0,0,0,0,0,0.0167224080267558,
+0,0,0,1,1,0,0,Other,Other,Ser,1,1,1,0,0,0.107023411371237,35.0
+0,0,0,1,1,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0635451505016722,
+0,1,1,1,1,0,0,Ironborn,House Goodbrother,Other,1,1,1,0,0,0.0802675585284281,
+1,1,1,1,1,0,0,Westeros,Night's Watch,Unknown,1,1,0,0,0,0.204013377926421,24.0
+0,0,1,1,1,0,0,Unknown,Other,Unknown,1,1,0,0,0,0.140468227424749,
+0,0,0,0,0,0,0,Tyroshi,Brotherhood without banners,Unknown,1,1,0,0,0,0.0367892976588628,
+0,0,1,1,1,0,0,Other,House Targaryen,Other,0,0,1,0,0,0.110367892976588,
+0,0,0,0,1,0,0,Northmen,House Bolton,Unknown,1,1,0,0,0,0.0267558528428093,
+1,1,1,1,1,1,1,Unknown,House Clegane,Ser,0,1,1,0,1,0.836120401337792,35.0
+0,0,1,1,1,0,0,Ironborn,Other,Other,1,1,1,0,0,0.040133779264214,
+0,1,0,0,1,0,0,Unknown,Other,Ser,0,1,1,0,0,0.0635451505016722,21.0
+0,1,1,1,0,0,0,Unknown,Alchemists' Guild,Other,1,1,1,0,0,0.0869565217391304,
+1,0,0,0,0,0,0,Dothraki,Unknown,Bloodrider,0,1,0,0,0,0.0334448160535117,
+0,0,0,0,1,0,0,Ghiscari,Unknown,Unknown,0,0,0,0,0,0.0434782608695652,5.0
+0,0,0,0,0,0,0,Ghiscari,Unknown,Unknown,1,1,0,0,1,0.444816053511705,
+0,1,1,0,1,0,0,Other,Unknown,Unknown,0,0,0,0,0,0.0535117056856187,
+0,0,0,0,1,0,0,Unknown,Other,Other,1,1,1,0,0,0.0769230769230769,
+1,1,1,1,1,1,1,Unknown,House Swyft,Knight,1,1,1,0,1,0.451505016722408,
+1,1,1,1,1,0,0,Northmen,House Stark,Unknown,1,0,0,0,0,0.130434782608695,34.0
+1,1,1,1,1,0,0,Unknown,Night's Watch,Unknown,1,1,0,0,0,0.0434782608695652,
+0,0,0,1,1,0,0,Unknown,Faith of the Seven,Other,1,1,1,0,0,0.167224080267558,
+0,1,1,1,0,0,0,Unknown,Unknown,Unknown,1,0,0,0,0,0.183946488294314,
+1,1,1,1,1,0,0,Other,Other,Other,1,1,1,1,0,0.177257525083612,45.0
+0,0,0,0,1,0,0,Free Folk,Unknown,Unknown,0,1,0,0,0,0.0568561872909698,17.0
+1,0,0,0,0,0,0,Valemen,House Arryn,Ser,0,1,1,0,0,0.0635451505016722,
+0,0,0,1,0,0,0,Unknown,Other,Ser,1,0,1,0,0,0.103678929765886,
+1,1,1,1,1,6,1,Rivermen,House Tully,Other,0,1,1,1,0,0.331103678929765,62.0
+0,0,0,1,1,0,0,Unknown,Other,Other,1,1,1,0,0,0.0301003344481605,
+1,1,1,1,1,0,0,Westeros,Other,Ser,1,1,1,0,0,0.224080267558528,
+1,1,1,1,1,0,0,Other,House Targaryen,Other,1,1,1,1,1,0.394648829431438,
+1,1,1,1,1,0,0,Dothraki,House Targaryen,Unknown,1,0,0,0,0,0.193979933110367,22.0
+0,1,1,1,0,0,0,Unknown,House Florent,Ser,0,1,1,0,0,0.183946488294314,
+0,0,1,1,0,0,0,Unknown,Brotherhood without banners,Unknown,1,1,0,0,0,0.0267558528428093,
+0,1,1,1,0,0,0,Unknown,Other,Ser,0,1,1,0,0,0.130434782608695,
+1,1,1,1,1,7,1,Other,House Lannister,Ser,1,1,1,0,1,1.0,39.0
+1,1,1,1,1,0,0,Other,House Mallister,Other,1,1,1,0,0,0.127090301003344,
+1,1,1,1,1,1,1,Northmen,Other,Unknown,1,0,0,1,1,0.384615384615384,
+1,1,1,1,1,5,1,Valemen,House Arryn,Eyrie,0,1,1,1,1,0.836120401337792,81.0
+0,1,0,0,0,0,0,Reach,Other,Knight,1,1,1,1,0,0.187290969899665,
+1,1,1,1,1,0,0,Unknown,House Bracken,Other,1,1,1,0,0,0.190635451505016,
+0,0,0,1,1,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0802675585284281,
+0,0,0,1,1,0,0,Unknown,Unknown,Maester,0,1,1,0,0,0.0301003344481605,
+1,1,1,1,1,5,1,Northmen,House Stark,Lord Commander of the Night's Watch,1,1,1,0,1,1.0,22.0
+1,1,0,1,0,0,0,Unknown,House Clegane,Unknown,1,1,0,0,0,0.0167224080267558,
+1,1,1,1,1,4,1,Unknown,House Lannister,Ser,0,1,1,1,1,0.869565217391304,56.0
+0,0,1,1,0,0,0,Unknown,Unknown,Other,1,0,1,0,0,0.020066889632107,
+1,0,0,0,0,0,0,Unknown,House Bracken,Unknown,0,1,0,0,0,0.0167224080267558,
+1,1,1,1,1,0,0,Unknown,House Hightower,Other,1,1,1,1,0,0.150501672240802,
+0,0,0,0,0,0,0,Unknown,Other,Other,0,1,1,0,0,0.297658862876254,100.0
+1,1,1,1,1,0,0,Unknown,Unknown,Maester,1,1,1,0,0,0.0234113712374581,
+1,0,1,1,1,2,1,Dornish,House Martell,Ser,0,1,1,0,0,0.147157190635451,
+1,1,1,1,1,1,1,Rivermen,House Frey,Other,1,1,1,1,0,0.17391304347826,41.0
+1,1,1,1,1,0,0,Unknown,Other,Ser,1,1,1,0,0,0.137123745819397,
+0,0,0,0,0,5,1,Unknown,House Tully,Other,0,0,1,1,0,0.0,34.0
+1,1,1,1,1,1,1,Northmen,House Mormont,Other,1,0,1,0,0,0.137123745819397,66.0
+0,0,1,1,0,0,0,Unknown,Brotherhood without banners,Unknown,1,1,0,0,0,0.0367892976588628,
+0,0,0,0,0,0,0,Free folk,Unknown,Unknown,1,1,0,0,1,0.709030100334448,
+0,1,1,1,1,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0501672240802675,
+1,0,0,0,0,0,0,Northmen,House Ryswell,Ser,0,0,1,0,0,0.020066889632107,
+0,0,0,1,1,0,0,Unknown,House Manderly,Ser,1,1,1,0,0,0.0434782608695652,
+1,1,1,1,1,4,1,Ironborn,House Greyjoy,Unknown,0,1,0,0,0,0.140468227424749,14.0
+1,1,0,0,0,0,0,Northmen,Other,Unknown,0,0,0,0,0,0.0334448160535117,
+1,1,1,1,1,0,0,Rivermen,Other,Ser,1,1,1,0,0,0.140468227424749,
+1,1,1,1,1,0,0,Reach,Other,Other,1,1,1,1,1,0.364548494983277,
+0,0,0,1,0,0,0,Unknown,Faith of the Seven,Septon,1,1,0,0,0,0.103678929765886,58.0
+1,1,1,1,1,0,0,Other,Unknown,Other,0,0,1,0,0,0.1438127090301,42.0
+1,1,1,1,1,0,0,Northmen,House Stark,Unknown,0,1,0,0,0,0.0969899665551839,
+0,1,1,0,0,0,0,Unknown,Other,Lord,1,1,1,0,0,0.0434782608695652,
+0,1,1,1,1,0,0,Unknown,House Royce of the Gates of the Moon,Unknown,1,0,0,0,0,0.0434782608695652,26.0
+0,0,0,0,0,0,0,Unknown,Other,Unknown,0,0,0,0,0,0.0635451505016722,100.0
+0,0,1,1,0,0,0,Unknown,Other,Unknown,1,0,0,0,0,0.0133779264214046,
+0,0,1,1,1,1,1,Dornish,House Martell,Unknown,1,0,0,0,0,0.140468227424749,34.0
+0,0,0,0,0,0,0,Unknown,Other,Ser,0,1,1,0,0,0.060200668896321,
+1,1,1,1,1,0,0,Unknown,Night's Watch,Unknown,1,1,0,0,0,0.113712374581939,
+1,1,1,1,1,1,1,Northmen,House Bolton,Other,1,1,1,1,1,0.979933110367893,45.0
+1,1,1,1,1,4,1,Unknown,House Baratheon of Dragonstone,Princess,1,0,1,0,0,0.23076923076923,16.0
+0,0,1,1,0,0,0,Unknown,Other,Unknown,1,1,0,0,0,0.040133779264214,
+1,1,1,1,1,2,1,Stormlands,House Baratheon,Other,0,1,1,1,1,1.0,22.0
+1,1,1,1,1,4,1,Ironmen,House Greyjoy,Other,1,1,1,0,1,1.0,27.0
+0,0,0,0,0,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0234113712374581,
+0,1,1,1,1,0,0,Ironborn,House Harlaw,Other,1,1,1,0,0,0.160535117056856,
+0,1,1,1,0,0,0,Unknown,House Greyjoy,Maester,1,1,1,0,0,0.020066889632107,
+0,0,1,0,1,0,0,Free Folk,Unknown,Unknown,0,1,0,0,0,0.227424749163879,
+0,0,0,1,0,0,0,Unknown,Other,Ser,1,1,1,0,0,0.020066889632107,
+0,0,0,1,1,0,0,Unknown,Other,Ser,1,1,1,0,0,0.0635451505016722,
+1,1,1,1,1,10,1,Northmen,House Stark,Princess,1,0,1,1,1,1.0,19.0
+1,1,1,1,0,0,0,Other,Brave Companions,Other,0,1,1,0,0,0.210702341137123,
+0,0,0,0,0,0,0,Unknown,Other,Unknown,1,1,0,0,0,0.20066889632107,
+1,1,1,1,1,0,0,Valemen,House Arryn,Eyrie,1,1,1,0,0,0.321070234113712,13.0
+1,1,1,1,1,0,0,Dothraki,House Targaryen,Bloodrider,1,1,0,0,0,0.183946488294314,
+1,0,1,1,1,8,1,Valyrian,House Targaryen,Other,0,1,1,1,0,0.321070234113712,39.0
+1,1,1,1,1,5,1,Unknown,House Lannister,Casterly Rock,0,1,1,1,1,1.0,58.0
+1,1,1,1,1,0,0,Vale mountain clans,Stone Crows,Unknown,1,1,0,0,0,0.0735785953177257,
+1,1,1,1,1,0,0,Unknown,House Manderly,Other,1,1,1,0,1,0.354515050167224,66.0
+0,0,0,0,1,0,0,Westeros,House Bolton,Unknown,0,1,0,0,0,0.0434782608695652,
+1,1,1,1,0,0,0,Westeros,Night's Watch,Unknown,0,0,0,0,0,0.267558528428093,
+0,0,1,1,0,0,0,Unknown,Brotherhood without banners,Unknown,1,0,0,0,0,0.0133779264214046,
+0,0,0,0,1,0,0,Ghiscari,Other,Unknown,1,0,0,0,0,0.197324414715719,
+1,1,1,1,1,0,0,Unknown,House Manderly,Ser,1,1,1,0,0,0.157190635451505,53.0
+1,0,1,0,0,0,0,Northern mountain clans,Other,Unknown,0,1,0,0,0,0.020066889632107,
+0,0,0,1,1,0,0,Unknown,House Manderly,Unknown,1,0,0,0,0,0.0702341137123745,21.0
+1,1,1,1,1,0,0,Unknown,House Tyrell,Unknown,1,1,0,0,0,0.290969899665551,35.0
+1,1,1,1,1,0,0,Unknown,House Manderly,Ser,0,1,1,0,0,0.133779264214046,45.0
+1,1,1,1,0,0,0,Unknown,Other,Unknown,0,0,0,0,0,0.0367892976588628,
+0,1,1,0,1,2,1,Unknown,House Baratheon,Other,0,1,1,1,1,0.371237458193979,32.0
+0,1,1,1,0,0,0,Unknown,Brave Companions,Unknown,0,1,0,0,0,0.0836120401337792,
+1,1,1,1,1,1,1,Northmen,House Karstark,Other,0,1,1,0,0,0.23076923076923,
+0,0,0,1,0,0,0,Unknown,House Lannister,Unknown,0,1,0,0,0,0.0334448160535117,
+0,0,0,0,1,4,1,Westeros,House Targaryen,Unknown,0,0,0,0,0,0.0434782608695652,100.0
+0,0,0,0,1,0,0,Ghiscari,Other,Other,1,1,1,0,0,0.0802675585284281,
+0,1,1,1,1,0,0,Unknown,House Connington,Ser,1,1,1,0,0,0.113712374581939,31.0
+1,1,1,1,1,0,0,Unknown,House Blackwood,Other,1,1,1,0,0,0.220735785953177,
+1,1,1,1,1,0,0,Braavosi,House Stark,Unknown,0,0,0,0,0,0.120401337792642,
+1,1,1,1,1,1,1,Northmen,Other,Ser,0,1,1,0,1,0.397993311036789,
+1,1,1,1,1,0,0,Unknown,House Frey,Ser,0,1,1,1,0,0.17391304347826,66.0
+0,0,0,0,0,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0133779264214046,
+0,0,1,1,0,0,0,Unknown,House Tyrell,Unknown,1,0,0,1,0,0.133779264214046,
+0,0,1,1,1,0,0,Stormlands,House Connington,Other,1,1,1,0,1,0.719063545150501,42.0
+0,1,1,1,0,0,0,Unknown,Brave Companions,Unknown,0,1,0,0,0,0.167224080267558,
+1,1,1,0,1,5,1,Northmen,House Stark,Winterfell,0,1,1,1,0,0.270903010033444,52.0
+1,1,1,1,1,5,1,Valyrian,House Targaryen,Other,0,0,1,1,0,0.277591973244147,72.0
+1,1,1,1,1,5,1,Valemen,House Baelish,Other,1,1,1,1,1,1.0,37.0
+1,1,1,1,1,11,1,Valyrian,House Targaryen,Other,0,1,1,0,1,0.622073578595317,22.0
+1,1,1,1,1,0,0,Unknown,Unknown,Other,1,1,1,0,1,0.899665551839464,
+0,1,1,0,0,0,0,Unknown,House Greyjoy,Unknown,1,0,0,0,0,0.0367892976588628,
+0,1,1,1,1,0,0,Other,House Baratheon of Dragonstone,Other,1,1,1,0,0,0.187290969899665,
+1,1,1,1,1,4,1,Ironborn,House Greyjoy,Other,1,1,1,0,1,0.705685618729097,37.0
+0,0,1,1,0,0,0,Dornish,Brave Companions,Unknown,0,1,0,0,0,0.0568561872909698,
+1,1,1,0,1,1,1,Unknown,Unknown,Unknown,1,1,0,1,0,0.130434782608695,34.0
+1,1,1,1,1,0,0,Unknown,Unknown,Unknown,0,0,0,0,0,0.290969899665551,20.0
+0,0,0,0,1,0,0,Ghiscari,Unknown,Unknown,1,1,0,0,0,0.0501672240802675,
+0,0,1,1,1,0,0,Free Folk,Unknown,Other,1,1,1,0,0,0.214046822742474,
+1,1,1,1,1,4,1,Ironborn,House Greyjoy,Unknown,0,1,0,0,0,0.153846153846153,15.0
+1,1,1,1,1,12,1,Unknown,House Lannister,Other,1,1,1,1,1,1.0,32.0
+0,1,1,1,1,0,0,Unknown,Other,Unknown,1,1,0,0,0,0.0501672240802675,21.0
+1,1,1,1,1,6,1,Dornish,House Martell,Prince,1,1,1,0,0,0.150501672240802,18.0
+0,0,1,1,1,0,0,Unknown,House Caron,Ser,1,1,1,0,0,0.0702341137123745,
+1,0,0,1,1,0,0,Northmen,Other,Other,0,1,1,1,0,0.0635451505016722,
+1,1,1,1,1,1,1,Northmen,House Karstark,Unknown,0,1,0,0,0,0.0769230769230769,
+0,0,1,1,0,0,0,Unknown,Brave Companions,Unknown,1,1,0,0,0,0.0133779264214046,
+0,1,1,1,1,0,0,Other,Other,Unknown,0,1,0,0,0,0.244147157190635,19.0
+0,0,0,0,0,0,0,Unknown,House Lannister,Ser,0,1,1,0,1,0.354515050167224,
+0,1,1,0,0,0,0,Unknown,Night's Watch,Other,0,1,1,0,0,0.0869565217391304,
+0,0,1,1,0,0,0,Unknown,Other,Ser,1,0,1,0,0,0.060200668896321,
+1,1,1,1,1,0,0,Unknown,House Florent,Other,1,0,1,1,1,0.397993311036789,
+0,0,0,1,1,0,0,Unknown,House Stokeworth,Unknown,1,1,0,0,0,0.0501672240802675,5.0
+1,1,1,1,1,1,1,Unknown,House Clegane,Unknown,0,1,0,0,1,0.695652173913043,30.0
+1,0,0,0,0,0,0,Vale mountain clans,Other,Unknown,0,1,0,0,0,0.0234113712374581,
+0,0,1,1,0,0,0,Unknown,Brave Companions,Unknown,1,1,0,0,0,0.0301003344481605,
+1,1,1,1,1,0,0,Unknown,Night's Watch,Unknown,1,1,0,0,0,0.0635451505016722,65.0
+0,0,1,1,1,0,0,Unknown,House Lannister,Other,1,1,1,1,0,0.0836120401337792,
+0,0,1,0,1,0,0,Other,Other,Unknown,0,1,0,0,0,0.0769230769230769,
+1,1,1,1,1,0,0,Northmen,House Mormont,Unknown,0,0,0,0,0,0.0869565217391304,47.0
+0,1,1,1,1,0,0,Other,Other,Unknown,1,1,0,0,0,0.290969899665551,19.0
+0,0,0,0,0,0,0,Unknown,House Baratheon,Ser,0,1,1,0,0,0.0568561872909698,
+0,0,1,0,0,0,0,Other,Unknown,Unknown,1,0,0,0,0,0.0100334448160535,
+1,1,1,0,0,0,0,Valemen,Other,Ser,0,1,1,0,0,0.0903010033444816,49.0
+1,0,0,0,0,0,0,Unknown,House Baratheon,Unknown,1,1,0,1,0,0.0167224080267558,
+1,1,1,1,1,0,0,Unknown,Unknown,Maester,1,0,1,0,0,0.040133779264214,
+0,0,1,1,1,0,0,Other,Other,Other,1,1,1,1,1,0.374581939799331,
+1,1,1,1,1,0,0,Northmen,House Mormont,Other,0,1,1,0,1,0.618729096989966,69.0
+1,1,1,1,0,6,1,Unknown,House Targaryen,Unknown,0,0,0,0,0,0.167224080267558,
+0,0,0,1,0,0,0,Unknown,House Royce,Ser,1,1,1,0,0,0.0133779264214046,
+0,1,1,1,1,0,0,Northmen,House Umber,Other,1,1,1,0,0,0.147157190635451,70.0
+0,1,1,1,1,0,0,Unknown,House Frey,Unknown,0,1,0,1,0,0.133779264214046,31.0
+0,1,1,0,0,0,0,Unknown,House Crane,Ser,1,1,1,0,0,0.040133779264214,
+0,1,1,1,1,0,0,Unknown,House Lannister,Other,1,1,1,0,1,0.535117056856187,
+0,1,1,1,0,0,0,Unknown,House Whent,Unknown,0,1,0,0,0,0.040133779264214,
+0,1,1,1,1,0,0,Ironborn,Unknown,Unknown,1,1,0,0,0,0.0668896321070234,
+1,1,1,1,1,8,1,Northmen,House Stark,Other,1,1,1,0,1,0.551839464882943,10.0
+0,1,1,1,1,6,1,Rivermen,House Frey,Unknown,1,1,0,1,0,0.217391304347826,23.0
+1,1,1,1,0,1,1,Valemen,House Royce,Ser,0,1,1,0,0,0.0969899665551839,22.0
+1,1,1,1,1,0,0,Northmen,House Glover,Unknown,1,1,0,1,0,0.167224080267558,
+0,0,0,0,0,0,0,Valyrian,House Targaryen,Princess,0,0,1,0,0,0.0802675585284281,100.0
+0,1,1,1,1,0,0,Unknown,House Frey,Ser,0,1,1,0,0,0.217391304347826,54.0
+0,1,1,1,1,0,0,Other,Unknown,Unknown,1,0,0,0,0,0.127090301003344,
+0,0,0,0,1,0,0,Unknown,House Targaryen,Ser,1,1,1,0,0,0.0869565217391304,
+0,0,1,1,0,0,0,Other,Brave Companions,Unknown,1,1,0,0,0,0.0167224080267558,
+0,0,1,1,1,0,0,Other,Other,Unknown,1,0,0,1,0,0.113712374581939,29.0
+0,0,1,1,0,0,0,Unknown,Brave Companions,Unknown,0,0,0,0,0,0.0468227424749163,
+0,1,1,1,1,0,0,Unknown,Night's Watch,Unknown,1,1,0,0,0,0.0568561872909698,55.0
+0,0,0,0,1,0,0,Braavosi,Other,Unknown,1,1,0,0,0,0.0869565217391304,
+0,0,0,0,0,0,0,Dornishmen,Unknown,Unknown,1,0,0,0,0,0.020066889632107,
+0,0,0,1,1,0,0,Unknown,House Targaryen,Princess,1,0,1,1,0,0.137123745819397,76.0
+0,0,1,1,0,0,0,Unknown,Brotherhood without banners,Unknown,1,1,0,0,0,0.153846153846153,65.0
+0,1,0,0,0,0,0,Unknown,Other,Other,1,0,1,0,0,0.0133779264214046,
+0,0,0,0,1,0,0,Ghiscari,House of Loraq,Unknown,1,1,0,0,0,0.0167224080267558,
+0,0,1,1,1,0,0,Free folk,Unknown,Unknown,1,0,0,0,0,0.140468227424749,
+0,1,1,1,1,0,0,Unknown,Night's Watch,Unknown,1,1,0,0,0,0.103678929765886,25.0
+0,1,1,1,1,0,0,Qartheen,Other,Unknown,1,1,0,0,0,0.244147157190635,
+0,0,0,0,0,0,0,Unknown,House Targaryen,Prince,0,1,1,0,0,0.180602006688963,3.0
+1,1,1,1,1,0,0,Dornishmen,House Martell,Princess,1,0,1,0,1,0.57190635451505,29.0
+0,0,0,0,1,0,0,Unknown,House Bolton,Unknown,1,1,0,0,0,0.0334448160535117,
+0,0,0,0,0,0,0,Unknown,Unknown,Unknown,0,0,0,0,0,0.277591973244147,
+0,0,0,0,0,0,0,Valyrian,House Targaryen,Lady,0,0,1,1,0,0.127090301003344,100.0
+1,1,1,0,1,0,0,Northmen,House Stark,Unknown,0,1,0,0,1,0.347826086956521,20.0
+0,1,1,1,1,0,0,Ironborn,House Drumm,Other,1,1,1,0,0,0.0769230769230769,93.0
+0,0,1,1,1,0,0,Dornish,Other,Ser,1,1,1,0,0,0.0735785953177257,
+1,0,0,0,0,0,0,Unknown,Night's Watch,Unknown,0,1,0,0,0,0.0434782608695652,
+0,0,0,0,1,0,0,Other,Other,Unknown,1,1,0,0,0,0.020066889632107,
+1,1,1,0,0,0,0,Westeros,Unknown,Unknown,0,1,0,0,0,0.103678929765886,13.0
+1,1,1,1,1,0,0,Unknown,Other,Other,1,1,1,1,0,0.0434782608695652,23.0
+0,1,1,1,0,0,0,Unknown,Alchemists' Guild,Other,0,1,1,0,1,0.367892976588628,
+0,0,1,1,1,1,1,Dornish,House Martell,Unknown,1,0,0,0,0,0.137123745819397,29.0
+1,1,1,1,0,1,1,Valemen,House Royce,Ser,0,1,1,0,0,0.123745819397993,19.0
+1,0,0,0,0,0,0,Other,Night's Watch,Unknown,0,0,0,0,0,0.0334448160535117,
+0,0,0,0,0,5,1,Unknown,House Blackfyre,Other,0,1,1,0,0,0.227424749163879,23.0
+1,1,1,0,0,0,0,Summer Isles,Chataya's brothel,Unknown,1,0,0,0,0,0.0735785953177257,
+0,0,0,0,0,0,0,Unknown,Other,Ser,0,1,1,0,0,0.0769230769230769,
+1,1,1,1,1,0,0,Unknown,House Lannister,Ser,1,1,1,1,0,0.110367892976588,55.0
+0,0,1,1,1,1,1,Dornishmen,House Martell,Unknown,1,0,0,0,0,0.103678929765886,25.0
+1,1,1,1,1,11,1,Valyrian,House Targaryen,Prince of Dragonstone,0,1,1,1,1,0.799331103678929,24.0
+1,1,1,0,1,5,1,Dothraki,Unknown,Khal,0,0,0,1,1,0.558528428093645,32.0
+0,1,1,1,1,0,0,Unknown,House Clegane,Unknown,1,1,0,0,0,0.040133779264214,
+1,1,0,0,1,1,1,Unknown,House Baratheon,Unknown,0,1,0,0,0,0.107023411371237,1.0
+0,0,0,1,1,0,0,Northmen,House Bolton,Other,1,1,1,1,0,0.0434782608695652,
+1,1,1,1,0,0,0,Unknown,Other,Ser,1,0,1,0,0,0.0769230769230769,68.0
+0,1,1,1,1,0,0,Unknown,House Seaworth,Unknown,1,1,0,0,0,0.0936454849498327,18.0
+1,1,1,1,0,2,1,Unknown,Other,Ser,1,1,1,0,1,0.438127090301003,21.0
+0,0,0,1,0,0,0,Ironborn,House Goodbrother,Unknown,1,1,0,0,0,0.0267558528428093,
+1,1,1,1,1,2,1,Other,House Tyrell,Ser,1,1,1,0,1,0.665551839464882,23.0
+0,0,0,1,1,0,0,Unknown,House Martell,Other,1,0,1,0,0,0.0702341137123745,
+0,0,0,0,1,0,0,Unknown,Other,Unknown,0,0,0,0,0,0.0434782608695652,
+1,1,1,1,1,2,1,Valemen,House Royce,Other,1,1,1,0,0,0.170568561872909,
+0,0,0,0,1,0,0,Unknown,House Targaryen,Unknown,1,1,0,1,0,0.0501672240802675,
+0,0,0,1,0,0,0,Ironborn,Drowned men,Unknown,1,1,0,0,0,0.0267558528428093,
+0,0,1,0,0,0,0,Dothraki,Unknown,Khal,1,1,0,0,0,0.020066889632107,
+0,0,0,0,0,0,0,Unknown,House Webber,Other,0,0,1,1,0,0.170568561872909,100.0
+0,0,0,1,0,0,0,Ironborn,House Goodbrother,Unknown,1,1,0,0,0,0.040133779264214,23.0
+1,1,1,1,1,0,0,Rivermen,House Frey,Ser,1,1,1,1,0,0.0802675585284281,
+0,1,1,0,1,0,0,Unknown,Unknown,Unknown,0,1,0,0,0,0.0468227424749163,
+0,0,0,0,1,0,0,Unknown,Other,Other,1,1,1,0,0,0.123745819397993,
+0,0,0,1,0,0,0,Unknown,Brotherhood Without Banners,Unknown,1,0,0,0,0,0.0100334448160535,
+0,0,0,0,0,0,0,Valyrian,House Velaryon,Unknown,0,0,0,1,0,0.140468227424749,27.0
+1,1,1,1,1,0,0,Westeros,House Stark,Unknown,0,1,0,0,1,0.351170568561872,
+0,1,0,1,1,0,0,Unknown,House Bolton,Unknown,0,1,0,0,0,0.0969899665551839,
+1,1,1,1,1,0,0,Unknown,Unknown,Unknown,1,1,0,0,0,0.0301003344481605,
+0,0,1,1,1,0,0,Unknown,Other,Unknown,1,1,0,0,0,0.130434782608695,
+0,0,1,1,1,4,1,Unknown,House Lannister,Casterly Rock,0,1,1,1,0,0.210702341137123,47.0

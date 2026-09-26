@@ -1,0 +1,88 @@
+name,height,mass,hair_color,skin_color,eye_color,birth_year,sex,gender,species_group,homeworld_group,film_count,has_vehicle,has_starship
+Luke Skywalker,172.0,77.0,blond,fair,blue,19.0,male,masculine,Human,Tatooine,5,1,1
+C-3PO,167.0,75.0,unknown,other,yellow,112.0,none,masculine,Droid,Tatooine,6,0,0
+R2-D2,96.0,32.0,unknown,white,red,33.0,none,masculine,Droid,Naboo,7,0,0
+Darth Vader,202.0,136.0,none,white,yellow,41.9,male,masculine,Human,Tatooine,4,0,1
+Leia Organa,150.0,49.0,brown,light,brown,19.0,female,feminine,Human,Alderaan,5,1,0
+Owen Lars,178.0,120.0,brown,light,blue,52.0,male,masculine,Human,Tatooine,3,0,0
+Beru Whitesun lars,165.0,75.0,brown,light,blue,47.0,female,feminine,Human,Tatooine,3,0,0
+R5-D4,97.0,32.0,unknown,white,red,,none,masculine,Droid,Tatooine,1,0,0
+Biggs Darklighter,183.0,84.0,black,light,brown,24.0,male,masculine,Human,Tatooine,1,0,1
+Obi-Wan Kenobi,182.0,77.0,auburn,fair,other,57.0,male,masculine,Human,Other,6,1,1
+Anakin Skywalker,188.0,84.0,blond,fair,blue,41.9,male,masculine,Human,Tatooine,3,1,1
+Wilhuff Tarkin,180.0,,auburn,fair,blue,64.0,male,masculine,Human,Other,2,0,0
+Chewbacca,228.0,112.0,brown,unknown,blue,200.0,male,masculine,Other,Other,5,1,1
+Han Solo,180.0,80.0,brown,fair,brown,29.0,male,masculine,Human,Other,4,0,1
+Greedo,173.0,74.0,unknown,green,black,44.0,male,masculine,Other,Other,1,0,0
+Jabba Desilijic Tiure,175.0,1358.0,unknown,other,orange,600.0,hermaphroditic,masculine,Other,Other,3,0,0
+Wedge Antilles,170.0,77.0,brown,fair,hazel,21.0,male,masculine,Human,Other,3,1,1
+Jek Tono Porkins,180.0,110.0,brown,fair,blue,,male,masculine,Human,Other,1,0,1
+Yoda,66.0,17.0,white,green,brown,896.0,male,masculine,Other,Unknown,5,0,0
+Palpatine,170.0,75.0,other,pale,yellow,82.0,male,masculine,Human,Naboo,5,0,0
+Boba Fett,183.0,78.2,black,fair,brown,31.5,male,masculine,Human,Kamino,3,0,1
+IG-88,200.0,140.0,none,other,red,15.0,none,masculine,Droid,Unknown,1,0,0
+Bossk,190.0,113.0,none,green,red,53.0,male,masculine,Other,Other,1,0,0
+Lando Calrissian,177.0,79.0,black,dark,brown,31.0,male,masculine,Human,Other,2,0,1
+Lobot,175.0,79.0,none,light,blue,37.0,male,masculine,Human,Other,1,0,0
+Ackbar,180.0,83.0,none,other,orange,41.0,male,masculine,Other,Other,2,0,0
+Mon Mothma,150.0,,auburn,fair,blue,48.0,female,feminine,Human,Other,1,0,0
+Arvel Crynyd,,,brown,fair,brown,,male,masculine,Human,Unknown,1,0,1
+Wicket Systri Warrick,88.0,20.0,brown,brown,brown,8.0,male,masculine,Other,Other,1,0,0
+Nien Nunb,160.0,68.0,none,grey,black,,male,masculine,Other,Other,1,0,1
+Qui-Gon Jinn,193.0,89.0,brown,fair,blue,92.0,male,masculine,Human,Unknown,1,1,0
+Nute Gunray,191.0,90.0,none,other,red,,male,masculine,Other,Other,3,0,0
+Finis Valorum,170.0,,blond,fair,blue,91.0,male,masculine,Human,Coruscant,1,0,0
+Jar Jar Binks,196.0,66.0,none,other,orange,52.0,male,masculine,Other,Naboo,2,0,0
+Roos Tarpals,224.0,82.0,none,grey,orange,,male,masculine,Other,Naboo,1,0,0
+Rugor Nass,206.0,,none,green,orange,,male,masculine,Other,Naboo,1,0,0
+Ric Olié,183.0,,brown,fair,blue,,unknown,unknown,Unknown,Naboo,1,0,1
+Watto,137.0,,black,blue,yellow,,male,masculine,Other,Other,2,0,0
+Sebulba,112.0,40.0,none,grey,orange,,male,masculine,Other,Other,1,0,0
+Quarsh Panaka,183.0,,black,dark,brown,62.0,unknown,unknown,Unknown,Naboo,1,0,0
+Shmi Skywalker,163.0,,black,fair,brown,72.0,female,feminine,Human,Tatooine,2,0,0
+Darth Maul,175.0,80.0,none,other,yellow,54.0,male,masculine,Other,Other,1,1,1
+Bib Fortuna,180.0,,none,pale,other,,male,masculine,Other,Other,1,0,0
+Ayla Secura,178.0,55.0,none,blue,hazel,48.0,female,feminine,Other,Other,3,0,0
+Dud Bolt,94.0,45.0,none,blue,yellow,,male,masculine,Other,Other,1,0,0
+Gasgano,122.0,,none,white,black,,male,masculine,Other,Other,1,0,0
+Ben Quadinaros,163.0,65.0,none,grey,orange,,male,masculine,Other,Other,1,0,0
+Mace Windu,188.0,84.0,none,dark,brown,72.0,male,masculine,Human,Other,3,0,0
+Ki-Adi-Mundi,198.0,82.0,white,pale,yellow,92.0,male,masculine,Other,Other,3,0,0
+Kit Fisto,196.0,87.0,none,green,black,,male,masculine,Other,Other,3,0,0
+Eeth Koth,171.0,,black,brown,brown,,male,masculine,Other,Other,2,0,0
+Adi Gallia,184.0,50.0,none,dark,blue,,female,feminine,Other,Coruscant,2,0,0
+Saesee Tiin,188.0,,none,pale,orange,,male,masculine,Other,Other,2,0,0
+Yarael Poof,264.0,,none,white,yellow,,male,masculine,Other,Other,1,0,0
+Plo Koon,188.0,80.0,none,other,black,22.0,male,masculine,Other,Other,3,0,1
+Mas Amedda,196.0,,none,blue,blue,,male,masculine,Other,Other,2,0,0
+Gregar Typho,185.0,85.0,black,dark,brown,,male,masculine,Human,Naboo,1,0,1
+Cordé,157.0,,brown,light,brown,,female,feminine,Human,Naboo,1,0,0
+Cliegg Lars,183.0,,brown,fair,blue,82.0,male,masculine,Human,Tatooine,1,0,0
+Poggle the Lesser,183.0,80.0,none,green,yellow,,male,masculine,Other,Other,2,0,0
+Luminara Unduli,170.0,56.2,black,other,blue,58.0,female,feminine,Other,Other,2,0,0
+Barriss Offee,166.0,50.0,black,other,blue,40.0,female,feminine,Other,Other,1,0,0
+Dormé,165.0,,brown,light,brown,,female,feminine,Human,Naboo,1,0,0
+Dooku,193.0,80.0,white,fair,brown,102.0,male,masculine,Human,Other,2,1,0
+Bail Prestor Organa,191.0,,black,other,brown,67.0,male,masculine,Human,Alderaan,2,0,0
+Jango Fett,183.0,79.0,black,other,brown,66.0,male,masculine,Human,Other,1,0,0
+Zam Wesell,168.0,55.0,other,fair,yellow,,female,feminine,Other,Other,1,1,0
+Dexter Jettster,198.0,102.0,none,brown,yellow,,male,masculine,Other,Other,1,0,0
+Lama Su,229.0,88.0,none,grey,black,,male,masculine,Other,Kamino,1,0,0
+Taun We,213.0,,none,grey,black,,female,feminine,Other,Kamino,1,0,0
+Jocasta Nu,167.0,,white,fair,blue,,female,feminine,Human,Coruscant,1,0,0
+Ratts Tyerell,79.0,15.0,none,grey,unknown,,male,masculine,Other,Other,1,0,0
+R4-P17,96.0,,none,other,red,,none,feminine,Droid,Unknown,2,0,0
+Wat Tambor,193.0,48.0,none,green,unknown,,male,masculine,Other,Other,1,0,0
+San Hill,191.0,,none,grey,other,,male,masculine,Other,Other,1,0,0
+Shaak Ti,178.0,57.0,none,other,black,,female,feminine,Other,Other,2,0,0
+Grievous,216.0,159.0,none,brown,other,,male,masculine,Other,Other,1,1,1
+Tarfful,234.0,136.0,brown,brown,blue,,male,masculine,Other,Other,1,0,0
+Raymus Antilles,188.0,79.0,brown,light,brown,,male,masculine,Human,Alderaan,2,0,0
+Sly Moore,178.0,48.0,none,pale,other,,unknown,unknown,Unknown,Other,2,0,0
+Tion Medon,206.0,80.0,none,grey,black,,male,masculine,Other,Other,1,0,0
+Finn,,,black,dark,other,,male,masculine,Human,Unknown,1,0,0
+Rey,,,brown,light,hazel,,female,feminine,Human,Unknown,1,0,0
+Poe Dameron,,,brown,light,brown,,male,masculine,Human,Unknown,1,0,1
+BB8,,,none,other,black,,none,masculine,Droid,Unknown,1,0,0
+Captain Phasma,,,unknown,unknown,unknown,,unknown,unknown,Unknown,Unknown,1,0,0
+Padmé Amidala,165.0,45.0,brown,light,brown,46.0,female,feminine,Human,Naboo,3,0,1

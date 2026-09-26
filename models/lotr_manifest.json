@@ -1,0 +1,142 @@
+{
+  "universe": "lotr",
+  "n_rows": 765,
+  "id_column": "name",
+  "targets": {
+    "gender": {
+      "task": "classification",
+      "weak_target": false,
+      "model_file": "lotr_gender.pkl",
+      "model_name": "random_forest",
+      "feature_columns": [
+        "race",
+        "realm",
+        "is_dead",
+        "has_spouse",
+        "hair_group",
+        "birth_age"
+      ],
+      "classes": [
+        "Female",
+        "Male"
+      ],
+      "metrics": {
+        "accuracy": 0.6862745098039216,
+        "balanced_accuracy": 0.6494708994708995,
+        "f1_macro": 0.5938053097345133,
+        "f1_weighted": 0.7192087454450806
+      }
+    },
+    "race": {
+      "task": "classification",
+      "weak_target": false,
+      "model_file": "lotr_race.pkl",
+      "model_name": "logreg",
+      "feature_columns": [
+        "gender",
+        "realm",
+        "is_dead",
+        "has_spouse",
+        "hair_group",
+        "birth_age"
+      ],
+      "classes": [
+        "Ainur",
+        "Dragons",
+        "Dwarves",
+        "Elves",
+        "Half-elven",
+        "Hobbits",
+        "Men",
+        "Orcs",
+        "Other"
+      ],
+      "metrics": {
+        "accuracy": 0.5555555555555556,
+        "balanced_accuracy": 0.44119769119769114,
+        "f1_macro": 0.36952806790534987,
+        "f1_weighted": 0.6133141924694244
+      }
+    },
+    "is_dead": {
+      "task": "classification",
+      "weak_target": false,
+      "model_file": "lotr_is_dead.pkl",
+      "model_name": "random_forest",
+      "feature_columns": [
+        "gender",
+        "race",
+        "realm",
+        "has_spouse",
+        "hair_group",
+        "birth_age"
+      ],
+      "classes": [
+        "0",
+        "1"
+      ],
+      "metrics": {
+        "accuracy": 0.738562091503268,
+        "balanced_accuracy": 0.694015444015444,
+        "f1_macro": 0.6851851851851851,
+        "f1_weighted": 0.7436456063907044
+      }
+    },
+    "has_spouse": {
+      "task": "classification",
+      "weak_target": false,
+      "model_file": "lotr_has_spouse.pkl",
+      "model_name": "random_forest",
+      "feature_columns": [
+        "gender",
+        "race",
+        "realm",
+        "is_dead",
+        "hair_group",
+        "birth_age"
+      ],
+      "classes": [
+        "0",
+        "1"
+      ],
+      "metrics": {
+        "accuracy": 0.7058823529411765,
+        "balanced_accuracy": 0.6952380952380952,
+        "f1_macro": 0.6956906077348066,
+        "f1_weighted": 0.7055183620409489
+      }
+    },
+    "realm": {
+      "task": "classification",
+      "weak_target": true,
+      "model_file": "lotr_realm.pkl",
+      "model_name": "random_forest",
+      "feature_columns": [
+        "gender",
+        "race",
+        "is_dead",
+        "has_spouse",
+        "hair_group",
+        "birth_age"
+      ],
+      "classes": [
+        "Arnor",
+        "Arthedain",
+        "Gondor",
+        "Lonely Mountain",
+        "N\u00c3\u00bamenor",
+        "Other",
+        "Rohan",
+        "Shire",
+        "Unknown",
+        "Valinor"
+      ],
+      "metrics": {
+        "accuracy": 0.49019607843137253,
+        "balanced_accuracy": 0.4507894736842105,
+        "f1_macro": 0.3072886557886558,
+        "f1_weighted": 0.5513526161565377
+      }
+    }
+  }
+}

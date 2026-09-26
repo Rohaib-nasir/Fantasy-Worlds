@@ -1,0 +1,766 @@
+gender,name,race,realm,is_dead,has_spouse,hair_group,birth_age
+Female,Adanel,Men,Unknown,0,1,Unknown,Unknown
+Male,Boromir,Men,Unknown,1,0,Dark,Third Age
+Male,Lagduf,Orcs,Unknown,1,0,Unknown,Unknown
+Male,Tarcil,Men,Arnor,1,1,Unknown,Third Age
+Male,Fire-drake of Gondolin,Other,Unknown,0,0,Unknown,Unknown
+Male,Ar-AdÃ»nakhÃ´r,Men,NÃºmenor,1,1,Unknown,Second Age
+Male,Annael,Elves,Unknown,0,0,Unknown,Unknown
+Male,Angrod,Elves,Unknown,1,1,Golden,Years of the Trees
+Male,AnÃ¡rion,Men,Gondor,1,1,Unknown,Second Age
+Male,Ar-PharazÃ´n,Men,NÃºmenor,0,1,Unknown,Second Age
+Male,Ar-SakalthÃ´r,Men,NÃºmenor,1,1,Unknown,Second Age
+Male,Ar-GimilzÃ´r,Men,NÃºmenor,1,1,Unknown,Second Age
+Male,Angelimir,Men,Unknown,1,1,Unknown,Third Age
+Male,Angbor,Men,Unknown,0,0,Unknown,Third Age
+Male,Penlod,Elves,Unknown,1,0,Unknown,Unknown
+Male,Pengolodh,Elves,Unknown,0,0,Unknown,First Age
+Male,Tarannon Falastur,Men,Gondor,1,1,Unknown,Third Age
+Female,Tar-VanimeldÃ«,Men,NÃºmenor,1,1,Unknown,Second Age
+Female,Tar-TelperiÃ«n,Men,NÃºmenor,1,0,Unknown,Second Age
+Male,Tar-TelemmaitÃ«,Men,NÃºmenor,1,1,Unknown,Second Age
+Male,Tar-SÃºrion,Men,NÃºmenor,1,1,Unknown,Second Age
+Male,Tar-Palantir,Men,NÃºmenor,1,1,Unknown,Second Age
+Female,Tar-MÃ­riel,Men,NÃºmenor,1,1,Unknown,Second Age
+Male,Tar-Minastir,Men,NÃºmenor,1,1,Unknown,Second Age
+Male,Tar-Elendil,Men,NÃºmenor,1,1,Unknown,Second Age
+Male,Tar-Calmacil,Men,NÃºmenor,1,1,Unknown,Second Age
+Male,Tar-Atanamir,Men,NÃºmenor,1,1,Unknown,Second Age
+Male,Tar-Meneldur,Men,NÃºmenor,1,1,Unknown,Second Age
+Male,Tar-Ardamin,Men,NÃºmenor,1,1,Unknown,Second Age
+Male,Tar-Ciryatan,Men,NÃºmenor,1,1,Unknown,Second Age
+Male,Tar-AnÃ¡rion,Men,NÃºmenor,1,1,Unknown,Second Age
+Female,Tar-AncalimÃ«,Men,NÃºmenor,1,1,Unknown,Second Age
+Male,Tar-Ancalimon,Men,NÃºmenor,1,1,Unknown,Second Age
+Male,Tar-Amandil,Men,NÃºmenor,1,1,Unknown,Second Age
+Male,Tar-Alcarin,Men,NÃºmenor,1,1,Unknown,Second Age
+Female,Morwen Steelsheen,Men,Rohan,0,1,Dark,Third Age
+Male,Soronto,Men,Unknown,1,0,Unknown,Second Age
+Male,Tar-Aldarion,Men,NÃºmenor,1,1,Unknown,Second Age
+Male,FinwÃ«,Elves,Other,1,1,Dark,Years of the Trees
+Male,Finrod,Elves,Unknown,1,1,Golden,Years of the Trees
+Male,Fingon,Elves,Other,1,0,Dark,Years of the Trees
+Male,Fingolfin,Elves,Other,1,1,Dark,Years of the Trees
+Female,Finduilas of Dol Amroth,Men,Unknown,1,1,Dark,Third Age
+Female,Finduilas,Elves,Unknown,1,1,Golden,First Age
+Female,Findis,Elves,Unknown,0,0,Unknown,Years of the Trees
+Male,Findegil,Men,Unknown,1,0,Unknown,Fourth Age
+Male,Finarfin,Elves,Other,0,1,Golden,Years of the Trees
+Male,Ferumbras Took II,Hobbits,Unknown,1,1,Unknown,Third Age
+Male,Bill Ferny,Men,Unknown,1,0,Light,Third Age
+Male,Fengel,Men,Rohan,1,0,Unknown,Third Age
+Male,Fastred (Pelennor Fields),Men,Unknown,1,0,Unknown,Third Age
+Male,Fastred,Men,Unknown,1,0,Unknown,Third Age
+Male,Fastolph Bolger,Hobbits,Shire,0,1,Unknown,Unknown
+Male,Farin,Dwarves,Unknown,1,1,Unknown,Third Age
+Male,Faramir (son of Ondoher),Men,Unknown,1,0,Unknown,Third Age
+Male,Faramir,Men,Other,1,1,Other,Third Age
+Male,Snaga (Two Towers orc),Orcs,Unknown,1,0,Unknown,Unknown
+Male,Snaga,Orcs,Unknown,1,0,Unknown,Unknown
+Male,Smaug,Dragons,Lonely Mountain,1,0,Unknown,Third Age
+Male,Robin Smallburrow,Hobbits,Unknown,0,0,Unknown,Third Age
+Male,Siriondil,Men,Gondor,1,1,Unknown,Third Age
+Female,SilmariÃ«n,Men,Unknown,0,1,Unknown,Second Age
+Female,Shelob,Other,Other,1,0,Unknown,First Age
+Male,Shagrat,Other,Other,0,0,Unknown,Third Age
+Male,Scatha,Dragons,Unknown,1,0,Unknown,Unknown
+Male,Sauron,Ainur,Unknown,1,0,Other,Unknown
+Male,Saruman,Ainur,Other,1,0,Grey/White,Unknown
+Male,Salmar,Ainur,Unknown,0,0,Unknown,Unknown
+Male,Saradas Brandybuck,Hobbits,Unknown,1,0,Unknown,Unknown
+Male,Sangahyando,Men,Unknown,0,0,Unknown,Third Age
+Male,Ted Sandyman,Hobbits,Unknown,1,0,Unknown,Third Age
+Male,Salgant,Elves,Unknown,1,0,Unknown,Unknown
+Male,Sagroth,Men,Unknown,0,0,Unknown,Unknown
+Male,Saeros,Elves,Unknown,1,0,Unknown,Years of the Trees
+Male,Saelon,Men,Unknown,0,0,Unknown,Fourth Age
+Male,Sador,Men,Unknown,1,0,Unknown,First Age
+Male,Sadoc Brandybuck,Hobbits,Unknown,0,1,Unknown,Unknown
+Male,Lotho Sackville-Baggins,Hobbits,Unknown,1,0,Other,Third Age
+Female,Lobelia Sackville-Baggins,Hobbits,Unknown,1,1,Unknown,Third Age
+Male,RÃ³mendacil II,Men,Gondor,1,1,Unknown,Third Age
+Male,RÃºmil (Noldo),Elves,Unknown,0,0,Unknown,Years of the Trees
+Male,RÃ³mendacil I,Men,Gondor,1,1,Unknown,Third Age
+Female,RÃ­an (Gondor),Men,Unknown,0,1,Unknown,Unknown
+Female,RÃ­an,Men,Unknown,1,1,Unknown,First Age
+Male,Rufus Burrows,Hobbits,Unknown,0,1,Unknown,Unknown
+Male,RÃºmil of LÃ³rien,Elves,Unknown,0,0,Unknown,Unknown
+Male,Rudigar Bolger,Hobbits,Other,1,1,Unknown,Unknown
+Male,RoÃ¤c,Other,Unknown,0,0,Unknown,Third Age
+Male,Rowan Greenhand,Hobbits,Shire,1,1,Unknown,Third Age
+Male,Rog,Elves,Unknown,1,0,Unknown,Unknown
+Male,Ragnor,Men,Unknown,1,0,Unknown,First Age
+Male,Ragnir,Men,Unknown,1,0,Unknown,First Age
+Male,Radhruin,Men,Unknown,1,0,Unknown,First Age
+Male,Radagast,Ainur,Unknown,0,0,Light,Unknown
+Male,Odo Proudfoot,Hobbits,Unknown,1,1,Light,Third Age
+Female,Mrs. Proudfoot,Hobbits,Unknown,0,1,Unknown,Third Age
+Male,KhÃ®m,Dwarves,Unknown,1,0,Unknown,Unknown
+Male,KhamÃ»l,Other,Other,0,0,Grey/White,Second Age
+Female,Ivriniel,Men,Unknown,0,0,Unknown,Third Age
+Female,Ivorwen,Men,Unknown,1,1,Light,Third Age
+Female,IsilmÃ«,Men,Unknown,0,0,Unknown,Second Age
+Male,Isilmo,Men,Unknown,1,1,Unknown,Second Age
+Male,Isildur,Men,Arnor,1,1,Dark,Second Age
+Male,Isengrim Took III,Hobbits,Unknown,1,1,Unknown,Third Age
+Male,Isembold Took,Hobbits,Unknown,1,1,Unknown,Third Age
+Male,Irmo,Ainur,Unknown,0,1,Unknown,Unknown
+Male,Iorlas,Men,Unknown,1,0,Unknown,Third Age
+Female,Ioreth,Men,Unknown,0,0,Unknown,Third Age
+Female,InzilbÃªth,Men,Unknown,0,1,Unknown,Second Age
+Male,Ingwion,Elves,Unknown,1,0,Golden,Years of the Trees
+Male,IngwÃ«,Elves,Valinor,0,1,Golden,Years of the Trees
+Male,Ingold,Men,Unknown,1,0,Unknown,Third Age
+Male,Indor,Men,Unknown,1,1,Unknown,First Age
+Female,Indis,Elves,Other,0,1,Golden,Unknown
+Male,ImrazÃ´r,Men,Unknown,1,1,Unknown,Third Age
+Male,Imrahil,Men,Unknown,1,1,Dark,Third Age
+Male,Imlach,Men,Unknown,1,1,Unknown,First Age
+Female,IminyÃ«,Elves,Unknown,0,1,Unknown,Years of the Trees
+Male,Imin,Elves,Unknown,0,1,Unknown,Years of the Trees
+Male,Eru IlÃºvatar,Other,Other,0,0,Grey/White,Unknown
+Female,IlmarÃ«,Ainur,Unknown,0,0,Unknown,Unknown
+Female,Idril,Elves,Unknown,0,1,Golden,Years of the Trees
+Male,IbÃ»n,Dwarves,Unknown,1,0,Unknown,Unknown
+Male,HÃºrin of Emyn Arnen,Men,Unknown,1,0,Unknown,Third Age
+Male,HÃºrin II,Men,Unknown,1,1,Unknown,Third Age
+Male,HÃºrin I,Men,Unknown,1,1,Unknown,Third Age
+Male,HÃºrin,Men,Unknown,1,1,Golden,First Age
+Male,HÃ¡ma (Helm's son),Men,Unknown,1,0,Unknown,Third Age
+Male,HÃ¡ma,Men,Unknown,1,0,Light,Third Age
+Male,Hyarmendacil II,Men,Gondor,1,1,Unknown,Third Age
+Male,Hyarmendacil I,Men,Gondor,1,1,Unknown,Third Age
+Male,Huor,Men,Unknown,1,1,Golden,First Age
+Male,Hunthor,Men,Unknown,1,1,Unknown,First Age
+Male,Hundar,Men,Unknown,1,1,Unknown,First Age
+Male,Hundad,Men,Unknown,1,1,Unknown,First Age
+Male,Huan,Other,Unknown,1,0,Unknown,First Age
+Male,Tobias Hornblower,Hobbits,Shire,1,0,Unknown,Third Age
+Male,Horn,Men,Unknown,1,0,Golden,Third Age
+Male,EÃ¶nwÃ«,Ainur,Unknown,0,0,Unknown,Unknown
+Male,EÃ¶l,Elves,Other,1,1,Dark,Years of the Trees
+Female,EÃ¤rwen,Elves,Unknown,0,1,Other,Years of the Trees
+Male,EÃ¤rnur,Men,Gondor,1,0,Unknown,Third Age
+Male,EÃ¤rnil II,Men,Gondor,1,1,Unknown,Third Age
+Male,EÃ¤rnil I,Men,Gondor,1,1,Unknown,Third Age
+Male,EÃ¤rendur of NÃºmenor,Men,Unknown,1,1,Unknown,Second Age
+Male,EÃ¤rendur (Lord of AndÃºniÃ«),Men,Unknown,1,0,Unknown,Second Age
+Male,EÃ¤rendil of Gondor,Men,Gondor,1,1,Unknown,Third Age
+Male,EÃ¤rendil,Half-elven,Unknown,0,1,Golden,First Age
+Female,EstÃ«,Ainur,Unknown,0,1,Unknown,Unknown
+Male,Estelmo,Men,Unknown,1,0,Unknown,Second Age
+Male,Erkenbrand,Men,Unknown,1,0,Unknown,Third Age
+Male,Erestor,Elves,Unknown,0,0,Unknown,Unknown
+Female,Erendis,Men,NÃºmenor,1,1,Dark,Second Age
+Male,Erellont,Elves,Unknown,1,0,Unknown,Unknown
+Male,Erchirion,Men,Unknown,1,0,Unknown,Third Age
+Male,Eradan,Men,Unknown,1,1,Unknown,Third Age
+Female,owyn,Men,Unknown,1,1,Other,Third Age
+Male,Eorl the Young,Men,Rohan,1,1,Golden,Third Age
+Male,omer,Men,Rohan,1,1,Golden,Third Age
+Male,Enerdhil,Elves,Unknown,0,0,Unknown,First Age
+Female,EnelyÃ«,Elves,Unknown,0,1,Unknown,Years of the Trees
+Male,Enel,Elves,Unknown,0,1,Unknown,Years of the Trees
+Female,Emeldir,Men,Unknown,0,1,Unknown,First Age
+Female,Elwing,Half-elven,Unknown,0,1,Dark,First Age
+Male,ElurÃ©d and ElurÃ­n,Elves,Unknown,1,0,Dark,First Age
+Male,Elros,Half-elven,NÃºmenor,1,1,Unknown,First Age
+Male,Elrond,Half-elven,Other,1,1,Dark,First Age
+Male,Elphir,Men,Unknown,1,1,Unknown,Third Age
+Male,Elladan and Elrohir,Elves,Unknown,0,0,Dark,Third Age
+Male,Elfwine,Men,Rohan,1,0,Unknown,Unknown
+Female,Elfhild,Men,Rohan,1,1,Unknown,Third Age
+Male,Elfhelm,Men,Unknown,1,0,Dark,Third Age
+Female,ElenwÃ«,Elves,Unknown,1,1,Golden,Years of the Trees
+Male,Elendur of Arnor,Men,Arnor,1,1,Unknown,Third Age
+Male,Elendur,Men,Unknown,1,1,Unknown,Second Age
+Male,Elendil,Men,Arnor,1,1,Light,Second Age
+Male,Elemmakil,Elves,Unknown,1,0,Unknown,Unknown
+Male,Eldarion,Men,Other,1,0,Dark,Unknown
+Female,EldalÃ³tÃ«,Elves,Unknown,0,1,Unknown,Years of the Trees
+Male,Eldacar (King of Gondor),Men,Gondor,1,1,Unknown,Third Age
+Male,Eldacar (King of Arnor),Men,Arnor,1,1,Unknown,Third Age
+Male,Elboron,Men,Unknown,0,0,Unknown,Unknown
+Male,Elatan,Men,Unknown,1,1,Unknown,Second Age
+Female,Eilinel,Men,Unknown,1,1,Unknown,First Age
+Female,Eglantine (Banks) Took,Hobbits,Unknown,1,1,Unknown,Third Age
+Male,Egalmoth (elf),Elves,Unknown,1,0,Unknown,Unknown
+Male,Egalmoth,Men,Unknown,1,1,Unknown,Third Age
+Male,Edrahil,Elves,Unknown,1,0,Unknown,Unknown
+Male,Ecthelion of the Fountain,Elves,Unknown,1,0,Dark,Unknown
+Male,Ecthelion II,Men,Unknown,1,1,Unknown,Third Age
+Male,Ecthelion I,Men,Unknown,1,0,Unknown,Third Age
+Male,DÃºnhere,Men,Unknown,1,0,Unknown,Third Age
+Female,DÃ­s,Dwarves,Unknown,1,0,Unknown,Third Age
+Male,DÃ­rhavel,Men,Unknown,1,0,Unknown,First Age
+Male,DÃ­rhael,Men,Unknown,1,1,Light,Third Age
+Male,DÃ©orwine,Men,Unknown,1,0,Unknown,Third Age
+Male,DÃ©or,Other,Rohan,1,0,Unknown,Third Age
+Male,DÃ©agol,Hobbits,Unknown,1,0,Dark,Third Age
+Male,Borlas,Men,Unknown,0,1,Unknown,Third Age
+Male,Borlad,Men,Unknown,1,1,Unknown,First Age
+Male,Pelendur,Men,Unknown,1,0,Unknown,Third Age
+Male,Pallando,Ainur,Unknown,0,0,Unknown,Unknown
+Male,Otho Sackville-Baggins,Hobbits,Unknown,1,1,Unknown,Third Age
+Male,Ostoher,Men,Gondor,1,1,Unknown,Third Age
+Male,OssÃ«,Ainur,Unknown,0,1,Unknown,Unknown
+Male,Orophin,Elves,Unknown,0,0,Unknown,Unknown
+Male,Oropher,Elves,Other,1,1,Unknown,First Age
+Male,OromÃ«,Ainur,Unknown,0,1,Unknown,Unknown
+Male,Oromendil,Men,Unknown,0,0,Unknown,Second Age
+Male,Orodreth (Steward),Men,Unknown,1,1,Unknown,Third Age
+Male,Orodreth,Elves,Other,1,1,Golden,Years of the Trees
+Male,Ori,Dwarves,Unknown,1,0,Unknown,Third Age
+Male,Orcobal,Orcs,Unknown,1,0,Unknown,Unknown
+Male,Orchaldor,Men,Unknown,0,1,Unknown,Second Age
+Male,Ondoher,Men,Gondor,1,1,Unknown,Third Age
+Male,OlwÃ«,Elves,Other,0,1,Grey/White,Unknown
+Male,Old Noakes,Hobbits,Unknown,1,1,Unknown,Third Age
+Male,Ohtar,Men,Unknown,0,0,Unknown,Second Age
+Female,NÃºneth,Men,Unknown,0,1,Unknown,Second Age
+Male,NÃºmendil,Men,Unknown,1,1,Unknown,Second Age
+Male,NÃ¡r,Dwarves,Unknown,1,0,Unknown,Third Age
+Male,NÃ¡li,Dwarves,Unknown,1,0,Unknown,Third Age
+Male,NÃ¡in II,Dwarves,Other,1,1,Unknown,Third Age
+Male,NÃ¡in I,Dwarves,Other,1,1,Unknown,Third Age
+Male,NÃ¡in (father of DÃ¡in II Ironfoot),Dwarves,Unknown,1,1,Unknown,Third Age
+Male,Hob Hayward,Hobbits,Shire,0,0,Unknown,Third Age
+Male,Hob Gammidge,Hobbits,Unknown,0,1,Unknown,Third Age
+Male,Hirluin,Men,Unknown,1,0,Unknown,Third Age
+Male,Hirgon,Men,Unknown,1,0,Unknown,Third Age
+Male,Herumor (Fourth Age),Men,Unknown,0,0,Unknown,Unknown
+Male,Herumor,Men,Unknown,0,0,Unknown,Second Age
+Male,Herucalmo,Men,Unknown,1,1,Unknown,Second Age
+Male,Herubrand,Men,Unknown,1,1,Unknown,Third Age
+Male,Herion,Men,Unknown,1,1,Unknown,Third Age
+Male,Hendor,Elves,Unknown,0,0,Unknown,Unknown
+Male,Herefara,Men,Unknown,1,1,Grey/White,Third Age
+Male,Henderch,Men,Unknown,1,0,Unknown,Second Age
+Male,Helm Hammerhand,Men,Rohan,1,1,Unknown,Third Age
+Male,Hatholdir,Men,Unknown,0,1,Unknown,Second Age
+Male,Hathol,Men,Unknown,0,0,Unknown,Unknown
+Male,Hathaldir,Men,Unknown,1,0,Unknown,First Age
+Female,Hareth,Men,Unknown,0,1,Unknown,First Age
+Male,Harding,Men,Unknown,1,0,Unknown,Third Age
+Male,Hardang,Men,Unknown,1,0,Unknown,First Age
+Male,Hamfast of Gamwich,Hobbits,Unknown,0,1,Unknown,Third Age
+Male,Halmir,Men,Unknown,1,1,Unknown,First Age
+Male,Hallatan,Men,Unknown,1,1,Unknown,Second Age
+Male,Hallas (Steward),Men,Unknown,1,1,Unknown,Third Age
+Male,Hallacar,Men,Unknown,1,1,Unknown,Second Age
+Male,Haleth (Helm's son),Men,Unknown,1,0,Unknown,Third Age
+Female,Haleth,Men,Unknown,1,0,Unknown,First Age
+Male,Haldir (Lorien),Elves,Unknown,1,0,Golden,Unknown
+Male,Haldir (Haladin),Men,Unknown,1,1,Unknown,First Age
+Male,Halbarad,Men,Unknown,1,0,Dark,Third Age
+Male,Hador,Men,Unknown,1,1,Golden,First Age
+Male,GÃ¡rulf,Men,Unknown,1,0,Unknown,Third Age
+Male,Hador (Steward),Men,Unknown,1,1,Unknown,Third Age
+Male,DÃ¡in II Ironfoot,Dwarves,Lonely Mountain,1,1,Unknown,Third Age
+Male,DÃ¡in I,Dwarves,Other,1,1,Unknown,Third Age
+Male,Dwalin,Dwarves,Unknown,1,0,Light,Third Age
+Male,Durin's Bane,Other,Unknown,1,0,Other,Unknown
+Male,Durin VII,Dwarves,Other,0,0,Unknown,Unknown
+Male,Duinhir,Men,Unknown,1,1,Dark,Third Age
+Male,Duilin,Men,Unknown,1,0,Unknown,Third Age
+Male,Draugluin,Other,Unknown,1,0,Unknown,Unknown
+Male,Dorlas,Men,Unknown,1,0,Unknown,First Age
+Male,Dori,Dwarves,Unknown,0,0,Grey/White,Third Age
+Male,Dodinas Brandybuck,Hobbits,Unknown,0,0,Unknown,Unknown
+Male,Dior (Steward),Men,Unknown,1,0,Unknown,Third Age
+Male,Dior,Half-elven,Other,1,1,Dark,First Age
+Male,Dinodas Brandybuck,Hobbits,Unknown,1,0,Unknown,Unknown
+Female,Diamond Took,Hobbits,Unknown,1,1,Light,Third Age
+Male,Dervorin,Men,Unknown,0,0,Unknown,Third Age
+Male,Derufin,Men,Unknown,1,0,Unknown,Third Age
+Male,Denethor II,Men,Unknown,1,1,Dark,Third Age
+Male,Denethor I,Men,Unknown,1,1,Unknown,Third Age
+Male,Denethor (First Age),Elves,Other,1,0,Unknown,Years of the Trees
+Male,Damrod,Men,Unknown,1,0,Dark,Third Age
+Male,Dairuin,Men,Unknown,1,0,Unknown,First Age
+Male,Daeron,Elves,Unknown,0,0,Dark,Years of the Trees
+Male,CÃ­rdan,Elves,Unknown,1,1,Grey/White,Years of the Trees
+Male,Curufin,Elves,Other,1,1,Dark,Unknown
+Male,in (King of Durin's Folk),Men,Other,1,1,Unknown,Third Age
+Male,in,Dwarves,Unknown,1,0,Unknown,Third Age
+Male,mar,Ainur,Unknown,0,0,Unknown,Unknown
+Male,bal,Men,Unknown,0,0,Unknown,First Age
+Female,rimÃ«,Elves,Unknown,0,0,Unknown,Years of the Trees
+Female,rildÃ«,Men,Unknown,0,0,Unknown,Second Age
+Male,othain,Men,Unknown,0,0,Unknown,Third Age
+Male,omund,Men,Unknown,1,1,Golden,Third Age
+Male,ofor,Men,Unknown,0,1,Unknown,Third Age
+Female,ZamÃ®n,Men,Unknown,1,0,Grey/White,Second Age
+Female,YÃ¡vien,Men,Unknown,0,0,Unknown,Second Age
+Female,Yavanna,Ainur,Other,0,1,Unknown,Unknown
+Male,WÃ­dfara,Men,Unknown,1,1,Unknown,Third Age
+Male,Wulf I,Men,Rohan,1,0,Unknown,Third Age
+Male,Borlach,Men,Unknown,1,0,Unknown,First Age
+Male,Borin,Other,Unknown,1,0,Unknown,Third Age
+Male,Bombur,Dwarves,Unknown,0,0,Other,Third Age
+Male,Wilibald Bolger,Hobbits,Unknown,1,1,Unknown,Third Age
+Female,Rosamunda (Took) Bolger,Men,Unknown,0,1,Unknown,Third Age
+Male,Odovacar Bolger,Hobbits,Unknown,1,1,Unknown,Third Age
+Female,Jessamine (Boffin) Bolger,Hobbits,Unknown,1,1,Unknown,Third Age
+Male,Fredegar Bolger,Hobbits,Unknown,1,1,Unknown,Third Age
+Male,Filibert Bolger,Hobbits,Unknown,1,1,Light,Third Age
+Male,Bolg,Other,Unknown,1,0,Unknown,Unknown
+Male,Bofur,Dwarves,Unknown,0,0,Dark,Third Age
+Male,Tosto Boffin,Hobbits,Unknown,1,0,Unknown,Third Age
+Male,Rollo Boffin,Hobbits,Unknown,0,1,Unknown,Third Age
+Male,Otto Boffin,Hobbits,Unknown,1,1,Unknown,Third Age
+Male,Jago Boffin,Hobbits,Unknown,1,1,Unknown,Third Age
+Female,Ivy (Goodenough) Boffin,Hobbits,Unknown,1,1,Unknown,Third Age
+Male,Hugo Boffin,Hobbits,Unknown,1,1,Unknown,Third Age
+Male,Griffo Boffin,Hobbits,Unknown,0,1,Unknown,Third Age
+Female,Gerda (Boffin) Bolger,Hobbits,Unknown,1,1,Unknown,Third Age
+Male,Folco Boffin,Hobbits,Unknown,1,0,Unknown,Third Age
+Female,Druda Burrows Boffin,Hobbits,Unknown,0,1,Unknown,Third Age
+Female,Daisy (Baggins) Boffin,Hobbits,Unknown,0,1,Unknown,Third Age
+Male,Buffo Boffin,Hobbits,Unknown,1,1,Unknown,Third Age
+Male,Bosco Boffin,Hobbits,Unknown,1,1,Unknown,Third Age
+Male,Basso Boffin,Hobbits,Unknown,0,0,Unknown,Third Age
+Female,Donnamira (Took) Boffin,Hobbits,Unknown,1,1,Unknown,Third Age
+Male,Bob,Hobbits,Unknown,1,0,Unknown,Third Age
+Male,Blanco,Hobbits,Unknown,1,0,Unknown,Third Age
+Male,Bladorthin,Men,Other,1,0,Unknown,Unknown
+Male,Black Serpent,Men,Unknown,1,0,Unknown,Third Age
+Male,Bilbo Baggins,Hobbits,Unknown,1,0,Light,Third Age
+Male,Bifur,Dwarves,Unknown,1,0,Dark,Third Age
+Female,BerÃºthiel,Men,Gondor,0,1,Unknown,Third Age
+Male,Bergil,Men,Unknown,0,0,Unknown,Third Age
+Male,Beren (Steward),Men,Unknown,1,1,Unknown,Third Age
+Male,Beren,Men,Unknown,1,1,Dark,First Age
+Male,Berelach,Men,Unknown,0,0,Unknown,Fourth Age
+Male,Beren (Belemir's son),Men,Unknown,0,1,Unknown,First Age
+Male,Nori,Dwarves,Unknown,0,0,Unknown,Third Age
+Male,Nolondil,Men,Unknown,1,1,Unknown,Second Age
+Male,Nob,Hobbits,Unknown,0,0,Unknown,Third Age
+Female,NiÃ«nor,Men,Unknown,1,1,Golden,First Age
+Female,Nina Lightfoot,Hobbits,Shire,0,1,Unknown,Unknown
+Female,Nimrodel,Elves,Unknown,1,1,Golden,Years of the Trees
+Female,Nimloth (elf),Elves,Other,1,1,Unknown,Years of the Trees
+Female,Nienna,Ainur,Valinor,0,0,Unknown,Unknown
+Female,NielÃ­qui,Ainur,Unknown,0,0,Unknown,Unknown
+Female,NessaniÃ«,Men,Unknown,1,0,Unknown,Second Age
+Female,Nessa,Ainur,Valinor,0,1,Unknown,Unknown
+Female,Nerdanel,Elves,Unknown,0,1,Light,Years of the Trees
+Female,Nellas,Elves,Unknown,0,0,Unknown,Unknown
+Male,Naugladur,Dwarves,Unknown,1,0,Unknown,Unknown
+Male,Narmacil II,Men,Unknown,1,1,Unknown,Third Age
+Male,Narmacil I,Men,Gondor,1,1,Unknown,Third Age
+Male,MÃ®m,Dwarves,Unknown,1,1,Unknown,First Age
+Male,Muzgash,Orcs,Unknown,1,0,Unknown,Unknown
+Female,MÃ­riel,Elves,Unknown,1,1,Grey/White,Unknown
+Male,Mouth of Sauron,Men,Unknown,1,0,Dark,First Age
+Female,Morwen (Gondor),Men,Unknown,1,1,Unknown,Third Age
+Female,Morwen,Men,Unknown,1,1,Dark,First Age
+Female,Mithrellas,Elves,Unknown,0,1,Unknown,Unknown
+Male,Minardil,Men,Gondor,1,1,Unknown,Third Age
+Male,Minohtar,Men,Unknown,1,0,Unknown,Third Age
+Male,Merimas Brandybuck,Hobbits,Unknown,1,0,Unknown,Unknown
+Female,Meril-i-Turinqi,Elves,Other,1,0,Unknown,Years of the Trees
+Male,Meneldor,Other,Unknown,0,0,Unknown,Unknown
+Male,Meneldil,Men,Gondor,1,1,Unknown,Second Age
+Male,Melkor,Ainur,Other,0,0,Dark,Unknown
+Female,Melian,Ainur,Other,1,1,Dark,Unknown
+Female,Meleth,Men,Unknown,0,1,Unknown,First Age
+Male,MauhÃºr,Other,Other,1,1,Dark,Unknown
+Male,Master of Laketown,Men,Other,1,0,Other,Third Age
+Male,Marroc Brandybuck,Hobbits,Unknown,0,1,Unknown,Unknown
+Male,Marmadas Brandybuck,Hobbits,Unknown,0,1,Unknown,Unknown
+Male,Marhwini,Men,Unknown,1,1,Unknown,Third Age
+Male,Marhari,Men,Unknown,1,1,Unknown,Third Age
+Male,Marcho,Hobbits,Unknown,1,0,Unknown,Third Age
+Male,Mardil VoronwÃ«,Men,Unknown,1,1,Unknown,Third Age
+Male,Marach,Men,Unknown,1,1,Unknown,First Age
+Male,ManwÃ«,Ainur,Other,0,1,Unknown,Unknown
+Male,Manwendil,Men,Unknown,1,1,Unknown,Second Age
+Male,Manthor,Men,Unknown,1,0,Unknown,First Age
+Male,Mandos,Ainur,Unknown,0,1,Unknown,Unknown
+Male,GÃ¡lmÃ³d,Men,Unknown,1,1,Unknown,Third Age
+Male,Gwindor,Elves,Unknown,1,1,Grey/White,First Age
+Male,Gwaihir,Other,Unknown,0,0,Unknown,Unknown
+Male,GuthlÃ¡f,Men,Unknown,1,0,Golden,Third Age
+Male,Gundor,Men,Unknown,1,0,Unknown,First Age
+Male,Guilin,Elves,Unknown,0,1,Unknown,Unknown
+Male,GrÃ³r,Dwarves,Unknown,1,1,Unknown,Third Age
+Male,GrÃ³in,Dwarves,Unknown,1,1,Unknown,Third Age
+Male,Grithnir,Men,Unknown,1,0,Unknown,First Age
+Male,GrishnÃ¡kh,Orcs,Unknown,1,0,Unknown,Unknown
+Male,Grimbold,Men,Unknown,1,0,Unknown,Third Age
+Male,Grimbeorn,Other,Unknown,1,0,Dark,Unknown
+Female,Rose Greenhand,Hobbits,Unknown,0,1,Unknown,Third Age
+Male,Holman Greenhand,Hobbits,Unknown,0,0,Unknown,Third Age
+Male,Hending Greenhand,Hobbits,Unknown,0,0,Unknown,Third Age
+Male,Halfred Greenhand,Hobbits,Unknown,0,0,Unknown,Third Age
+Male,Erling Greenhand,Hobbits,Unknown,0,0,Unknown,Third Age
+Male,Great Goblin,Orcs,Unknown,1,0,Grey/White,Unknown
+Male,Gorlim,Other,Unknown,1,1,Unknown,First Age
+Male,Gram,Men,Rohan,1,1,Unknown,Third Age
+Male,Gothmog (Lieutenant of Morgul),Orcs,Other,1,0,Light,Unknown
+Male,Gothmog,Other,Unknown,1,0,Unknown,Unknown
+Male,Gostir,Dragons,Unknown,0,0,Unknown,Unknown
+Male,"Gormadoc ""Deepdelver"" Brandybuck",Hobbits,Other,1,1,Unknown,Unknown
+Male,Gorhendad (Oldbuck) Brandybuck,Hobbits,Unknown,0,1,Unknown,Third Age
+Male,Gorbulas Brandybuck,Hobbits,Unknown,1,1,Unknown,Third Age
+Male,Gorbag,Other,Other,1,0,Dark,Unknown
+Male,Gollum,Hobbits,Unknown,1,0,Unknown,Third Age
+Male,Golfimbul,Other,Other,1,0,Unknown,Third Age
+Female,Hanna (Goldworthy) Brandybuck,Hobbits,Unknown,0,1,Unknown,Unknown
+Male,Goldwine,Men,Rohan,1,0,Unknown,Third Age
+Male,Golasgil,Men,Unknown,0,0,Unknown,Third Age
+Male,Harry Goatleaf,Men,Unknown,1,0,Unknown,Third Age
+Female,GlÃ³redhel,Men,Unknown,1,1,Golden,First Age
+Male,GlÃ³in (King of Durin's Folk),Dwarves,Other,1,1,Unknown,Third Age
+Male,GlÃ³in,Dwarves,Unknown,1,1,Grey/White,Third Age
+Male,GlÃ©owine,Men,Unknown,0,0,Unknown,Third Age
+Male,Glorfindel,Elves,Unknown,1,0,Golden,Years of the Trees
+Male,Glirhuin,Men,Unknown,0,0,Unknown,First Age
+Male,Glaurung,Dragons,Unknown,1,0,Unknown,Unknown
+Male,Girion,Men,Unknown,1,1,Unknown,Third Age
+Male,Gimli,Dwarves,Unknown,1,0,Other,Third Age
+Male,Gimilzagar,Men,Unknown,0,0,Unknown,Second Age
+Male,GimilkhÃ¢d,Men,Unknown,1,1,Unknown,Second Age
+Female,Gilraen,Men,Unknown,1,1,Golden,Third Age
+Female,Gilmith,Half-elven,Unknown,0,0,Unknown,Third Age
+Male,Gilfanon,Elves,Unknown,1,0,Unknown,Unknown
+Male,Gildor Inglorion,Other,Unknown,1,0,Golden,Unknown
+Male,Gildor (Edain),Men,Unknown,1,0,Unknown,First Age
+Male,Gil-galad,Elves,Other,1,0,Dark,First Age
+Female,Gildis,Men,Unknown,0,1,Unknown,First Age
+Male,GhÃ¢n-buri-GhÃ¢n,Other,Unknown,0,0,Dark,Third Age
+Male,Gelmir (of Angrod's kin),Elves,Unknown,0,0,Unknown,Unknown
+Male,Gethron,Men,Unknown,0,0,Unknown,First Age
+Male,Gelmir,Elves,Unknown,1,0,Unknown,Unknown
+Male,Tolman Cotton,Hobbits,Unknown,1,1,Unknown,Third Age
+Female,Rosie Cotton,Hobbits,Unknown,1,1,Light,Third Age
+Female,Marigold (Gamgee) Cotton,Hobbits,Unknown,0,1,Unknown,Third Age
+Female,Lily Cotton,Hobbits,Unknown,0,1,Unknown,Third Age
+Male,Bowman Cotton,Hobbits,Unknown,0,0,Unknown,Third Age
+Male,Tolman Cotton Jr.,Hobbits,Unknown,1,1,Unknown,Third Age
+Male,Ciryon,Men,Unknown,1,1,Unknown,Second Age
+Male,Ciryatur,Men,Unknown,1,0,Dark,Second Age
+Male,Ciryandil,Men,Gondor,1,1,Unknown,Third Age
+Male,Cirion,Men,Unknown,1,1,Unknown,Third Age
+Male,Falco Chubb-Baggins,Hobbits,Unknown,1,1,Unknown,Third Age
+Male,Ceorl,Men,Unknown,0,0,Unknown,Third Age
+Male,Cemendur (son of Axantur),Men,Unknown,0,1,Unknown,Second Age
+Male,Cemendur,Men,Gondor,1,1,Unknown,Second Age
+Male,Celepharn,Men,Arthedain,1,1,Unknown,Third Age
+Male,Celegorm,Elves,Unknown,1,0,Golden,Unknown
+Female,CelebrÃ­an,Elves,Unknown,1,1,Grey/White,Second Age
+Male,Celebrindor,Men,Arthedain,1,1,Unknown,Third Age
+Male,Celebrimbor,Elves,Other,1,0,Dark,Years of the Trees
+Male,Celeborn,Elves,Other,1,1,Grey/White,Years of the Trees
+Male,Castamir the Usurper,Men,Gondor,1,1,Unknown,Third Age
+Male,Carcharoth,Other,Other,1,0,Dark,Unknown
+Male,Caranthir,Elves,Unknown,1,1,Dark,Unknown
+Male,Calmacil,Men,Gondor,1,1,Unknown,Third Age
+Male,Caliondo,Men,Unknown,1,1,Unknown,Second Age
+Male,Calimehtar,Men,Gondor,1,1,Unknown,Third Age
+Male,BÃ³r,Men,Unknown,1,1,Unknown,First Age
+Male,BÃ«or,Men,Unknown,1,1,Unknown,First Age
+Male,Barliman Butterbur,Men,Unknown,1,0,Light,Third Age
+Male,GrÃ­ma Wormtongue,Men,Unknown,1,0,Dark,Third Age
+Male,Witch-king of Angmar,Other,Other,1,0,Light,Second Age
+Male,Wiseman Gamwich,Hobbits,Unknown,0,1,Unknown,Third Age
+Male,Willie Banks,Hobbits,Other,1,0,Unknown,Third Age
+Male,Watcher in the Water,Other,Other,1,1,Unknown,First Age
+Male,Walda,Men,Unknown,1,1,Unknown,Third Age
+Male,VÃ«antur,Men,Unknown,1,1,Unknown,Second Age
+Male,VoronwÃ«,Elves,Unknown,0,0,Unknown,First Age
+Male,Vorondil,Men,Unknown,1,1,Unknown,Third Age
+Female,Vidumavi,Men,Unknown,1,1,Unknown,Third Age
+Male,Vidugavia,Men,Other,0,1,Unknown,Third Age
+Female,VardilmÃ«,Men,Unknown,1,0,Unknown,Second Age
+Male,Vardamir NÃ³limon,Men,NÃºmenor,1,1,Unknown,Second Age
+Female,Varda,Ainur,Other,0,1,Unknown,Unknown
+Male,Valandur,Men,Arnor,1,1,Unknown,Third Age
+Male,Valandil of AndÃºniÃ«,Men,Unknown,1,0,Unknown,Second Age
+Male,Valandil,Men,Arnor,1,1,Unknown,Second Age
+Male,Valacar,Men,Gondor,1,1,Unknown,Third Age
+Female,VairÃ« (Elf),Elves,Unknown,0,1,Unknown,Years of the Trees
+Female,VairÃ«,Ainur,Valinor,0,1,Unknown,Unknown
+Male,Urthel,Men,Unknown,1,0,Unknown,First Age
+Female,Ungoliant,Other,Unknown,1,0,Unknown,Unknown
+Male,Ulwarth,Men,Unknown,1,0,Unknown,First Age
+Male,Ulmo,Ainur,Valinor,0,0,Unknown,Unknown
+Male,Ulfast,Men,Unknown,1,0,Unknown,First Age
+Male,Ulfang,Men,Unknown,1,1,Unknown,First Age
+Male,Uldor,Men,Unknown,1,0,Unknown,First Age
+Male,Ulbar,Men,Unknown,1,1,Unknown,Second Age
+Male,UglÃºk,Other,Other,1,0,Dark,Unknown
+Male,Ufthak,Orcs,Other,1,0,Unknown,Unknown
+Male,TÃºrin II,Men,Unknown,1,1,Unknown,Third Age
+Male,TÃºrin I,Men,Unknown,1,1,Unknown,Third Age
+Male,TÃºrin,Men,Unknown,1,1,Dark,First Age
+Male,Turgon (Steward),Men,Unknown,1,1,Unknown,Third Age
+Male,Turgon,Elves,Other,1,1,Dark,Years of the Trees
+Male,Turambar,Men,Gondor,1,1,Unknown,Third Age
+Male,Tuor,Men,Unknown,1,1,Golden,First Age
+Male,Tulkastor,Elves,Unknown,0,1,Unknown,Years of the Trees
+Male,Tulkas,Ainur,Valinor,0,1,Golden,Unknown
+Male,Treebeard,Other,Unknown,0,1,Other,Years of the Trees
+Male,Sigismond Took,Hobbits,Unknown,1,1,Unknown,Third Age
+Female,Rosa (Baggins) Took,Hobbits,Unknown,0,1,Unknown,Unknown
+Male,Beregond (Captain),Men,Unknown,1,1,Unknown,Third Age
+Male,Beregond,Men,Unknown,1,1,Unknown,Third Age
+Male,Bereg,Men,Unknown,0,0,Unknown,First Age
+Male,Beorn,Other,Unknown,1,0,Dark,Unknown
+Male,Belen,Men,Unknown,0,1,Unknown,First Age
+Male,Belemir,Men,Unknown,0,1,Unknown,First Age
+Male,Belegund,Men,Unknown,1,1,Unknown,First Age
+Male,Belegorn,Men,Unknown,1,1,Unknown,Third Age
+Male,Beleg of Arnor,Men,Arnor,1,1,Unknown,Third Age
+Male,Beleg,Elves,Unknown,1,0,Unknown,Unknown
+Male,Belecthor II,Men,Unknown,1,1,Unknown,Third Age
+Male,Belecthor I,Men,Unknown,1,1,Unknown,Third Age
+Female,Beldis,Men,Unknown,0,1,Light,First Age
+Male,Beldir,Men,Unknown,0,1,Unknown,First Age
+Male,Beechbone,Other,Unknown,1,0,Other,Unknown
+Male,Bard II,Men,Other,1,0,Unknown,Third Age
+Male,Bard,Men,Other,1,1,Dark,Third Age
+Male,Baranor,Men,Unknown,0,1,Unknown,First Age
+Male,Baran,Men,Other,1,1,Unknown,First Age
+Male,Barahir (Steward),Men,Gondor,1,1,Unknown,Third Age
+Male,Barahir,Men,Unknown,1,1,Dark,First Age
+Male,Baragund,Men,Unknown,1,1,Unknown,First Age
+Male,Balin,Dwarves,Unknown,1,0,Grey/White,Third Age
+Male,Bain,Men,Other,1,1,Light,Third Age
+Male,Porto Baggins,Hobbits,Unknown,0,0,Unknown,Third Age
+Male,Ponto Baggins II,Hobbits,Unknown,0,1,Unknown,Third Age
+Male,Ponto Baggins,Hobbits,Unknown,1,1,Unknown,Third Age
+Female,Peony (Baggins) Burrows,Hobbits,Unknown,0,1,Unknown,Third Age
+Male,Malvegil,Men,Arthedain,1,1,Unknown,Third Age
+Female,"Malva ""Headstrong"" Brandybuck",Hobbits,Unknown,0,1,Unknown,Unknown
+Male,Mallor,Men,Arthedain,1,1,Unknown,Third Age
+Male,Malbeth the Seer,Men,Unknown,1,1,Dark,Third Age
+Male,Malach,Men,Unknown,1,1,Unknown,First Age
+Female,Mairen,Men,Unknown,0,0,Unknown,Second Age
+Male,Mahtan,Elves,Unknown,0,1,Light,Unknown
+Male,Magor,Men,Unknown,0,0,Unknown,Unknown
+Male,Maglor,Elves,Unknown,1,1,Dark,Unknown
+Male,Farmer Maggot,Hobbits,Unknown,0,1,Light,Third Age
+Male,Maeglin,Elves,Unknown,1,0,Dark,First Age
+Male,Maedhros,Elves,Unknown,1,0,Dark,Unknown
+Male,Mablung the Ranger,Men,Unknown,0,0,Dark,Third Age
+Male,Mablung,Elves,Unknown,1,0,Unknown,Unknown
+Female,LÃºthien,Other,Unknown,1,1,Dark,Years of the Trees
+Male,LÃ³ni,Dwarves,Unknown,1,0,Unknown,Third Age
+Male,Brytta LÃ©ofa,Men,Rohan,1,1,Unknown,Third Age
+Male,LÃ©od,Men,Unknown,1,1,Unknown,Third Age
+Male,Lungorthin,Other,Unknown,1,0,Other,Unknown
+Male,Lugdush,Other,Unknown,1,0,Dark,Unknown
+Female,LothÃ­riel,Men,Rohan,0,1,Unknown,Third Age
+Male,Lorgan,Men,Unknown,1,0,Unknown,First Age
+Female,LindÃ³riÃ«,Men,Unknown,1,1,Unknown,Second Age
+Male,Lindo,Elves,Unknown,0,1,Unknown,Years of the Trees
+Female,LindissÃ«,Men,Unknown,0,0,Unknown,Second Age
+Male,Lindir,Elves,Unknown,1,0,Light,Unknown
+Male,LenwÃ«,Elves,Unknown,1,1,Unknown,Years of the Trees
+Male,Legolas (elf of Gondolin),Elves,Unknown,0,0,Unknown,Unknown
+Male,Legolas,Elves,Unknown,1,0,Golden,Unknown
+Male,Larnach,Men,Unknown,0,1,Unknown,First Age
+Male,Landroval,Other,Unknown,1,0,Unknown,First Age
+Female,Lalaith,Men,Unknown,1,0,Golden,First Age
+Female,Elanor Gardner,Hobbits,Unknown,1,1,Golden,Unknown
+Male,Gandalf,Ainur,Unknown,1,0,Grey/White,Unknown
+Male,Gamling,Men,Unknown,0,0,Golden,Third Age
+Male,Samwise Gamgee,Hobbits,Unknown,1,1,Golden,Unknown
+Female,May Gamgee,Hobbits,Unknown,0,0,Unknown,Third Age
+Male,Hamson Gamgee,Hobbits,Unknown,0,0,Unknown,Third Age
+Male,Hamfast Gamgee,Hobbits,Unknown,1,1,Light,Third Age
+Male,Halfred Gamgee,Hobbits,Unknown,0,0,Unknown,Third Age
+Male,Frodo Gardner,Hobbits,Unknown,1,1,Unknown,Unknown
+Female,Daisy Gamgee I,Hobbits,Unknown,1,0,Unknown,Third Age
+Male,Galion,Elves,Unknown,0,0,Unknown,Unknown
+Male,Galdor of the Tree,Elves,Unknown,0,0,Unknown,Unknown
+Male,Galdor of the Havens,Elves,Unknown,0,0,Golden,Unknown
+Male,Galdor,Men,Unknown,1,1,Unknown,First Age
+Female,Galadriel,Elves,Other,1,1,Golden,Years of the Trees
+Male,Galathil,Elves,Unknown,0,1,Unknown,Unknown
+Male,Galador,Half-elven,Unknown,1,1,Unknown,Third Age
+Female,FÃ­riel,Men,Arthedain,0,1,Unknown,Third Age
+Male,FÃ­li and KÃ­li,Dwarves,Unknown,1,0,Other,Third Age
+Male,FÃ«anor,Elves,Other,1,1,Other,Years of the Trees
+Male,Fundin,Dwarves,Unknown,1,1,Unknown,Third Age
+Male,Fuinur,Men,Unknown,0,0,Unknown,Second Age
+Male,FrÃ³r,Dwarves,Unknown,1,0,Unknown,Third Age
+Male,FrÃ©awine,Men,Rohan,1,0,Unknown,Third Age
+Male,FrÃ©alÃ¡f Hildeson,Men,Rohan,1,1,Unknown,Third Age
+Male,FrÃ©a,Men,Rohan,1,1,Unknown,Third Age
+Male,FrÃ¡r,Other,Unknown,1,0,Unknown,Third Age
+Male,Frumgar,Men,Unknown,1,1,Unknown,Third Age
+Male,Frerin,Dwarves,Unknown,1,0,Unknown,Third Age
+Male,Freca,Men,Unknown,1,1,Dark,Third Age
+Male,Fram,Men,Unknown,1,1,Unknown,Third Age
+Male,Forweg,Men,Unknown,1,1,Golden,First Age
+Male,Fortinbras Took I,Hobbits,Unknown,1,1,Unknown,Third Age
+Male,Forthwini,Men,Unknown,1,1,Unknown,Third Age
+Male,Forlong,Men,Unknown,1,0,Unknown,Third Age
+Male,Folcwine,Men,Rohan,1,1,Unknown,Third Age
+Male,Folcred,Men,Unknown,1,0,Unknown,Third Age
+Male,Folca,Men,Unknown,1,1,Unknown,Third Age
+Male,FlÃ³i,Dwarves,Unknown,1,0,Unknown,Third Age
+Male,Minto Burrows,Hobbits,Unknown,0,0,Unknown,Third Age
+Male,Milo Burrows,Hobbits,Unknown,0,1,Unknown,Unknown
+Male,Bucca of the Marish,Hobbits,Unknown,1,0,Unknown,Third Age
+Female,Sapphira (Brockhouse) Boffin,Hobbits,Unknown,0,1,Unknown,Third Age
+Male,Bregor,Men,Unknown,1,1,Unknown,First Age
+Female,Asphodel (Brandybuck) Burrows,Hobbits,Unknown,1,1,Unknown,Third Age
+Male,Bregolas,Men,Unknown,1,1,Unknown,First Age
+Male,Brego,Men,Rohan,1,1,Unknown,Third Age
+Male,Bregalad,Other,Unknown,0,0,Other,Third Age
+Female,Primula (Brandybuck) Baggins,Hobbits,Unknown,1,1,Unknown,Third Age
+Female,Mirabella (Took) Brandybuck,Hobbits,Unknown,1,1,Unknown,Third Age
+Male,Seredic Brandybuck,Hobbits,Unknown,0,1,Unknown,Third Age
+Male,Meriadoc Brandybuck,Hobbits,Unknown,1,1,Golden,Third Age
+Female,Mentha Brandybuck,Hobbits,Unknown,1,0,Dark,Third Age
+Female,Melilot Brandybuck,Hobbits,Unknown,0,0,Unknown,Unknown
+Male,Madoc Brandybuck,Hobbits,Other,1,1,Unknown,Unknown
+Female,Estella (Bolger) Brandybuck,Hobbits,Unknown,1,1,Dark,Third Age
+Female,Hilda Brandybuck,Hobbits,Unknown,0,1,Unknown,Third Age
+Female,Esmeralda Brandybuck,Hobbits,Unknown,0,1,Unknown,Third Age
+Female,Celandine Brandybuck,Hobbits,Unknown,0,0,Unknown,Third Age
+Female,Amaranth Brandybuck,Hobbits,Unknown,1,0,Unknown,Third Age
+Female,Adaldrida (Bolger) Brandybuck,Hobbits,Unknown,0,1,Unknown,Third Age
+Male,Brand,Men,Other,1,1,Unknown,Third Age
+Female,Primrose Bracegirdle,Hobbits,Unknown,0,1,Unknown,Third Age
+Male,Bruno Bracegirdle,Hobbits,Unknown,1,1,Unknown,Third Age
+Male,Blanco Bracegirdle,Hobbits,Unknown,0,1,Unknown,Third Age
+Male,Borthand,Men,Unknown,1,0,Unknown,First Age
+Male,Borondir,Men,Unknown,1,0,Unknown,Third Age
+Male,Boron,Men,Unknown,1,1,Unknown,First Age
+Male,Boromir (Steward),Men,Unknown,1,1,Unknown,Third Age
+Male,Boromir (House of BÃ«or),Men,Unknown,1,1,Unknown,First Age
+Male,Peregrin Took,Hobbits,Unknown,1,1,Golden,Third Age
+Female,Pearl Took,Hobbits,Unknown,1,0,Unknown,Third Age
+Male,Paladin Took II,Hobbits,Unknown,1,1,Unknown,Third Age
+Male,Isembard Took,Hobbits,Unknown,1,0,Unknown,Third Age
+Male,Hildigrim Took,Hobbits,Unknown,1,1,Unknown,Unknown
+Male,Hildifons Took,Hobbits,Unknown,0,0,Unknown,Third Age
+Male,Hildibrand Took,Hobbits,Unknown,1,0,Unknown,Third Age
+Male,Gerontius Took,Hobbits,Unknown,1,1,Unknown,Third Age
+Male,Ferumbras III Took,Hobbits,Unknown,1,0,Unknown,Third Age
+Male,Adelard Took,Hobbits,Unknown,1,1,Unknown,Third Age
+Female,Adamanta (Chubb) Took,Hobbits,Unknown,1,1,Unknown,Third Age
+Male,Adalgrim Took,Hobbits,Unknown,1,1,Unknown,Third Age
+Male,Bandobras Took,Hobbits,Unknown,1,1,Unknown,Third Age
+Male,Isumbras Took III,Hobbits,Unknown,1,1,Unknown,Third Age
+Male,Isengrim Took II,Hobbits,Unknown,1,1,Unknown,Third Age
+Male,Fortinbras Took II,Hobbits,Unknown,1,1,Unknown,Third Age
+Male,Isumbras Took I,Hobbits,Unknown,1,0,Unknown,Third Age
+Male,Faramir Took I,Hobbits,Unknown,1,1,Unknown,Unknown
+Male,"Tom, Bert, and William",Other,Unknown,0,0,Unknown,Third Age
+Female,TindÃ³miel,Men,Unknown,1,0,Unknown,Second Age
+Male,Tilion,Ainur,Unknown,0,0,Other,Unknown
+Male,ThÃ©odred,Men,Unknown,1,0,Unknown,Third Age
+Male,ThÃ©oden,Men,Unknown,1,1,Golden,Third Age
+Female,Thuringwethil,Other,Unknown,1,0,Unknown,Unknown
+Male,ThrÃ³r,Dwarves,Other,1,1,Grey/White,Third Age
+Male,ThrÃ¡in II,Dwarves,Lonely Mountain,1,1,Unknown,Third Age
+Male,Thranduil,Elves,Other,1,1,Golden,First Age
+Male,Thorondor,Other,Unknown,0,0,Unknown,Unknown
+Male,ThrÃ¡in I,Dwarves,Other,1,1,Unknown,Third Age
+Male,Thorondir,Men,Unknown,1,1,Unknown,Third Age
+Male,Thorin III Stonehelm,Dwarves,Lonely Mountain,1,0,Unknown,Third Age
+Male,Thorin II Oakenshield,Dwarves,Other,1,0,Unknown,Third Age
+Male,Thorin I,Dwarves,Lonely Mountain,1,1,Unknown,Third Age
+Male,Thingol,Elves,Other,1,1,Grey/White,Years of the Trees
+Male,Thengel,Men,Rohan,1,1,Unknown,Third Age
+Male,The King of the Dead,Other,Other,1,0,Unknown,Second Age
+Male,Telemnar,Men,Gondor,1,1,Unknown,Third Age
+Male,Telchar,Dwarves,Unknown,1,0,Unknown,First Age
+Female,TatiÃ«,Elves,Unknown,0,1,Unknown,Years of the Trees
+Male,Telumehtar,Men,Gondor,1,1,Unknown,Third Age
+Male,Tata,Elves,Unknown,0,1,Unknown,Years of the Trees
+Male,Tarondor of Arnor,Men,Arnor,1,1,Unknown,Third Age
+Male,Targon,Men,Unknown,0,0,Unknown,Third Age
+Male,Longo Baggins,Hobbits,Unknown,1,1,Unknown,Third Age
+Female,Laura (Grubb) Baggins,Hobbits,Unknown,1,1,Unknown,Third Age
+Male,Tarondor,Men,Gondor,1,1,Unknown,Third Age
+Male,Tarciryan,Men,Unknown,1,1,Unknown,Third Age
+Male,Mungo Baggins,Hobbits,Unknown,1,1,Unknown,Third Age
+Male,Frodo Baggins,Hobbits,Unknown,1,0,Light,Third Age
+Male,Fosco Baggins,Hobbits,Unknown,1,1,Unknown,Third Age
+Male,Dudo Baggins,Hobbits,Unknown,1,1,Unknown,Third Age
+Male,Drogo Baggins,Hobbits,Unknown,1,1,Unknown,Third Age
+Male,Bungo Baggins,Hobbits,Unknown,1,0,Unknown,Third Age
+Female,Berylla (Boffin) Baggins,Hobbits,Unknown,1,1,Unknown,Third Age
+Female,Belladonna (Took) Baggins,Hobbits,Unknown,1,1,Dark,Third Age
+Male,Balbo Baggins,Hobbits,Unknown,1,1,Unknown,Third Age
+Female,Angelica Baggins,Hobbits,Unknown,1,0,Golden,Third Age
+Male,Azog,Orcs,Other,1,0,Other,Unknown
+Male,AzaghÃ¢l,Dwarves,Unknown,1,0,Unknown,First Age
+Male,Axantur,Men,Unknown,0,1,Unknown,Second Age
+Male,AulÃ«,Ainur,Unknown,0,1,Unknown,Unknown
+Male,Aulendil (Vardamir's son),Men,Unknown,1,1,Unknown,Second Age
+Male,Atanatar II,Men,Gondor,1,1,Unknown,Third Age
+Male,Atanatar I,Men,Gondor,1,1,Unknown,Third Age
+Male,Atanalcar,Men,Unknown,1,1,Unknown,Second Age
+Female,Arwen,Other,Other,1,1,Dark,Third Age
+Male,Arveleg II,Men,Arthedain,1,1,Unknown,Third Age
+Male,Arveleg I,Men,Arnor,1,1,Unknown,Third Age
+Male,Arvegil,Men,Arthedain,1,1,Unknown,Third Age
+Male,Arvedui,Men,Arthedain,1,1,Unknown,Third Age
+Male,Arthad,Men,Unknown,1,0,Unknown,First Age
+Male,Arminas,Elves,Unknown,0,0,Unknown,Unknown
+Female,Arien,Ainur,Unknown,0,0,Unknown,Unknown
+Male,Argonui,Men,Unknown,1,1,Unknown,Third Age
+Male,Argon,Elves,Unknown,1,0,Dark,Years of the Trees
+Male,Argeleb II,Men,Arthedain,1,1,Unknown,Third Age
+Male,Argeleb I,Men,Arthedain,1,1,Unknown,Third Age
+Female,Aredhel,Elves,Unknown,1,1,Dark,Years of the Trees
+Male,Ardamir (son of Axantur),Men,Unknown,0,0,Unknown,Second Age
+Male,Arciryas,Men,Unknown,0,1,Unknown,Third Age
+Male,Aravorn,Men,Unknown,1,1,Unknown,Third Age
+Male,Aravir,Men,Unknown,1,1,Unknown,Third Age
+Male,Araval,Men,Arthedain,1,1,Unknown,Third Age
+Male,Arathorn II,Men,Unknown,1,1,Dark,Third Age
+Male,Arathorn I,Men,Unknown,1,1,Unknown,Third Age
+Male,Aratan,Men,Other,0,1,Unknown,Second Age
+Male,Arassuil,Men,Unknown,1,1,Unknown,Third Age
+Male,Araphor,Men,Arthedain,1,1,Unknown,Third Age
+Male,Arantar,Men,Arnor,1,1,Unknown,Third Age
+Male,Araphant,Men,Arthedain,1,1,Unknown,Third Age
+Male,AranwÃ«,Elves,Unknown,0,1,Unknown,Unknown
+Male,Aranuir,Men,Unknown,1,1,Unknown,Third Age
+Male,Aranarth,Men,Unknown,1,1,Unknown,Third Age
+Male,Arahael,Men,Unknown,1,1,Unknown,Third Age
+Male,Arahad II,Men,Unknown,1,1,Unknown,Third Age
+Male,Arahad I,Men,Unknown,1,1,Unknown,Third Age
+Male,Aragost,Men,Unknown,1,1,Unknown,Third Age
+Male,Aragorn II Elessar,Men,Other,1,1,Dark,Unknown
+Male,Aragorn I,Men,Unknown,1,1,Unknown,Third Age
+Male,Araglas,Men,Unknown,1,1,Unknown,Third Age
+Male,Arador,Men,Unknown,1,1,Dark,Third Age
+Male,Ar-ZimrathÃ´n,Men,NÃºmenor,1,1,Unknown,Second Age
+Male,AngamaitÃ«,Men,Unknown,0,0,Unknown,Third Age
+Male,AndrÃ³g,Men,Unknown,1,1,Unknown,First Age
+Female,Andreth,Men,Unknown,1,1,Dark,First Age
+Male,Ancalagon,Dragons,Unknown,1,0,Unknown,Unknown
+Male,Anborn,Men,Unknown,0,0,Dark,Third Age
+Male,Anardil,Men,Gondor,1,1,Unknown,Third Age
+Female,AnairÃ«,Elves,Unknown,0,1,Unknown,Years of the Trees
+Male,Amrothos,Men,Unknown,0,0,Unknown,Third Age
+Male,Amroth,Elves,Other,1,1,Golden,Unknown
+Male,Amrod,Elves,Unknown,1,0,Dark,Years of the Trees
+Male,Amras,Elves,Other,1,0,Dark,Years of the Trees
+Male,Amlaith,Men,Arthedain,1,1,Unknown,Third Age
+Male,AmdÃ­r,Elves,Other,1,1,Unknown,First Age
+Female,AmariÃ«,Elves,Unknown,0,1,Unknown,Years of the Trees
+Male,Amandil,Men,Unknown,1,1,Unknown,Second Age
+Male,Alphros,Men,Unknown,1,0,Unknown,Third Age
+Female,Almiel,Men,Unknown,1,0,Unknown,Second Age
+Female,Ailinel,Men,Unknown,1,1,Unknown,Second Age
+Female,Almarian,Men,NÃºmenor,0,1,Unknown,Unknown
+Male,Algund,Men,Unknown,1,0,Unknown,First Age
+Male,Aldor,Men,Rohan,1,1,Unknown,Third Age
+Male,Aldamir,Men,Gondor,1,1,Unknown,Third Age
+Male,Alatar,Other,Unknown,0,0,Unknown,Unknown
+Male,Aglahad,Men,Unknown,1,1,Unknown,Third Age
+Female,Aerin,Men,Unknown,1,1,Unknown,First Age
+Male,Aegnor,Elves,Unknown,1,1,Golden,Years of the Trees
+Male,Adrahil II,Men,Unknown,1,1,Unknown,Third Age
+Male,Adrahil I,Men,Unknown,1,0,Unknown,Third Age
